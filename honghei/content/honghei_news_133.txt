@@ -1,0 +1,593 @@
+-----------------------------------------------------------0-----------------------------------------------------------
+0X0: 
+     [12.05]中国移动：明年之后停止大规模投资4G 
+
+12月5日消息，据新京报报道，中国移动近日透露明年将会是其规模投资4G建设的最后一年。
+TD-LTE 4G网络已正式商用一年，据统计目前中国移动到今年年底将建成TD-LTE基站70万座，在今年10月已提前完成2014年50万基站建设目标，同时TD-LTE终端数量也达到617款。
+中国移动称现在已建成全球规模最大的4G网络，目前国内几乎所有县级以上城市和发达乡镇都已经实现中国移动TD-LTE网络信号基本覆盖。
+按照中国移动的规划，2014年的整体投资规模将超过2400亿元，其中绝大部分都将用于4G建设。
+
+
+
+
+-----------------------------------------------------------1-----------------------------------------------------------
+0X1: 
+     [12.05]苹果iPhone6 Plus不负众望 
+
+
+市场研究机构Kantar Worldpanel公布的最新数据显示，今年9月份到10月份苹果首款平板手机iPhone6 Plus获取了美国大屏手机市场的41%。
+调查结果显示58%的iPhone6 Plus用户选择这款手机就是因为其大尺寸的显示屏。Kantar表示8月份到10月份平板手机销量占智能手机总销量的10%，相较于去年同期的2%有了很大的上涨。
+那么这对于安卓手机而言意味着什么呢？调查显示，iPhone6和iPhone6 Plus用户中，仅有9%的用户之前使用安卓手机，毕竟安卓厂商早就推出大尺寸手机，因此安卓用户对新款iPhone的大屏并不是特别感兴趣。
+苹果大屏iPhone6 Plus如今获得了美国大屏手机市场的一大部分，这也给三星、LG、谷歌和其他厂商带来了挑战。
+
+
+
+
+-----------------------------------------------------------2-----------------------------------------------------------
+0X2: 
+     [12.05]苹果iPhone7的竞争对手们遇到麻烦了 
+
+
+预计明年很多旗舰手机都会搭载高通810处理器，不过这些旗舰设备估计要推迟发布了。最新消息显示，高通810芯片组上的CPU出现了过热问题，这导致性能降低。
+不过这并非这款64位设备面临的唯一问题。除了CPU，Adreno 430 GPU据称由于驱动程序的错误也遇到了问题；此外，其RAM控制器也让高通很是头疼。
+这对于高通显然显然是个不小的麻烦，甚至有猜测认为这会导致生产延误。这显然也造成三星S6、LG G4和HTC One M9等旗舰手机生产的延迟，因为这些手机预计都会搭载高通810处理器。当然三星倒是可以选择自家的Exynos处理器，LG也可以使用自己的NUCLUN SoC，不过近期曾有消息称NUCLUN SoC存在缺陷。
+由此看来，苹果iPhone7的众多对手现在都遇到了麻烦。
+
+
+
+
+-----------------------------------------------------------3-----------------------------------------------------------
+0X3: 
+     [12.04]抢抢抢！巴黎城市域名两小时被抢注6600个 
+
+
+各家企业和热爱巴黎的人们12月2日在短短两小时内就抢注了6600个“.paris”互联网域名，远超预期。
+据法新社报道，巴黎市副市长让-路易・米西卡说，巴黎计划在未来两年卖出1万个域名，但目前看来似乎要超出这个目标。他说：“我们非常高兴，这是个了不起的开端。”
+在网址后加“.paris”域名的花费是一年39欧元，其中的40%至60%收归巴黎。
+米西卡说，这个域名让企业可以拥有一个“有影响力的品牌：巴黎”。
+“.paris”域名不仅仅是个空名，它可以让企业在移动设备上更容易定位，从而获得比竞争对手更大的优势。
+米西卡说：“今天，在网上搜索与法国相关的信息时，搜索引擎会给予‘.fr’域名更重要的地位。明天，当搜索与巴黎相关的信息时，‘.paris’域名无疑会脱颖而出。”
+巴黎是首个拥有自己互联网域名的法国城市，领导人们希望这样能控制网上重名的问题。
+
+
+
+
+-----------------------------------------------------------4-----------------------------------------------------------
+0X4: 
+     [12.04]2014岁末的三星：有人留下了，有人走了 
+
+12月4日消息，对于包括一众高层在内的三星职员来说，2014年末可能相当不好过。智能手机业绩大幅下滑导致此前一度有消息称三星三星电子联合CEO申宗均有可能失去联席执行长职位，不再负责移动业务，尽管随后申宗均和另外的两位联席CEO权五铉、尹富根都确认留任，但是现在有知情人士透露三位副职主管不出意外即将离职。
+据知情人士透露，将要离职的三位高层都是直接向部门主管申宗均报告的高管，其中包括三星全球营销主管D.J. Lee，这也证实了早前的一些报道。
+三星在2014年智能手机业务利润大幅下滑，业内一直有消息称三星已经考虑对管理层进行重组，甚至一度传出将有20%的高层将会被裁。近日三星为了集中精力全心发展智能手机业务，最终决定将非核心的光纤业务卖给了康宁。
+
+
+
+
+-----------------------------------------------------------5-----------------------------------------------------------
+0X5: 
+     [12.04]不要摔手机！支付宝要晒你的“十年账单” 
+
+12月4日消息，刚刚过去“双十一”，又要迎来“双十二”，你剁手了吗？手千万不要急着剁，因为12月8日你可能还会想要把手机摔了。
+今天支付宝官方发布通知：支付宝将在12月8日（下周一），推出“十年账单”。十年花多少，谁看谁知道。对于相当一部分连每个月的支付宝、信用卡账单都不敢看的朋友来说，太刺（xin）激（sai）了，有没有？
+来围观一下效果图，感受一下十年之前和十年之后的金钱与我们的距离。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/12/20141204_131429_797.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+网友精彩评论：
+前方高能预警！
+我跟你什么仇，什么怨？你要这样子整我！
+Windows Phone应该不怕不怕啦~再说了，你敢让诺基亚用户摔手机？
+
+
+
+
+-----------------------------------------------------------6-----------------------------------------------------------
+0X6: 
+     [12.04]苹果iPhone6供需仍难平衡：打了谁的脸 
+
+
+不知道还有多少人记得，iPhone6在发布之时――又或者说在真机多次曝光之时遭到了多方批评，“毫无特色”、“史上最丑iPhone”等形容词层出不穷。然而iPhone6上市之后，这种批评的声音越来越少，至今甚至在主流媒体当中找到一篇批评iPhone6或iPhone6 Plus“没有特色”的文章，因为这两款手机已经通过市场表现让所有曾经看衰的人闭上了嘴。
+运营商见证iPhone6的“热”
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/12/20141204_134830_711.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+iPhone6和iPhone6 Plus的在线发货时间已经越来越短，但我们需要注意的是，这两款手机的发货时间调整是即将进入黑色星期五才开始的。自从9月份上市至11月下旬，消费者想要通过苹果官网的在线渠道购买iPhone6和iPhone6 Plus至少需要等待7-10个工作日。除了在线渠道之外，运营商的数据也反应了iPhone6/6 Plus在市场上的热度。
+在中国大陆，中国移动、中国联通和中国电信三家运营商开启iPhone6/6 Plus预订之后的6个小时即收到200万台订单，这个数字是iPhone6/6 Plus在首批地区上市3天后销量的1/5。仅仅是中国联通一家运营商，2小时的预订量就达到60万台。甚至在三星电子的大本营韩国，iPhone6/6 Plus通过运营商上市之后也遭到了当地消费者的疯抢，有分析预测其销量是Galaxy Note 4的3倍之多。
+美国四大运营商之一T-Mobile曾公布，iPhone6和iPhone6 Plus上市初期，其销量占据整个公司智能手机销量的一半以上。最夸张的是日本，按照不同运营商和不同型号，iPhone6/6 Plus自从上市至今一直是最畅销的智能手机，而且在前10名当中至少占据5个名额。
+苹果为购物季加快发货
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/12/20141204_134951_435.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+黑色星期五是西方购物季开始的信号，苹果也在这一个界点加快了iPhone6和iPhone6 Plus的在线发货速度。按照目前苹果在线商店的最新数据，这两款手机的最快发货时间已经缩短至3-5个工作日，不过128GB型号仍然非常缺货。想要做到供求平衡，也就是发货时间在24小时之内，苹果仍然还有一段路要走。
+值得的一提的是预约自提。以中国大陆为例，自从国行iPhone6/6 Plus上市之初苹果就在每天早上8时开启预约服务，但也是直到黑色星期五之前大多数人才开始通过这一个渠道预约到iPhone6和iPhone6 Plus。因为在此之前，苹果开启预约服务半个小时之内所有的国内苹果零售店都已经没有存货，只有手快者才有可能在第一时间预约成功。
+经过一个半月的调整之后，中国大陆苹果零售店的iPhone6/6 Plus的紧张库存问题已经有所缓解，苹果也在官网上明确表示“部分机型已有现货，先到先得”。
+二手价比原价贵，你敢信？
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/12/20141204_135039_311.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+库存问题有所缓解即意味着急于入手的消费者不必再花高价去二手市场购买iPhone6或iPhone6 Plus。在这两款手机供应问题最严重期间，iPhone6和iPhone6 Plus的二手价格甚至高于苹果官网的定价。以美国地区为例，iPhone6 Plus上市6周之后其二手价仍然达到原价的124%。
+根据投资机构Piper Jaffray公布的数据，iPhone6 Plus上市的前6周，其二手价一直都高于原价，最高时（第二周）甚至达到原价的145%。iPhone6的情况稍好，进入第三周之后的二手价就开始低于原价，不过在供应问题最严重的第一周，其二手价也曾一度达到原价的115%。
+iPhone5c和iPhone6 Plus分别是去年和今年的“旗舰附带机”，而且这两款手机和旗舰机的销量比也非常相近，但是其市场价值差距也非常大。因为同样是上市6周之后，iPhone5c的二手价只剩下原价的77%。正是因为iPhone6――尤其是iPhone6 Plus的供货困难，有消息称苹果已经增加了组装伙伴，以此减轻富士康独家供应iPhone6 Plus的压力。
+“钱”途无限
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/12/20141204_135140_763.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+正是因为iPhone6/6 Plus超强的市场推动力，iPhone在很多地区的市场占有率都得到了提升。Kantor Worldpanel在一份最新报告中指出，在截至10月31日的前三个月时间里，iPhone在英国智能手机市场的占有率已经提升至40%，而去年同期的数据只是将近30%。除了英国之外、欧洲多个国家和地区、美国和澳大利亚等地的iPhone市占率都有所提升。
+知名分析师郭明池曾经发表了一篇让很多人惊讶的预测报告，其称iPhone在今年圣诞季度的销量可达到7150万台。无论这个数据最终能否实现，郭明池敢于提出这样一个观点也证明了这名分析师对iPhone6强大市场推动力的肯定。另一方面，台湾媒体援引供应链的消息称iPhone6和iPhone6 Plus的圣诞季销量可突破5000万台。
+上个月底苹果股价连续打破纪录，iPhone6/6 Plus在市场上的超高人气自然是原因之一。苹果公司的资本总市值曾经一度超过7000亿美元，成为前无古人的上市企业。在今年的圣诞季度过后，iPhone6/6 Plus的市场魅力将会进一步将苹果推向万亿美元市值的高峰。
+
+
+
+
+-----------------------------------------------------------7-----------------------------------------------------------
+0X7: 
+     [12.04]2499元，12月6日魅族MX4 Pro上市详情公布 
+
+12月4日消息，上个月中下旬，2499元的魅族MX4 Pro正式发布。按照计划，该智能手机将于12月6日正式开卖。日前魅族官方公布了该机上市详情。
+魅族MX4 Pro将在全国14个城市首发上市（详见文末名单），在12月6日当天魅族官网在线商店也将按照预定用户的付款顺序进行发货，同时再次开启全款预定，预计两周内发货。天猫、京东、苏宁易购、1号店、拍拍在当日也将限量发售该机。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/12/20141204_122003_882.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+魅族MX4 Pro是全球首款支持正面按压式指纹识别功能的Android手机，配置上采用5.5英寸2560*1536分辨率显示屏，搭载三星Exynos 5430八核处理器，辅以3GB内存，配备2070万像素摄像头，配备3350毫安时电池，支持第二代NFC和移动联通双4G网络。
+首发门市信息：
+[北京]
+北京朝阳大悦城认证店
+[沈阳]
+沈阳华强广场认证店
+[长沙]
+长沙步行街南门口认证店
+[上海]
+黄浦福建中路中华名品街认证店
+上海四川北路认证店
+[广州]
+广州中华广场四楼认证店
+广州壬丰大厦认证店
+广州恒宝广场认证店
+[深圳]
+深圳万商电器城认证店
+深圳远望数码商城认证店
+深圳市南山区海岸城215号认证店
+深圳龙岗天虹认证店
+[南京]
+南京珠江路未来城认证店
+[南昌]
+南昌万达广场认证店
+[武汉]
+武汉光谷步行街认证店
+[杭州]
+杭州武林门认证店
+[成都]
+成都青羊区太升南路81号认证店
+[重庆]
+重庆沙坪坝三峡广场认证店
+[西安]
+西安北大街认证店
+[济南]
+济南泉城路认证店
+
+
+
+
+-----------------------------------------------------------8-----------------------------------------------------------
+0X8: 
+     [12.04]“国产”iPhone6无止境，这次是小霸王SUBOR X7i 
+
+12月4日消息，当众多的国产手机厂商在纷纷拼配置、拼价格的时候，小霸王则在仿iPhone的道路上玩的其乐无穷。前段时间，小霸王悄悄开卖了一部高度仿iPhone6造型的小霸王X7。可能觉得仿一次不过瘾，小霸王又推出了一款小霸王X7i，这次，依旧跟iPhone6一模一样。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/12/20141204_120253_203.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/12/20141204_120241_912.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/12/20141204_120232_930.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/12/20141204_120351_897.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+近日，小霸王X7i现身工信部，根据工信部公布的数据显示，该机机身尺寸为136×65.8×7.6(mm)，重量为135g，分黑白两色；支持GSM、TD-SCDMA两种制式；配备了分辨率为540*960的4.5英寸屏幕；1.3GHz的四核处理器，1GB内存，8GB内置储存，500万的后置摄像头和30万的前置摄像头，运行Android 4.2.2系统。
+根据之前小霸王X7的配置和价格，该机的售价应该也在700元左右。
+
+
+
+
+-----------------------------------------------------------9-----------------------------------------------------------
+0X9: 
+     [12.05]英特尔发布开源通信系统：为霍金量身打造 
+
+
+
+英特尔发布开源通信系统：为霍金量身打造
+
+
+
+
+
+=700) window.open('http://i3.sinaimg.cn/IT/2014/1203/U9888P2DT20141203052000.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >英特尔为霍金量身打造通信系统
+
+
+
+-----------------------------------------------------------10-----------------------------------------------------------
+0X10: 
+     [12.04]推荐7款超棒的单页面网站设计模板。免费！ 
+
+
+
+推荐7款超棒的单页面网站设计模板。免费！
+
+
+
+
+今天我们推荐的这7套单页面网站设计模板不仅带有单独的在线演示，并且全部免费下载！
+
+响应式的单页面网站模板 - Brushed
+=700) window.open('http://img0.tuicool.com/36fEje.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在线演示本地下载
+Brushed是一款单页面的响应式HTML模板，基于Twitter Bootstrap框架，针对Retina屏幕（iphone，ipad，ipod touch和Macbook）优化。非常适合作为工作室，数字媒体和创意人群使用。提供了非常酷的方式来展示你的项目和成果。基于HTML5/CSS3，同时兼容老款浏览器。商业和个人使用免费。
+一款jquery单页面滚动插件 - One Page Scroll
+=700) window.open('http://img1.tuicool.com/buU3Yf.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在线演示本地下载
+单页面滚动条被广泛使用多年，它可以快速的帮你找到需要的信息。它只需要建立你的HTML结构，调用函数即可。非常简单方便。
+单页面网站滚动效果
+=700) window.open('http://img2.tuicool.com/Vzeqai.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在线演示1在线演示2在线演示3本地下载
+快速的滚动效果，带有自动演示下载。非常实用！
+超棒的暗色系单页面网站模板 - 个人简历模板
+=700) window.open('http://img0.tuicool.com/2imiYz7.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在线演示1本地下载
+简历是一个面试官对应征者的第一印象，一份精心设计过的简历绝对可以为你大大加分！这款个人简历模板拥有一个固定fixed的导航条，并且可以支持滚动导航。总有一款适合你！
+单页面的网站线框设计 - One Page Website Wireframes
+=700) window.open('http://img1.tuicool.com/qimU7r.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+本地下载
+应用一句当前比较流行的话来说，就是简约但绝不简单。
+免费的单页面响应式模板 - Legend
+=700) window.open('http://img2.tuicool.com/36fqym2.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在线演示1本地下载
+Legend是一个免费的单页面响应式模板，适合于不同类型的网站开发。基于twitter的bootstrap设计。你可以用它来制作一个用户访问页面，在线的作品集展示，或者商用模板等等。
+
+
+
+
+
+-----------------------------------------------------------11-----------------------------------------------------------
+0X11: 
+     [12.04]用CSS美化你的滚动条 
+
+
+
+用CSS美化你的滚动条
+
+
+
+
+本文将会告诉你如何用CSS修改/美化浏览器页面上出现的滚动条。改变它们的颜色，调整它们的外形，适配你对页面UI设计。我们首先将会看看谷歌(Webkit)浏览器提供了哪些CSS属性，最后，还将介绍如何用jQuery支持其它类型的浏览器。
+
+各种浏览器对CSS滚动条的支持情况
+
+
+
+这里说的Webkit浏览器包括谷歌浏览器，苹果公司的Safari浏览器，以及最新的Opera浏览器。这些浏览器加起来占有超过半数的桌面浏览器市场份额。对于移动端浏览器，基本上是谷歌浏览器和Safari浏览器的天下。唯一的遗憾是火狐浏览器，至今没有对CSS滚动条属性做任何的改进。至于IE浏览器，我们期待吧。
+鉴于目前浏览器市场的格局，我们很有信心相信CSS滚动条美化功能会有很好的很光明的前景。
+观看演示
+
+滚动条会出现在哪些地方
+
+
+
+在真正开始对CSS滚动条的讲解之前，先让我们做一个简单的演示页面；一个含有滚动条的页面。滚动条通常会出现在这些地方：浏览器边框，当页面内容超过浏览器视窗大小textarea ，内容过多时iframediv 或任何 block 元素，当它们的被设定成 overflow 属性时。
+对于我们的演示页面，使用的HTML代码是下面这些：&ltdiv class=&quotcontainer&quot&gt&ltp&gtLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus tortor eget orci fringilla non semper magna aliquet. Aliquam convallis elit sem. Proin fringilla fermentum pretium. Phasellus id nisl eu eros convallis eleifend. In hac habitasse platea dictumst. In at felis massa. Maecenas vitae quam non elit porta pellentesque ac in erat. Nullam a ante felis, ullamcorper suscipit felis. Maecenas sit amet nisl mattis ipsum ullamcorper aliquam vitae sed sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.&lt/p&gt&ltp&gtSed sed tellus dolor, non lobortis felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In eget nisl viverra risus feugiat vulputate tempus et leo. Nam metus nibh, tristique non sodales non, interdum et neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed imperdiet aliquet vestibulum. Curabitur viverra tortor augue, a aliquet tellus. Vivamus eu felis vel lorem tincidunt imperdiet. Fusce iaculis luctus convallis. Proin adipiscing malesuada enim, et feugiat tortor sagittis eu. Cras convallis felis eu leo tempus et fermentum urna accumsan. In quis metus at metus ultricies fringilla. Maecenas sed lacus aliquam nibh semper dignissim et quis est.&lt/p&gt&ltp&gtPraesent sodales, sapien sit amet congue egestas, sem ligula ornare massa, vitae suscipit felis ligula quis velit. Phasellus lectus massa, sodales ac vulputate ac, pharetra quis lacus. Morbi tempus pretium nisi sed pretium. Pellentesque dictum volutpat vulputate. Fusce dapibus sagittis felis, ut consequat nisi posuere id. Cras elit orci, vehicula in sagittis a, faucibus vitae dui. Nunc non lorem in metus adipiscing adipiscing non a sapien. Sed dictum ultrices nibh in tristique. Nulla dapibus laoreet tincidunt. Sed accumsan erat quis mi luctus porta.&lt/p&gt&ltp&gtSed mollis justo enim, ut pharetra nunc. Fusce vehicula viverra magna, et fringilla lectus porta quis. Donec eu fermentum mi. Donec congue pellentesque iaculis. Phasellus est leo, cursus eget consectetur in, tristique sit amet tortor. Cras eleifend felis sit amet eros vehicula aliquet. Pellentesque fringilla metus in libero luctus eu condimentum nulla pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam consequat sodales lorem, nec dignissim turpis pharetra et. Nullam commodo hendrerit elementum. Donec porta faucibus ligula non blandit. In ultrices vehicula pretium.&lt/p&gt&ltp&gtSed ac sagittis sapien. Curabitur varius pellentesque nunc eget molestie. Vivamus in massa arcu, ut auctor tellus. Aliquam convallis lobortis magna, ut posuere odio euismod ac. Vestibulum in enim vitae metus vulputate interdum. Mauris a risus auctor nunc fermentum dapibus. Proin iaculis, nunc ut viverra varius, augue augue porta libero, id viverra nisl elit in mauris. Aenean quis risus ante. Donec bibendum erat a sem vestibulum eu aliquet lectus tincidunt. Vivamus imperdiet congue leo, non ultricies urna sodales sed. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla vitae rhoncus dui. Nunc in nisi in ante imperdiet tincidunt sagittis eu ipsum. Aenean orci justo, faucibus placerat tincidunt vitae, vehicula at libero.&lt/p&gt&lt/div&gt
+其实只有一个 div 元素，但因为有太多的内容而出现滚动条。我们给它最初的CSS样式是固定高度和宽度，使它出现横向和纵向滚动条，CSS代码是这样的：.container {width: 400pxheight: 300pxbackground-color: #DCDCDCoverflow: scroll /* 让它显示滚动条 */}
+它的原始显示效果大概是这个样子：
+=700) window.open('http://img0.tuicool.com/F3Ub2u.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+用CSS美化滚动条
+
+
+很多年前谷歌浏览器就已经开始支持对滚动条的CSS美化。这些Webkit浏览器专属的CSS属性需要使用 -webkit- 浏览器引擎前缀，我们在这里将只会使用一些基本的CSS滚动条属性，在代码里会增加一些必要的解释说明。::-webkit-scrollbar {width: 15px} /* 这是针对缺省样式 (必须的) */
+
+当CSS中出现伪元素样式时，Webkit引擎将会关闭它的缺省滚动条样式输出，只使用CSS里提供的样式信息。 � Surfin’ Safari
+这里是其它一些伪元素样式：::-webkit-scrollbar-track {background-color: #b46868} /* 滚动条的滑轨背景颜色 */::-webkit-scrollbar-thumb {background-color: rgba(0, 0, 0, 0.2)} /* 滑块颜色 */::-webkit-scrollbar-button {background-color: #7c2929} /* 滑轨两头的监听按钮颜色 */::-webkit-scrollbar-corner {background-color: black} /* 横向滚动条和纵向滚动条相交处尖角的颜色 */
+如果你对这里为什么会使用双引号标注伪元素，请看《 理解:Before和:After伪元素》里的讲解。
+加上了这些CSS属性，你将会看到下面的效果(再次提醒：你需要使用Webkit浏览器，比如谷歌浏览器才能看到效果)。
+=700) window.open('http://img1.tuicool.com/6rAVva.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+IE浏览器有自己的滚动条CSS属性！
+
+
+你可能会感到意外，IE浏览器是最早的一个支持滚动条外观CSS自定义的浏览器。早在IE5.5版时就支持，但仅支持颜色的改变。
+这些属性今天仍然是延用的；看看这IE9里的演示效果：body {scrollbar-face-color: #b46868}
+将会是下面这个样子：
+ =700) window.open('http://img2.tuicool.com/nEzi6j.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+兼容支持非Webkit浏览器
+
+谷歌浏览器的用户是最幸福的。但我们也不能放弃火狐浏览器和IE浏览器用户。对于这些浏览器，有一个非常有效的补救方案，就是使用javascript插件。网上有不少人推荐一个由 Kelvin Luck 开发的一个jQuery插件： jScrollPane 。但也有人评论这个插件是“PITA”，我翻了一下字典，发现“PITA”中文意思是“让人蛋疼”。经过试用，感到它的确是让人蛋疼。不推荐使用它。我发现了另外一个插件 malihu-custom-scrollbar-plugin ，感觉相当不错，它的用法是：&ltlink rel=&quotstylesheet&quot href=&quotjs/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css&quot&gt&lt!-- latest jQuery direct from google's CDN --&gt&ltscript type=&quottext/javascript&quot src=&quotjs/jquery-1.11.1.min.js&quot&gt&lt/script&gt&ltscript type=&quottext/javascript&quot src=&quotjs/jquery-migrate-1.2.1.min.js&quot&gt&lt/script&gt&ltscript src=&quotjs/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js&quot&gt&lt/script&gt&ltscript&gtif (!$.browser.webkit) { $.mCustomScrollbar.defaults.scrollButtons.enable=true //enable scrolling buttons by default$.mCustomScrollbar.defaults.axis=&quotyx&quot //enable 2 axis scrollbars by default$(&quot.container&quot).mCustomScrollbar({theme:&quotdark&quot})}&lt/script&gt
+火狐浏览器中的效果截图：
+=700) window.open('http://img0.tuicool.com/UnM3Yri.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+观看演示
+
+总结
+
+
+
+已经有很多网站都使用了这些滚动条的CSS美化技巧，特别是谷歌的一些应用和网站上，比如Gmail和Google+。相信很快火狐浏览器和IE浏览器也会提供自己的解决方案。如果你在使用滚动条的CSS美化上有非常漂亮的例子，请留在评论里供大家欣赏，谢谢。
+
+
+
+
+
+-----------------------------------------------------------12-----------------------------------------------------------
+0X12: 
+     [12.04]10款响应式 jQuery实现图片效果插件 
+
+
+
+10款响应式 jQuery实现图片效果插件
+
+
+
+
+摘要: 1.基于jQuery实现的汇图网大屏焦点图效果 汇图网大屏jQuery焦点图代码，可设置切换模式，如淡入淡出切换，左右滚动切换，上下滚动切换，可设置是否自动轮播，可设置鼠标划过是否停止播放等。在线演示 源码下载2.HT ...
+1.基于jQuery实现的汇图网大屏焦点图效果
+汇图网大屏jQuery焦点图代码，可设置切换模式，如淡入淡出切换，左右滚动切换，上下滚动切换，可设置是否自动轮播，可设置鼠标划过是否停止播放等。
+=700) window.open('http://img0.tuicool.com/NBzuia.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在线演示 源码下载
+2.HTML5基于SVG实现的过山车动画特效
+今天我们要分享一款很酷的HTML5/SVG动画，这款HTML5动画是过山车效果，主要是利用了SVG的path动画来实现的，整体动画效果流畅自然，效果非常酷。
+=700) window.open('http://www.html5cn.org/data/attachment/portal/201412/03/113259rwxdtkrqyx96wk4j.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在线演示 源码下载
+3.jQuery实现苹果官网页面上下滚动全屏效果
+这是一款基于jQuery实现的仿苹果官网页面上下滚动全屏效果源码，鼠标滑动页面上下翻页即可看到网站页面的全屏滑动效果，画面过度自然，效果流畅。整体效果非常大气华丽！是jQuery单页/全屏滚动插件onepage-scroll的一个经典应用实例。
+=700) window.open('http://www.html5cn.org/data/attachment/portal/201412/03/113358p6kz6tttl2k3bz63.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在线演示源码下载
+4.基于jQuery实现的分类选择座椅产品展示效果
+jQuery分类选择座椅产品展示代码是一款点击可展示查看座椅的各个部位特效代码。
+=700) window.open('http://www.html5cn.org/data/attachment/portal/201412/03/113517mwkpainzhmvmvt86.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在线演示源码下载
+5.基于jQuery实现的数字摇奖**效果
+jQuery数字摇奖**效果，界面很漂亮，数字全是图片构成，摇奖的数字是随即生成，能直接显示在页面上面。
+=700) window.open('http://www.html5cn.org/data/attachment/portal/201412/03/113556bs766o0jbyb1eire.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在线演示源码下载
+6.jquery模仿flash实现的flash动态效果banner广告
+jquery模仿flash实现的flash动态效果banner广告源码，是一段可以实现逐渐跳出的图片代码，此段代码非常适合广告宣传使用。
+=700) window.open('http://www.html5cn.org/data/attachment/portal/201412/03/113650pynp7sh7u46ohy46.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在线演示 源码下载
+7.Swipebox：用于触屏设备的精美 jQuery Lightbox 插件
+Swipebox 是一款可触摸的 jQuery 灯箱效果插件，可用于桌面，移动和平板电脑。它移动设备支持滑动手势导航，桌面电脑上可以用键盘导航，不支持 CSS3 过渡特性的浏览器使用 jQuery 降级处理，支持视网膜显示，能够通过 CSS 轻松定制。
+=700) window.open('http://www.html5cn.org/data/attachment/portal/201412/03/113737z53fg5sis8jjxh3f.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在线演示源码下载
+8.CSS 3D Transforms 实现书本效果
+这个使用 CSS 3D Transforms 实现创意书本效果的来自 Codrops 网站。你可以看到两种类型的书设计：精装书和平装书。这两个效果都可以很容易地使用 CSS 修改。赶紧体验一下吧。
+=700) window.open('http://www.html5cn.org/data/attachment/portal/201412/03/11381998nza79vt7cnvtba.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在线演示源码下载
+9.不用图片和JS也可创建绚丽的动态CSS3菜单
+该教程，我们将讨论CSS3的一些新功能和新特性，并教你在不使用图片和JavaScript的情况下，如何制作酷炫的圆形导航菜单。该实例将用到CSS3的新特性： border-radius和animation。
+=700) window.open('http://www.html5cn.org/data/attachment/portal/201412/03/113903uwu7ueem70ge8n07.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在线演示源码下载
+10.S Gallery � 很有特色的响应式 jQuery 相册插件
+ S Gallery 是一款响应式的 jQuery 相册插件。使用了 HTML5 全屏 API 以及 CSS3 动画 和 CSS3 转换，所以只能在支持这些功能的浏览器中使用。这款插件它有一个特色功能：退出幻灯片模式回到网格视图模式，最后一张活跃的图片会以动画形式回到网格视图中的初始位置，因此用户知道他们浏览到画廊中的哪张图片上。
+
+
+
+
+
+-----------------------------------------------------------13-----------------------------------------------------------
+0X13: 
+     [12.04]又换了一批门外汉掌权，PPTV是在花样作死 
+
+
+
+又换了一批门外汉掌权，PPTV是在花样作死
+
+
+
+
+近几年，视频行业一直处于激烈竞争局面，最近，搜狐又出手收购56，小米3亿美金投资爱奇艺，让视频行业再度兴起一股洗牌潮。然而PPTV原班人马几乎全部离职，让原本就底子薄弱的PPTV雪上加霜。
+
+=700) window.open('http://www.tmtpost.com/wp-content/uploads/2014/12/141753755086.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+近几年，视频行业一直处于激烈竞争局面。收购、巨额注资等情况几乎屡见不鲜。但就在业内人士认为大局已定的当下，搜狐又出手收购56，小米3亿美金投资爱奇艺，让视频行业再度兴起一股洗牌潮。但就在这群雄力争上游的档口，PPTV却“拖了后腿”。
+近日，PPTV高层再度大换血，经苏宁方面证实，吕岩将带领其他多名联想系高管离职，苏宁云商副总裁范志军将代替吕岩出任PPTV第三任CEO。与此同时，苏宁高管近期也将陆续接管原联想高管并负责PPTV的日常运营。这一变动，或将直接决定PPTV再无力重返视频行业的一线阵容。
+大换血 PPTV高层变动从未停息
+事实上，这并不是PPTV高层的第一次大换血。究其最初，还要溯源到去年10月份。当时苏宁和联想控股共同投资4.2亿美元入股PPTV，苏宁以44%的持股比例成为PPTV第一大股东，联想控股旗下的弘毅投资持股29.9%成为第二大股东。随后，在今年3月份，PPTV创始人兼CEO陶闯在内，包括原负责多终端业务、市场营销、国际事业部等诸多高管先后离职。联想系高管吕岩出任PPTV CEO，弘毅投资总裁、联想控股副总裁赵令欢担任董事长。伴随着这次人事调整，多名联想系高管空降PPTV。
+可见，PPTV的原班人马的表现并不能让董事会和股东满意，其调整步伐还是太慢。并没有和苏宁云商以及联想之间有太多互动，距离预期效果相差甚远。但没想到的是，联想系的高管同样未能力挽狂澜，高层的大换血事件再次发生。
+门外汉掌权 PPTV复兴困难
+一年时间，两次高层大变动。每次都是直接从PPTV的最高职位“开刀”，并引起诸多管理层职位风云突变，这在国内视频行业还是很罕见的。那些勾心斗角的事暂且不提，但大换血就能立刻让PPTV“草鸡变凤凰”？我看未必。
+PPTV原班人马几乎全部离职，原因就在于按照视频行业的思路制定发展战略，这显然与苏宁想打通其和PPTV之间的通道，抢占互联网多屏入口有着定位上的差异。随后联想系高管的登台，也未能打开这个症结。如今，苏宁云商终于按捺不住，凭借自己第一大股东的身份，将自己麾下的大将调任至PPTV最高管理层，开始按照自己的心意和利益进行战略上的改变。
+具体来说，就是苏宁想通过PPTV的内容资源，将苏宁电商植入各大智能终端，凭借二者的融合，让苏宁电商成为堪与阿里巴巴、京东媲美的电商。但想象是美好的，现实是残酷的。即使是苏宁麾下的大将来负责PPTV的业务，基本也不能如愿。因为电商与视频网站之间还是有很大区别的，隔行如隔山的老话将会印证，空将对视频业务毫不熟悉的高管只会将原本井井有条的事情弄得一团糟。苏宁是在赌，但赌注实在太大，复兴之路或许遥遥无期。
+“底子”薄弱 PPTV或逐渐掉队
+在视频客户端称霸的年代，PPTV、PPS、暴风影音等都是视频行业当之无愧的王者。无论下载量、点击率、广告销售额等都处在前列位置，比现在的搜狐视频、爱奇艺等要火爆的多。但随着网页端和移动端的兴起，以客户端起家的视频网站开始衰败。PPS被爱奇艺收购，暴风影响则沦落到三线阵营。至于PPTV，同样遭受到被收购的命运，高层也一再动荡不止。
+反映到实际中，PPTV同样在市场中处境尴尬。据数据显示，2014年9月中国网络视频网站PC端活跃用户数优酷排名第一，为14599.60万；搜狐视频排名第二，活跃用户13486.77万。而PPTV仅排名第七，活跃用户仅为7962.12万。在移动端，优酷排名第一，搜狐视频排名第二，PPTV则排名第六――仅1922.74万，不到优酷6023.95万的三分之一。
+原本PPTV的底子就比较薄弱，在版权大战中烧钱力度不敌爱奇艺、乐视、腾讯视频等，在原创内容上更难望优酷、搜狐视频项背。只能凭借原先积累的内容，和一些视频行业都在玩的基本模式苦苦支撑，几乎没有太多新意和亮点。由此，其当下只能在视频行业的中下游徘徊。
+PPTV聚力管理委员会主席范志军很想“新官上任三把火”，董事会相信，要在激烈的视频行业竞争中提升地位，赢得市场，必须要加大对PPTV聚力的支持，从战略到组织，从资源到人才，都必须全方位的投入。
+但在视频行业，投入只是一方面，更何况其投入力度能和腾讯视频、爱奇艺等背靠大金主的视频网站媲美吗？如果还是按当前模式走下去，PPTV或许将会逐渐掉队。
+
+
+
+
+
+-----------------------------------------------------------14-----------------------------------------------------------
+0X14: 
+     [12.04]老罗，过去的六个月里你做错了些什么 
+
+
+
+老罗，过去的六个月里你做错了些什么
+
+
+
+
+
+=700) window.open('http://leiphone.qiniudn.com/uploads/new/article/600_600/201412/547e83d3b5382.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------15-----------------------------------------------------------
+0X15: 
+     [12.04]数据显示谷歌首超苹果 雄占美国教育市场 
+
+
+
+数据显示谷歌首超苹果 雄占美国教育市场
+
+
+
+　【环球科技综合报道】据英国?金融时报?11月30日报道，美国众多教育机构开始大量为学生购买谷歌chromebook 笔记本电脑为学生提供更好的教学服务，而谷歌chromebook因其物美价廉，操作简单则成为教育届流行设备的新宠，首次超越同类服务产品ipad，夺得美国教育市场桂冠。
+　　市场研究公司IDC 表示，今年第三季度美国众多学校从谷歌公司购买低价Chromebooks笔记本电脑，数量惊人，达715,500台，而从苹果公司购买的ipad 达702,000台，虽数量也很可观，但较谷歌仅shou价199美元的 Chromebooks笔记本电脑，销量依然欠佳。
+　　这就意味着，谷歌打破苹果在教育市场一统天下的局面，成为教育界新生宠儿。美国教育市场潜力大，财富充沛，一直以来都是硬件制造公司为赢取下一代莘莘学子(公司称其为消费者)而摩拳擦掌、竞相争霸的擂台。之前搭载数十年之久，始于iPada和 Chromebooks的微软产品表现最佳，受到学生们的热宠，但是学生现在越来越倾向于更廉价的产品。
+　　全球著名的信息技术、电信行业和消费科技市场咨询、顾问和活动服务专业提供商IDC高级研究分析师拉贾尼辛格(Rajani Singh)表示，谷歌的Chromebooks在这方面正投其所好，来势重重的Chromebooks给苹果ipad 构成了严重的挑战。(实习编译：宋国庆 审稿：赵小侠)
+
+
+
+
+
+-----------------------------------------------------------16-----------------------------------------------------------
+0X16: 
+     [12.04]Foxmail 7.2更新 新增Gmail日历导入 
+
+
+
+Foxmail 7.2更新 新增Gmail日历导入
+
+
+
+
+作者：马荣
+　　Foxmail日前升级到了7.2.6.37版本，新版本新增了Gmail日历导入功能，并支持CalDav协议，此外还优化了兼容性与稳定性。
+=700) window.open('http://i1.sinaimg.cn/IT/cr/2014/1203/1238606701.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------17-----------------------------------------------------------
+0X17: 
+     [12.04]乔布斯最经典的10封电子邮件 
+
+
+
+乔布斯最经典的10封电子邮件
+=700) window.open('http://i2.sinaimg.cn/IT/2014/1202/U10168P2DT20141202222511.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >史蒂夫・保罗・乔布斯(新浪科技配图)
+
+
+
+-----------------------------------------------------------18-----------------------------------------------------------
+0X18: 
+     [12.04]7款相见恨晚的Web框架 送给HTML5开发人员 
+
+
+
+7款相见恨晚的Web框架 送给HTML5开发人员
+
+
+
+
+
+
+毋庸置疑，HTML5已经改变了我们的percieve在线网站、应用程序和内容。它是如此的先进，以至于许许多多的浏览器期望使用上HTML5的最新功能，然而这需要很长时间来计划以及实施。如果你之前有与网络相关的脚本经验，那么学习HTML5可能并不是一件非常难的事情。
+然而，试图找到最完美的HTML5 Web框架是一件非常困难的事情。今天小编就为大家推荐几款应用比较广泛的Web框架，希望对各位HTML5开发人员有一定的帮助。让我们一起来看看吧！
+Ionic
+=700) window.open('http://img0.tuicool.com/aA3IZf.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Ionic是一个前端的框架，帮助开发者使用HTML5、 CSS3和JavaScript做出原生应用。有了它，开发者可以使用HTML5做出原生应用的感觉。原生应用通常跑起来会更快、更平稳，带给用户的体验也更出色。然而Web设计者/开发者也一直在寻找着一种工具，将原生应用的体验带到Web技术中。Ionic就是你要找的前端的框架！
+网址： http://ionicframework.com/
+Modernizr
+=700) window.open('http://img1.tuicool.com/NVbQvi.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Modernizr是一个开源的JS库，它使得那些基于访客浏览器的不同（指对新标准支持性的差异）而开发不同级别体验的设计师的工作变得更为简单。它使得设计师可以在支持HTML5和CSS3的浏览器中充分利用HTML5和CSS3的特性进行开发，同时又不会牺牲其他不支持这些新技术的浏览器的控制。
+Modernizr是基于渐进增强理论来开发的，所以它支持并鼓励开发者一层一层的创建他们的网站。一切从一个应用了Javascript的空闲地基开始，一个接一个的添加增强的应用层。因为使用了Modernizr，所以你容易知道浏览器都支持什么。
+网址： http://modernizr.com/
+Initializr
+=700) window.open('http://img2.tuicool.com/FBrABvE.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Initializr 是一个 HTML5 模版生成器，帮助用户快速开始基于 HTML5 模版文件的新项目，它可以生成自定义的干净的模版。开发者可以选择功能、样本库和任何应该包括的部分。你可以在不到2分钟来生成一个模板。
+网址： http://www.initializr.com/（墙外）
+Sencha
+=700) window.open('http://img0.tuicool.com/jENJz2f.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Sencha是能够吸引巨额投资的罕见的HTML5框架，它主要是用以提升主流移动设备在浏览器上的触碰操作，增强用户体验。该框架以久负盛名的Ext JS客户端框架为基础，并支持最新的HTML5和CSS3标准，与流行的Apple iOS和Andriod设备兼容。
+网址： http://www.sencha.com/
+MontageJS
+=700) window.open('http://img1.tuicool.com/QNV7zm.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+MontageJS是一个现代化，完整的HTML5的框架，旨在创建单页的应用程序。MontageJS 可以帮助您构建高可扩展性和可维护性的 HTML5 应用。有了 MontageJS，开发人员可以创建可重用的用户界面组件和模块，组件和控制器之间的绑定属性，并且同步 DOM 查询和更新，以确保流畅的用户体验。
+网址： http://montagestudio.com/montagejs/
+SproutCore
+=700) window.open('http://img2.tuicool.com/FRfMZj.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+SproutCore的是基于网络的创新用户体验的开源框架。它具有令人难以置信的速度，这意味着没有更短的页面渲染时间。同时利用最新的Web技术和规范，具有良好的可访问性。同时Sproutcore 提供大量的高性能应用包括MobileMe等，并且拥多个UI框架、标准MVC架构及完整友好的文档。
+网址： http://sproutcore.com/
+Brunch
+=700) window.open('http://img0.tuicool.com/maMNJn.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Brunch是构建HTML5非常迅速的一个工具，这样的构建同时还可以避免生成的配置文件大于项目本身。
+网址： http://brunch.io/
+
+
+
+
+
+-----------------------------------------------------------19-----------------------------------------------------------
+0X19: 
+     [12.04]Google：2014年12月Android 2.3及以下版本仅占9.6% 
+
+
+
+Google：2014年12月Android 2.3及以下版本仅占9.6%
+
+
+
+
+
+根据谷歌最新公布的 Android 系统版本分布图显示全球超过 90% 的 Android 用户都已经使用 4.0.3 以上版本，至于最新版本 Lollipop 在上线一周后系统的占比不足 0.1%，所以并未上榜。=700) window.open('http://images.cnitblog.com/news/66372/201412/021030363733720.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------20-----------------------------------------------------------
+0X20: 
+     [12.03]三星放缓改革步伐就是求死 
+
+
+
+三星放缓改革步伐就是求死
+
+
+
+
+
+=700) window.open('http://img5.cache.netease.com/tech/2014/12/2/20141202105540dbd02.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+
+-----------------------------------------------------------21-----------------------------------------------------------
+0X21: 
+     [12.03]连Google+前UX设计师都认为G+前路迷茫了 
+
+
+
+连Google+前UX设计师都认为G+前路迷茫了
+
+
+
+
+=700) window.open('http://img2.cache.netease.com/tech/2014/12/2/20141202003047d41be_550.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+
+
+
+
+-----------------------------------------------------------22-----------------------------------------------------------
+0X22: 
+     [12.03]芬兰即将发布8英寸Win8.1平板电脑 
+
+12月3日消息，芬兰赫尔辛基一家新创业公司Eve Tech计划于12月8日发布其首款产品，一款名为Eve T1的8英寸Windows 8.1平板电脑。该公司目前还没有透露这款平板电脑的价格。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/12/20141203_103212_864.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Eve T1运行微软Win8.1操作系统，屏幕分辨率为1280*800，采用英特尔Bay Trail Z3735F处理器，主频为1.8GHz。该设备还配有2GB RAM和32GB机载内部存储、500万像素后置摄像头和200万像素前置摄像头。4000毫安容量的电池预计最高续航时长达11小时。随之而来的还有一年期免费Office 365订阅。
+预计Eve T1售价不高。目前，Eve Tech的Facebook页面正在举办一个活动，如果消费者能在12月8日之前猜中Eve T1价格，将免费获赠一款Eve T1。近期发布的8英寸Winbook TW801平板电脑的RAM和内部存储容量与Eve T1相同，售价为139.99美元。不过该设备1.33GHz的Bay Trail处理器速度略慢。按照配置来说，Eve T1在性能上和价格上应该都会略高于Winbook TW801。
+
+
+
+
+
+-----------------------------------------------------------23-----------------------------------------------------------
+0X23: 
+     [12.03]诺粉福音：Lumia手机诺基亚账号恢复正常 
+
+
+上个月初，WP之家报道了诺基亚账号服务崩溃，导致许多Lumia用户悲剧的无法在设备中访问自己的诺基亚账号，但今天，诺基亚账号连接问题看上去已经被修复了，起码部分功能已经恢复。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/11/20141101_131522_826.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+诺基亚或微软官方并没有提到这个问题的存在，也没有对其发表任何正式声明，不过现在已经有用户反馈诺基亚账号已经正常可以使用，同时恢复正常的还有诺基亚MixRadio的订购服务“无限下载”，但不能续约，所以用户只能使用该服务至订阅到期为止。
+虽说诺基亚账号部分功能已经恢复，但诺基亚电子邮件依然无法在Lumia设备同步，提示错误，希望微软或诺基亚能够尽快修复此问题。
+
+
+
+
+-----------------------------------------------------------24-----------------------------------------------------------
+0X24: 
+     [12.03]贝索斯：亚马逊将继续开发手机 
+
+
+据科技博客Re/code报道，从目前来看，亚马逊Fire Phone智能手机的表现无疑很失败，不过该公司的CEO杰夫・贝索斯对此并不在乎。
+贝索斯周二在Business Insider在纽约举行的大会上表示，“要再经过几次更新迭代，”他才能够去评判Fire Phone。该设备致使亚马逊在上一季度进行了1.7亿美元的资产减记。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/12/20141203_102842_707.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+他在采访中告诉Business Insider CEO亨利・布洛杰特，“过些年再问我有关Fire Phone的问题。”
+贝索斯不愿将Fire Phone称为败笔。相反，他在采访中一直强调亚马逊这些年展开过的那些项目。他以亚马逊早期的拍卖业务和Zshops商户列表业务为例，称这些项目没能成功，但催生了第三方卖家平台，这项业务如今占亚马逊整体营收的40%。
+而布洛杰特接着问亚马逊是否在Fire Phone上犯了什么错误的时候，贝索斯再一次回顾过往的项目，而没有进行正面回应。他一直在强调在公司内部鼓励大胆冒险的重要性。
+“对于Amazon.com网站，我遭遇过代价达数亿美元的挫败，”贝索斯说道，“你们还记得Pets.com或者Kozmo吧。”
+“这些项目都不好，也不重要。如果不持续进行试验，不拥抱失败，企业最终会变得绝望，在濒临死亡的时候只能作出绝望一击。”
+
+
+
+

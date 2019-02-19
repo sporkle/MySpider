@@ -1,0 +1,305 @@
+-----------------------------------------------------------0-----------------------------------------------------------
+0X0: 
+     [06.27]谷歌Android L尚未解决的三大问题 
+
+谷歌26日早些时候在美国旧金山召开每年一度的“谷歌I/O开发者大会”时发布了车载系统、智能手表系统以及“廉价手机”参考设计计划Android One。谷歌通过对这些新品的布局开始将Android系统从手机延展到电视、可穿戴设备、汽车等其他智能终端平台，并试图构建一个无缝对接的互联互通平台。当然，这次主题演讲中最重要的环节还是推出了全新移动操作系统“Android L”。=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/30_1jGXadzx0.jpg_w600.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------1-----------------------------------------------------------
+0X1: 
+     [06.27]谷歌Android L新发布 从界面到性能全面改进 
+
+据国外媒体报道，谷歌在今天凌晨举行的谷歌I/O大会上表示，Android L是谷歌历史上最深入的版本更新。在介绍Android L时如果稍有不慎就会漏掉许多关键信息。此次的更新非常广泛，从用户界面到底层代码结构有很多很棒的改进。下面就让我们一一介绍Android L的各种新特性。“Material Design”用户界面=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/25_1jGQ$Pps1.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >新的操作系统的最大特点在于所有设计元素都经过了修改，甚至导航键都经过了重新设计了，现在是三角形、圆形和正方形的组合。更重要的是，新的界面乍看之下趋近苹果，开始扁平化并更加丰富多彩。总而言之，相当讨人喜欢。另外一个大的变化是丰富的动画反馈。简言之就是，所有的操作，就算是点击一个按钮，切换选项卡，最近项目翻转等，都会拥有自己的动画效果。不过值得庆幸的是，所有这一切都经过精心设计，不致显得过于浮夸。当然这种全新的设计横夸所有谷歌操作系统。Android不是唯一的平台，几乎所有谷歌平台，包括Chrome操作系??统、Android Wear和Android TV都采用了这种全新设计。用户体验优化=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/25_1jGQ$UnMV.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >界面设计只是Android L改进的一个方面，用户体验也已在几个主要方面得到了改善。比任何时候都更强大的搜索功能 - 搜索是谷歌的基础，所以Android在搜素方面有所改进也并不令人惊讶。Android平台上的谷歌搜索功能现在会更清楚的知道用户要找的东西。举个例子就是谷歌现在可以进行更多的关联搜索，当用户进行搜索时，可以直接进入搜索的结果页面，谷歌会记忆这一搜索结果，当用户利用其它应用对搜索结果进行处理后，仍然可以轻松跳回搜索结果。更重要的是，这个新的API将开放给开发者，让第三方应用程序也可以利用这一新功能。最近应用菜单重设计 - 随着Android L的发布，谷歌改变了我们通常所说的“最近应用”菜单的定义。除了不同的设计，新的最近应用选项卡现在会将Chrome标签分离为单独页面，并且是可点击的实体。更重要的是，谷歌再次开放这个API给开发者。这一功能在浏览具有多个选项卡的网页时无疑具有现实意义。消息处理大幅改进 - 谷歌主要在两个方面改善了现有的消息功能。首先，消息功能互动性提升。Android L可以让用户对消息进行展开或忽略。在锁屏页面上双击消息将立即重定向到触发它的应用程序。另外，Android L还推出了一款叫做heads up的功能。这意味着，现在消息可以显示在一个更大消息框中，不只是一个小状态栏。利用这一功能，新消息到来时，用户正在使用的应用不会被打断。环境感知 - 另一个重要的改进是谷歌关于环境的感知比以往任何时候都强大。举个例子，Andr??oid L操作系统的智能手机可以告知用户其蓝牙是否链接到了智能手表。也就是即使在锁屏状态下，仍然可以与智能手表进行互动。不过，这也会带来一些安全隐患。另外，谷歌希望利用Andr??oid L完成智能家庭互联，举个例子就是在Andr?oid L型的智能手机或平板电脑上的应用可以无缝转移到Android TV上。基本性能改进=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/25_1jGR02Obw.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >Andr??oid L做出了很多性能改进，几个值得关注的变化，一是Android终于过渡到ART runtime架构。二是所谓的“Android Extension Pack”让GPU的性能大幅优化。三是Volte项目帮助Android的耗电量大幅降低。64位操作系统加ART runtime - Android L将是64位操作系统而且采用ART runtime，简言之就是Android的进程处理架构进行了改变。ART runtime将取代现有的Dalvik RT架构。谷歌表示在实践中，新架构至少获得了2倍的性能提升，因此应用程序将更容易获得更好的表现。事实上，基于某些基准测试套件性能改善幅度超越400％。PC级图像处理能力 - 移动显卡长期落后于PC。原因很简单 - 移动设备的可用空间要少得多，这严重限制了大的芯片制造商在性能所能做的努力。随着Android L和所谓的Andr??oid Extension Pack的出现，谷歌希望能够弥合一些差距，并让Android设备获得更接近PC的视觉效果。现场演示的游戏动画画面，也确实令人惊艳，并不亚于PC的显示效果。Volte项目和省电模式 - Volte项目主要关注Android的各个子系统的耗电，如Wi-Fi、无线系统和GPS等将采用更加节能的API来处理。更重要的是，谷歌增加了更为精密的开发工具Battery Historian来确定功率消耗。另外，Android L还推出了一个特殊的省电模式。这一模式可以自动触发，也可手动将其打开。跟据谷歌的数据，新模式下Nexus 5可以获得额外90分钟的使用时间。面向企业用户=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/25_1jGR07zRY.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >新的Android L的用户群将不仅仅是普通用户，还有企业用户。谷歌希望Android L可以成为更适合企业用户的平台。从本质上讲，三星的KNOX安全套件促成了这一结果，所以大会中谷歌对三星表达了感谢。而在实际应用方面，这意味着用户使用最新的Android软件时，将能更好地在智能手机上隔离他们的个人生活和工作，因为两个模式的数据将被分开存储在不同地方。至于进一步的安全增强功能，谷歌则没有对其进行详细介绍。总而言之，Android L肯定是其6年历史中改动最大的版本。从界面到性能无一不令人眼前一亮。Android L将在今年秋季推向市场，当然开发者可以更早的获得其预览版本。消费者可能要等待几个月时间，但Android L看起来值得你的等待。
+
+
+
+
+-----------------------------------------------------------2-----------------------------------------------------------
+0X2: 
+     [06.27]野心勃勃 谷歌要让Android无处不在 
+
+据国外媒体USAToday报道，谷歌在周三的I/O开发者大会上宣布了多款Android衍生系统。公司如今已将该平台拓展至远超过智能手机和平板电脑的范围。同是Android核心，但针对手腕、汽车和客厅等不同领域，谷歌分别发布了Android Wear、Android Auto和Android TV三大平台。谷歌希望可以效仿将Android推广成全球最流行智能手机操作系统的成功，再将三大新平台打造成为新兴领域的领跑者。=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/27_1403737004.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/63_1403737004.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >谷歌Android智能手机如今在全球范围已拥有超过10亿用户。不过公司对此仍未感知足，并希望能推出更多有针对性的版本，以适用于与人类生活息息相关的方方面面。其中，智能手表便是谷歌主要战场之一。公司在今天的开发者会议上再推出两款新产品：LG G Watch和三星Gear Live。产品从今天起可通过Google Play购买。这比传闻中的苹果的iWatch设备要早了数月。此外，早前已发布的Moto 360智能手表也确定将于今年夏季末正式上市。同样是与苹果的正面竞争，谷歌在车载系统市场发布了Android Auto。透过该平台，谷歌Now语音控制技术得到最大发挥，用户将可以通过声控方式在驾驶过程中完成电话拨打、音乐播放、地图导航等多项操作。作为对苹果Health Kit平台的回应，谷歌也推出了自己的健康数据追踪平台Google Fit。两个平台在功能上相似，都可以收集和保存来自应用和传感器的数据，并对这些数据进行追踪及管理。谷歌针对家庭客厅发布了Android TV系统。该系统可运行于电视或机顶盒设备上，并在发布之初就获得了包括索尼及夏普等主要电视机生产商的大力支持。其中，索尼、夏普、飞利浦等公司2015年的4K和HD电视机产品将全数预装Android TV。谷歌曾经推出过Google TV机顶盒系统，但未收到市场认可。新的Android TV将完全以软件为本，更加侧重用户在操作上的体验。对此，Searchengineland网站编辑丹尼・沙利文（Danny Sullivan）指出，谷歌已经意识到――过去试图去支配硬件的做法是错误的。“Android TV重新将重心放回到软件上，这样所有想集成该系统到自己产品中的厂商都感到更加轻松和简单。”调查机构Opus Research的分析师格雷格・斯特灵（Greg Sterling）在参加完谷歌I/O开发者大会后表示，公司如今试图将Android的触角延伸至其他设备上（如汽车、腕带、电视机等等），公司想要将Android的用户体验在所有的设备上形成统一。“每一个设备都在强化与另一个设备结合使用的体验。这种设计过去是苹果的专长，但谷歌很快就学会了。”斯特灵表示。
+
+
+
+
+-----------------------------------------------------------3-----------------------------------------------------------
+0X3: 
+     [06.27]谷歌发布下代系统Android L：跨设备无缝 
+
+北京时间6月26日凌晨消息，今日谷歌在旧金山举行I/O大会，会上谷歌设计高级副总裁Matias Duarte介绍了Android L。谷歌发布L Developer开发包预览版，新开发包包含超过5000个API编程接口。谷歌强调Material Design设计理念，旨在打造能让移动、桌面、网页高度一致的平台。同时Polymer继续得到强化，Duarte表示增强的Polymer可以帮助开 发者在网页上实现各种应用、设计的开发，演示动画在网页上做到了60FPS的效果。=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/43_1403713275.jpg_600x600.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------4-----------------------------------------------------------
+0X4: 
+     [06.27]国外网友火速刷入Android L 
+
+今天早些时候，谷歌正式提供了全新的Android L系统（开发者预览版）的下载，已经有国外网友火速刷入Nexus 5进行了体验，并在reddit上提供了一些实拍照片。正如谷歌在I/O大会上介绍的，Android L使用了全新的Material Design设计语言，界面变得更加扁平化，提供了功能更加丰富、更加便捷的通知中心，用户除了能够进行快捷设置，还能快速回复短信、回拨电话等。此外，以往更多的点击操作换成了滑动操作。=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0627/90_1403834359.jpg_600x600.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------5-----------------------------------------------------------
+0X5: 
+     [06.27]Android L开发者预览版上手 
+
+在日前召开的Google I/O大会上Android正式从“KitKat”系统迈入“L”时代，意味着该移动操作系统正式翻开新的篇章，根据谷歌官方承诺Android L的开发者预览版将于今晚开放下载，不过外媒率先通过Nexus 5带来了Android L的上手体验，展示了Android L系统中引入的部分新功能。在此前的截图和相关官方介绍中Android L的新特性基本上已经被曝光，包括全新的设置、通知中心、快捷面板、全新的拨号器和“最近应用”菜单和锁屏界面，甚至还有谷歌全新的省电模式--Project Volta和3D用户界面效果。 相关图集：=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0627/96_1403826247.jpg_600x600.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------6-----------------------------------------------------------
+0X6: 
+     [06.27]7个Android L的新特性 续航能力提升惹人关注 
+
+谷歌在I/O 2014开发者大会上正式推出了Android L，可以说是Android系统自2008年问世以来变化最大的升级。除了新的用户界面、性能升级和跨平台支持，全面的电池寿命增强及更深入的应用程序集 成也令人印象深刻。想要快速了解Android L都有什么卖点？不妨看看下面7点：新界面：Material Design=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0627/25_1jHb5gkIG.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >Android L 带来了全新的“Material Design”设计语言，看上去极具个性。与苹果从“拟物化”转向“扁平化”设计相似，Material Design主打干净排版和简单布局的设计风格，同时融入了丰富的色彩，具有更强的指向性。另外，它还支持多种设备，如手机、平板、电脑、电视等等，几乎涵盖了整个Android产品线，具有高度统一性。另外，操作系统也新增了动画触觉反馈功能，当你按下屏幕上的一个虚拟按钮，会得到动画式的反馈效果。增强的通知中心=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0627/25_1jHb5lhmq.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >Android L还拥有更先进的通知中心，类似Google Now的卡片式风格，在锁屏状态下也可以使用，直接进行多种功能操作。另外，这种卡片式的风格也被集成到弹窗中，让用户更容易察觉，不易错过信息；同时还具有操作性，比如你在游戏时获得来电，不会以全屏显示，而是弹出可操作的通知卡片，你可选择接听或拒接，界面仍停留在游戏中。智能化的用户认证形式Android L拥有更智能的用户认证形式，不必一直输入密码或是绘图来解锁。比如你拥有一款Android Wear手表，可以通过关联形式，通过手表上的电源键解锁手机；如果手表与手机超过连接距离，则可自动启用密码或绘图解锁，同时实现易用性和安全性。增强的多任务功能=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0627/25_1jHb5qUBp.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >在Android L中，多任务处理器得到增强，拥有立体式的层叠效果，可以通过滑动快速切换。比如你在浏览器中打开多个页面然后退出，在多任务界面就可以切换选项卡，而不必进入到浏览器应用中。应用程序调用=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0627/25_1jHb5vU5v.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >Android L加强了程序间的调用效果，比如你在浏览器中搜索餐厅、同时又安装了OpenTable餐馆点评应用，那么浏览器会自动识别出你安装了什么应用，并提供该服务的搜索结果，点击之后会自动跳转到OpenTable应用内。性能升级=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0627/25_1jHb5AEIb.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >性能部分，首先支持64位计算能力，这就意味着未来Android手机可以搭载64位处理器。另外，图形部分的性能也有所增强，包括更好的着色、纹理及光线处理，未来Android游戏的画面会更加出色。电池寿命增强=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0627/25_1jHb5AhuK.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >最后，Android L还带来了更智能化的节电功能，系统能够根据电池电量来减少处理器功耗、屏幕亮度等，谷歌称将为用户带来额外90分钟的续航时间，令人期待。
+
+
+
+
+-----------------------------------------------------------7-----------------------------------------------------------
+0X7: 
+     [06.26]生命禁区！核电站内部的珍贵照片首次曝光 
+
+苏黎世摄影家卢卡花了一年的时间，探索了100个发电厂、油轮、水坝和废物处理设施。他拍下了的照片可能会让你大吃一惊。各种场景包括燃煤发电厂内部的冷却塔、Katrin第一核电站的光谱仪(平衡中微子)、以及Zwilag第二核电站的低辐射和放射性废物的储存介质等。=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/25_1jGVfmuXt.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >1、Beznau第一核电站的控制室。苏黎世摄影家卢卡花了一年的时间，探索了100个发电厂、油轮、水坝和废物处理设施。他拍下了的照片可能会让你大吃一惊。=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/31_1jGV61UhR.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >2、三苯乙醇I，燃煤发电厂的冷却塔内部=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/31_1jGV66ei7.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >3、Katrin第一核电站的光谱仪，平衡中微子。=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/31_1jGV6hfCm.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >4、Zwilag第二核电站，低辐射和放射性废物的储存介质。=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/31_1jGV6nwo1.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >5、ETH第一核电厂的供热站=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/31_1jGV6nqpm.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >6、临时核废料存储地的紧急出口=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/31_1jGV6x7r5.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >7、Goesgen第一核电站的安全门=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/31_1jGV6ISOT.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >8、zwibez第三核电站临时核废料存储地方的连接楼梯=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/31_1jGV6NIi5.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >9、Beznau III核电厂的剂量计=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/31_1jGV6NGhV.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >10、莱布施塔特I核电厂的冷却塔内部=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/31_1jGV6Tq80.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >11、科隆贝炼油厂=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/31_1jGV6TbSR.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >12、球形装置的内部=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/31_1jGV6YFDK.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >13、费雷拉III，坝体引水隧洞的排水竖井=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/25_1jGVfotXg.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >14、莱布施塔特第二核电厂的冷却塔内部=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/31_1jGV7aeKb.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >15、hardhof lengg II核电厂的公共饮用水供应池=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/31_1jGV7fTiX.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >16、Celestin第一核电厂的螺旋车道=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/31_1jGV7foTX.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >17、费雷拉第一水电厂的入口
+
+
+
+
+-----------------------------------------------------------8-----------------------------------------------------------
+0X8: 
+     [06.26]科学家从豆腐中找到太阳能电池新配方 
+
+6月26日出版的《自然》杂志描述了一种制造碲化镉太阳能电池的新配方。这种新配方使用了一种廉价、环保的盐，而此类盐同时也被用在豆腐制作过程中。碲化镉电池在太阳能电池市场中处于领先地位，这种电池是当下使用的光伏发电系统中最具成本效益的一种，但是这些设备仍有改进的余地。制造这些太阳能电池要使用昂贵的含镉盐――氯化镉处理碲化镉，氯化镉这种水溶的有毒材料对工人和环境都有风险。=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/10_1403753612.jpg_600x600.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------9-----------------------------------------------------------
+0X9: 
+     [06.26]苏神咬人被设计成了开瓶器 网上售卖价格不菲 
+
+6月25日凌晨，乌拉圭对阵意大利的比赛中，乌拉圭名将苏亚雷斯与意大利基耶利尼正在禁区抢位，其间，苏亚雷斯用牙撞了基耶利尼左肩。苏亚雷斯这一行为被 认为是用牙咬人，赛场上意大利球员扒开球衣露出牙印的照片很快成为球迷们的热门话题。在球迷的热议声中，苏亚雷斯张开大嘴的形象也被设计成一款啤酒开瓶器 出现在国内和国外的购物网站上。=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/51_1jGU_RUwq.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >苏亚雷斯资料图
+
+
+
+-----------------------------------------------------------10-----------------------------------------------------------
+0X10: 
+     [06.26]来自赛博坦的你，探索疑似外星科技的手机 
+
+近日变形金刚的博派和狂派在地球即将展开激烈的战斗，这群来自赛博坦星的钢铁大块头们不但给我们带来了狂拽酷炫叼炸天的视觉震撼，疑似从赛博坦星流出的科技产品也在地球上被发现。
+接下来为大家介绍的这几款手机也许就是外星科技流入地球的产物哦!
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_153735_33.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+云狐J5手机
+据了解，云狐的这款J5型号手机搭载了四核高速处理器，并有超大内存空间，而更夺人眼球的是此款手机的防护性能可以说是远远的超过了市面上所有的同类型手机。机身采用军用级品质设计，其屏幕的钢化玻璃更是达到了航天级，GE全素材电火花机体可以使机体表面有效防刮且不变形。防水、防压、防尘、防震、防刮、防腐蚀、耐低温。而且采用黑黄配色，机体外形酷似大黄蜂，且其高质量的防护性也像大黄蜂一样成为用户的守护者，综上，此款手机由内而外的科技含量可谓是赛博坦星科技的完美诠释。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_153736_290.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Ara模块化手机
+此款手机是通过智能手机定制化平台Project Ara组装的原型机。从某种意义上来看，Project Ara就像是乐高玩具一样，让用户可以自由定制智能手机的各个主要硬件，无需再进行整体更换，来降低使用成本。如果成功，Project Ara将会创建一种开放式的硬件平台，制作商能够推出各种模块式的硬件，用户只需订购所需的硬件模块，方便地组装起来就可以定制出自己想要的手机，与模块化PC有异曲同工之妙。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_153736_682.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+NERV SH-06D
+此款手机是EVA御用手机厂商夏普推出的纪念版手机。SH-06D限量发行30000台，其中3000台会通过网络贩售，其余都必须与Docomo签约换购。即使是合约机，所有折扣和优惠都算上，每台最低也要25000日元以上。机身背面宛如EVA身上的甲胄，操作界面也完全是EVA的风格，总之此款手机可以说是EVA的高度还原，小编猜想此款手机在设计的时候也许融入了NERV的技术，能展开AT力场或者启动Dummy System。
+
+
+
+
+
+-----------------------------------------------------------11-----------------------------------------------------------
+0X11: 
+     [06.26]谷歌的创意：硬纸板实现虚拟现实 
+
+谷歌在今天的I/O大会上演示了一个硬纸板装置，这并不是谷歌在更我们开玩笑，这是由谷歌工程师开发的一个真正的设备。
+你可以将你的智能手机放在这个硬纸板观察器中，然后放到你的眼前，模拟一个头戴式的虚拟现实装置，并且需要一个应用来配合，该应用和这个硬纸板观察器被叫做Google Cardboard，桑德尔・皮蔡在该大会上进行了演示。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_151832_613.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+整个设备的想法很简单：虚拟现实装置一般价格都很高，并且很难制造，因此也许会有更简单的方式，可能要简单许多。整个装置只需要5部分，其中4个是很容易就能得到的，谷歌已经给出了制作说明，因此你可以拿一些硬纸板，尼龙搭扣，磁铁，橡皮筋和透镜来自己制作，其中透镜是最难弄到的一部分，整个装置大约只花费50美元左右。
+一旦你制作成功之后，你可以下载Carboard应用，该应用能够将内容在屏幕上分屏显示，两个眼睛中看到的图片是不一样的，该应用可以允许你在谷歌地球里飞行，带你去一些风景名胜，多角度欣赏建筑，体验虚拟街道等。
+有没有想买的呢？（via：phonearena）
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_152131_812.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_152137_403.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_152141_753.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_152146_522.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_152149_709.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_152152_900.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_152156_92.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_152159_578.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_152203_247.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_152207_554.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_151952_986.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_151953_356.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+
+
+-----------------------------------------------------------12-----------------------------------------------------------
+0X12: 
+     [06.26]谷歌I/O 2014大会上的10个关键数字 
+
+在26日凌晨的Google I/O大会上，谷歌发布了售价低于100美元的入门级Android One、Android L亮相、展示Android Wear智能手表系统、发布车载系统Android Auto、推出Android TV应用程序、推出Google Fit健康管理平台、同时还更新了Chromecast电视棒和Chromebook。其中，最关键的10个数字是：
+10亿
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_145618_849.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在去年的I/O上，Google宣布Android设备累计激活量超过9亿台。今年，Google宣布月活跃Android用户量达到10亿。在月初的WWDC 2014上，苹果宣布iOS设备激活量为8亿。
+9300万
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_145618_879.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+自拍（selfie）究竟有多流行呢？Google说，每天使用Android设备自拍的次数是9300万。乘以30天，就是月均27.9亿，再除以10亿月活跃设备，就是平均每个Android用户每月自拍3张。好像也不算多。今天，你自拍了吗？
+150次
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_145618_951.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+大多数人每天查看手机的频率大于150次。以12小时白昼时长计算，相当于每小时13次左右，每5分钟就查看一次。
+100美元
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_145619_40.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+3个
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_145619_104.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Android Wear手表：LG G Watch、三星Gear Live和Moto 360，前两个已经可以在Google Play在线商店订购，后一个采用独特的圆形UI，夏末推出。
+64位
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_145619_151.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Android L支持64位计算架构。去年iOS 7已经领先一步。
+93%
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_145619_220.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+93%的用户使用的是最新的“Google Play服务”版本，能下载到最新的应用。这是Google解决碎片化问题的良方――用不了最新的操作系统，但可以使用最新的系统级app和服务。
+42%
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_145619_251.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+嘲笑Android平板发货量大但使用率低是每次苹果发布会的保留曲目。今年Google宣布Android平板全球市场占有率达到62%，同时以YouTube视频浏览量来看，Android平板的比例也占到了42%，这是Google对苹果的回击。
+90分钟
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_145619_310.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Android L开发者预览版加入了官方省电模式，在电量极低时可以延长90分钟的续航时间。听起来不多，但真遇到电量只剩2 %，又无处充电的情况，估计还是很管用的。
+2015年
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_145619_364.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Android TV踏着Google TV的尸体卷土重来，索尼和夏普将于2015年发布基于Android TV系统的电视机和机顶盒（电视盒子）。
+
+
+
+
+
+-----------------------------------------------------------13-----------------------------------------------------------
+0X13: 
+     [06.26]北京公交8月之前开通免费WiFi 
+
+北京一路热点信息技术公司负责人今天透露，北京公交乘客预计在今年8月前就可以通过免费的公交Wi-Fi访问网络了。
+一路热点是北京公交Wi-Fi服务的运营商，根据该负责人的描述，目前一路热点正在与北京移动进行公交Wi-Fi的技术调试，预计在8月前正式开通。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_153819_755.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+届时乘客只要通过手机搜索名为“16WiFi”的无线热点，接着下载名为“e路Wi-Fi”的应用并安装登陆，然后就可以享受免费的上网服务了。
+目前北京约有9000多辆公车安装了Wi-Fi设备，预计今年覆盖车辆将达到1.2万辆，其中包括位置偏僻的郊区线路。
+
+
+
+
+
+-----------------------------------------------------------14-----------------------------------------------------------
+0X14: 
+     [06.26]Luuuk木马横行欧洲：一周内盗取50万欧元资金 
+
+在过去短短7天的时间里，一家欧洲银行竟然在面对新型金融诈骗的时候，损失了50万欧元。卡巴斯基实验室“全球研究与分析团队”的安全专家们，发现了这起网络犯罪活动的线索，并指出――位于两个国家的190个客户(同属一家欧洲银行,目前尚未点名)遭受了这轮攻击。而首次检测到它，甚至可以回溯到今年1月20号。=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/96_1403753342.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >根据日志文件，大多数受害者均位于意大利和土耳其，每家银行被盗的资金则介于
+
+
+
+
+-----------------------------------------------------------15-----------------------------------------------------------
+0X15: 
+     [06.26]美国中央情报局希望借助亚马逊云计算分析情报 
+
+据香港《文汇报》27日报道，近日美国中央情报局(CIA)首席情报官道格・沃尔夫公开发言称，中情局越来越倚重亚马逊的计算机云端系统，将使用该系统分析情报。 =700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/25_1jGVauHOV.jpg_w600.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >沃尔夫表示，乌克兰及伊拉克局势显示中情局任务的复杂性，因此需要采用最好的科技。中情局去年已跟亚马逊签订6亿美元(约37.4亿元人民币)合约，亚马逊将在中情局内建立和管理一套私人云端系统。此举被视为当局肯定亚马逊网络服务(AWS)的安全性及可信性。沃尔夫还表示，中情局除采用亚马逊的服务器外，同时也希望使用其现有的软件。“我认为双方不单在运作服务器方面具创新意念，也希望把这些创意从商业应用带到中情局任务当中。”沃尔夫特别提到亚马逊的“Kinesis”和“Redshift”服务能处理和分析大量数据，正是中情局希望采用的软件 。
+
+
+
+
+-----------------------------------------------------------16-----------------------------------------------------------
+0X16: 
+     [06.26]百思买回应“撤出中国”传闻：年内新增11家店 
+
+针对国外媒体称，百思买将变卖资产退出中国市场的消息。百思买（中国）旗下五星电器透露，今年下半年将推进旗舰店升级改造计划，下半年总计完成8家，年内新增11家全新旗舰店，明年五星电器的目标是实现在现有门店覆盖的每个城市至少设立1家BIG BLUE蓝色旗舰店。=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/51_1jGV6Ew7p.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------17-----------------------------------------------------------
+0X17: 
+     [06.26]我国快递业市场规模升至世界第二位 
+
+来自中国物流与采购联合会电子商务物流与快递分会成立大会的信息显示，去年我国快递服务企业累计完成业务量达到92亿件，市场规模升至世界第二位，同比增 速高达61.6%，过去五年平均增长率达到43.5%。国家邮政局发布的统计数据显示，5月共受理快递业务申诉42817件，同比下降9%，快递延误、丢 失等问题大幅下降。与申诉量下降相对应的是快递业务的快速发展。在业内人士看来，快递企业已逐步将服务质量作为企业的核心竞争力。快递服务规模扩张得益于近年来电子商务的井喷式增长。数据显示，截至去年底，中国电子商务市场交易规模达10.2万亿元，同比增长29.9%，其中，企业间电子商务市场交易额达8.2万亿元，同比增长31.2%；网络零售市场交易规模接近1.9万亿元，同比增长42.8%。与此同时，随着互联网在各领域的渗透，电商企业纷纷进军物流领域，同时，物流企业反向涉足电商，成为两股相向而行的潮流，出现电商与物流融合与互补的新格局。这一过程中，电商物流发展水平相对滞后的现象开始凸显，土地、税收、通行等政策瓶颈有待突破，企业的物流服务水平参差不齐，影响了消费者的消费体验，城市配送成本居高不下，运作效率低下。“电商物流频频陷入‘爆仓’的尴尬，从业人员整体素质有待提高，安全问题时有发生。”中国物流与采购联合会会长何黎明说，这一系列问题和难题，仅仅依靠一家企业，或者某一方面的力量，可能难以有效解决。逐步解决这些问题，正是当日新成立的电子商务物流与快递分会的重要工作。何黎明表示，中物联将密切关注行业发展动向和企业服务需求，从科技创新、行业统计、标准制修订、人才培养等行业基础性工作入手，抓住重点，提升电商物流与快递业标准化、信息化、智能化、集约化水平，规范物流服务，提高整体运行效率和效益。
+
+
+
+
+-----------------------------------------------------------18-----------------------------------------------------------
+0X18: 
+     [06.26]揭QQ诈-骗集中地：1周入1亿 
+
+“最高峰时，曾传出一个星期就有1亿元转到我们这里，银行的提款机经常出现钱被取空的情况。”谈到家乡宾阳的“盛况”，曾参与过网络诈骗的80后“老猫”这样告诉晨报记者。自2009年以来，网络聊天诈骗日趋猖獗，影响几乎波及全国，每单涉案金额也从几千元上升到几万乃至上百万元。而随着上千起案件的侦破，嫌疑对象纷纷指向一个地方――广西宾阳县。=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0625/66_1403661449.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------19-----------------------------------------------------------
+0X19: 
+     [06.26]深圳市场监督管理局做出处罚决定 快播2.6亿罚单即日生效 
+
+6月26日消息，今日下午，深圳市市场监督管理局正式向快播公司送达了《行政处罚决定书》，2.6亿元罚单即日生效。此前，快播侵犯他人信息网络传播权案件的听证会已于本月17日举行了非公开听证，听证处罚结果维持了原《行政处罚听证告知书》中拟处罚的内容。据了解，如果“快播”对此次听证结果不服，还可提出复议甚至行政诉讼。=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/29_1jGZ0YDXR.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------20-----------------------------------------------------------
+0X20: 
+     [06.26]黑莓新旗舰Passport虚拟全键盘曝光 
+
+在本月中旬召开的黑莓财报会上，现任CEO程守宗向外媒展示了黑莓即将推出两款新机型，其中重点旗舰机型BlackBerry Passport备受关注。在部分规格和参数被曝光之后今天黑莓官方表示该机同样支持虚拟键盘，为用户提供了差异化设置选项，能够在系统部分区域或者可选择应用进行激活使用。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_155333_273.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在黑莓官方声明中写到
+Passport除了提供简洁的全QWERTY物理键盘之外我们同样提供了动态的虚拟键盘，能够根据使用情境智能进行切换。所以当你尝试通过虚拟键盘输入密码的时候能够通过字母、数字、符号等常用密码形式进行自动填充。此外如果当你正在输入邮件地址，那么@符号就会自动输入。当你在浏览网页，URL的前缀和后缀都会自动添加。
+
+
+
+
+
+-----------------------------------------------------------21-----------------------------------------------------------
+0X21: 
+     [06.26]快播侵权案2.6亿元罚单正式下达，即日生效 
+
+快播涉嫌盗版侵权案今日有最新进展。深圳市市场监督管理局（知识产权局）今日正式向快播公司送达《行政处罚决定书》，2.6亿元罚单即日生效。
+知情人士透露，之前快播侵犯他人信息网络传播权案件的听证会已于2014年6与17日非公开举行，听证维持原《行政处罚听证告知书》中拟处罚的内容。
+6月26日下午，深圳市市场监督管理局执法人员来到位于深圳市南山区高新科技园的快播公司总部，向快播公司送达《行政处罚决定书》，快播已签收《处罚决定书》。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/6/20140626_153855_92.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+快播被判构成侵权行为
+该决定书显示，快播公司未经权利人许可，通过其经营的快播播放器软件向公众传播《北京爱情故事》等24部影视剧作品。
+决定书认为，快播公司在应知和明知第三方网站侵犯他人信息网络传播权的情形下，仍对侵权信息进行主动采集、编辑、整理和设链，具有明显的主观过错，已构成侵权行为，在行政机关作出处罚、限期整改后，继续实施侵权行为，严重侵犯著作权人的合法权益，扰乱网络视频版权秩序，损害公共利益，依法应当予以行政处罚。
+该局依法认定本案中快播公司的非法经营额为人民币8671.6万元，综合考虑快播公司的侵权情节和违法行为的后果等因素，决定依据《中华人民共和国著作权法》第四十八条、《中华人民共和国著作权法实施条例》第三十六条及《中华人民共和国行政处罚法》有关规定，对其处以非法经营额1倍以上5倍以下罚款的中间档，即3倍的罚款26014.8万元。
+据介绍，如快播公司对本处罚决定不服，可在六十日内，向广东省新闻出版广电局或深圳市人民政府申请行政复议；也可以在三个月内直接向人民法院起诉。
+需要注意的是，行政复议或诉讼期间行政处罚决定不停止执行。根据有关法律规定，快播公司应在15日内缴纳罚款，逾期不缴纳的，每日将按罚款数额的3%加处罚款。
+快播申诉被驳回
+在之前的听证中，快播公司提出的主要观点有：快播公司的行为没有主观故意，应适用“避风港原则”，不构成行政违法；没有证据或现有证据不足以证明快播公司侵害了公共利益；快播公司已经进行了整改，本案属于重复处罚；拟处行政罚款金额及其计算方法错误。
+听证会上，快播公司与办案单位、本案第三人等就上述意见进行激烈的辩论，最终听证组维持了办案部门的处罚建议，听证组主要理由有：
+快播公司提交的证据并不能证明其没有侵权的主观故意，而本局经查实的证据表明其存在侵犯他人信息网络传播权的侵权行为和主观故意。
+听证组认为，快播公司未经著作权人许可向公众传播侵权作品的行为，实质上是降低经营成本经营的不正当竞争行为，侵犯了市场公平竞争的管理秩序，从而损害公共利益。
+听证组指出，快播在国家版权局作出行政处罚，责令整改期限结束后，仍在实施侵权行为，故此次处罚并不属于“一事再罚”，处以非法经营额三倍罚款处罚裁量恰当。
+2.6亿元的算法如何得出
+本案中，快播未经许可传播的影视剧、综艺类作品共24部，将近1000集。深圳市市场监督管理局指出，经过详细调查，依法认定本案中快播非法经营额为人民币8671.6万元。
+深圳市市场监督管理局指出，结合快播多次实施侵权行为，持续时间长、社会影响大，在受到行政机关处罚后，拒不改正，继续侵权，主观故意明显，违法情节严重，非法经营额巨大等实际情况，我局依法拟处以非法经营额三倍罚款，即罚款2.6亿元
+根据法律规定，处罚决定一经送达即生效。深圳市市场监督管理局称，目前对快播公司作出的行政处罚决定书已经生效，当事人应当在十五日内，将罚款缴交至深圳市财政委员会。到期不缴纳罚款的，每日按罚款数额的百分之三加处罚款。
+当前快播仍有上诉机会，快播如果对本处罚决定不服，可在六十日内，向广东省新闻出版广电局或深圳市人民政府申请行政复议；也可以在三个月内直接向人民法院起诉。
+需要注意的是，行政复议或诉讼期间行政处罚决定不停止执行。
+
+
+
+
+
+-----------------------------------------------------------22-----------------------------------------------------------
+0X22: 
+     [06.26]移动4G版5英寸Nokia XL获入网许可 
+
+本月初微软宣布基于Android系统打造的诺基亚X系列的第二款行货手机诺基亚XL在中国内地市场上市销售，官方售价为1099元。而随着国内4G网络 信号的覆盖，今天移动4G版本Nokia XL获得了国内的入网许可，目前尚不确定4G版本售价。除了支持移动4G网络之外该机的硬件规格并未改变。=700) window.open('http://static.cnbetacdn.com/newsimg/2014/0626/59_1403758400.png_600x600.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------23-----------------------------------------------------------
+0X23: 
+     [06.26]靠还是不靠小米？迅雷的两难处境 
+
+迅雷(XNET)在一波三折后终于顺利登陆纳斯达克。发行价为每股美国存托股(ADS)12美元，融资8778万美元；首日收盘时上涨24.17%，市值约为10.34亿美元。单从目前的市值看，似乎可以让迅雷创始人、CEO邹胜龙稍微安心。此前他在接受媒体采访时曾表示，10亿美元是赴海外上市的一个重要指标，境外的资本市场以 机构投资者为主，如果市值达不到10亿美元，机构不愿意投资，并且海外市场有做空机制，容易导致股价出现比较大的波动，所以10亿美元一直是迅雷的标准。但这并不代表邹胜龙和迅雷可以高枕无忧，即便已经“联姻”小米。上市后，小米风投成为最大股东占比28.8%，而作为创始人的邹胜龙和程浩的股权比例则分别被稀释为9.5%、3.8%。迅雷实际上已经完全成为小米系公司，其未来的发展难言“独立”。邹胜龙当晚与媒体连线时表示，小米能够为迅雷的云加速服务提供快速到达用户的入口平台，这是迅雷与小米合作最主要的原因；另一方面，迅雷可以为小米在进军家庭互联网的过程中提供更好的内容传输云加速服务。云加速是此次迅雷上市给资本市场讲的最核心的故事。但按照邹胜龙描述的模式，迅雷正在由B2C转向B2B，这意味着，迅雷将更多依托小米的产品触达用户。但投资互联网企业，相比B2B，资本更认可B2C，因为只有直接接触庞大的互联网用户，未来的想象空间才足够大。但云加速的商业模式不够清晰，未来挑战极大。小米给迅雷提供渠道，迅雷给小米提供增值服务，而增值服务一直也会继续是迅雷的主要盈利方式。一旦小米所在领域的竞争加剧，竞争对手的云加速实行免费，迅雷势必无法坚持其收费政策，并且小米也不会同意，从而进一步打破其一直坚持的增值服务盈利模式。邹胜龙也表示，目前其提供的云加速服务几乎免费，那么这个被视为上市过程中最大的概念未来如何赚钱？再来看看迅雷的另两块业务下载和视频。作为其起家业务，目前下载已经日暮西山，随着在线视频行业的成熟，即使通过小米切入客厅，其用户增量也缺乏想象力。这也是迅雷推出迅雷看看的一大原因，但迅雷看看目前的情况也并不乐观。在经过几轮视频版权大战后，乐视、优酷等视频龙头已经介入上游内容制作，不仅是投资，并且签约导演、独立策划，甚至向线下电影院延伸。而迅雷看看更多依然停留在购买版权阶段，因此，即使借助小米电视、盒子、手机整合了下游渠道资源，上游内容环节则难以把控。毋庸置疑，迅雷也将云加速、云存储运用到其自身的业务板块中，但显然，下载与视频等前置产品本身已经缺乏想象空间，作为增值服务的产品势必受到限制。这也是为何迅雷上市一直在讲与小米的合作，因为小米的C端市场在不断扩张，成为迅雷未来的增量。某种程度上，与其说资本市场对迅雷认可，不如说是投资者更看好小米。但按照目前双方的合作模式，迅雷过于依托小米又将失去独立性，商业模式难以构建，逻辑又回到上述双方的合作问题。即使将迅雷定位成一家技术公司，如果没有好的商业模式，技术很容易被对手超越，这种情况在技术领域并不鲜见.
+
+
+
+
+-----------------------------------------------------------24-----------------------------------------------------------
+0X24: 
+     06.26AndroidAuto系统发布：导航，通讯和音乐成核心 
+
+=700) window.open('http://img3.cache.netease.com/pcluster/live/post/09c/a2c/847/4d10e962f3926d88517eff9.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" > 北京时间6月26日凌晨消息，今日谷歌在旧金山举行I/O大会，会上谷歌再发布AndroidAuto系统，面向未来汽车市场。 据介绍，Android Auto的核心将是导航，通讯和音乐，当Android智能手机与AndroidAuto系统连接时，手机屏幕能投射到车载屏幕上。它同样可以进行环境感知和语音控制，他的主界面跟谷歌Now并无二致。虽然Android Auto可以被看作是基于Android系统的车载GPS，但考虑到谷歌Now自然语言搜索的强大性能，“人车对话”则达到了一个新的高度。随后谷歌正式发布Android Auto开发包。同样，新的AndroidAuto SDK可以允许开发者开发针对汽车的应用。SDK包含与其他Android系统类似的通知中心API接口。截至目前，超过40家汽车商已与谷歌就Android Auto展开合作。Android Auto跟Android L一样会在今年稍后时候上市。
+
+
+
+

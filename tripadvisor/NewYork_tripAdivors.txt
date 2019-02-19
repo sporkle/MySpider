@@ -1,0 +1,3452 @@
+Title: 中央公园
+nums: 纽约市排名第 1 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 9/11纪念馆
+nums: 纽约市排名第 2 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 大都会艺术博物馆
+nums: 纽约市排名第 3 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 峭石之巅观景台
+nums: 纽约市排名第 4 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 曼哈顿天际线
+nums: 纽约市排名第 5 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 徒步游览 (204)
+nums: 纽约市排名第 7 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 大中央车站
+nums: 纽约市排名第 8 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 高线公园
+nums: 纽约市排名第 9 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 百老汇
+nums: 纽约市排名第 10 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 帝国大厦
+nums: 纽约市排名第 11 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 弗里克美术收藏馆
+nums: 纽约市排名第 13 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 百老汇表演 (180)
+nums: 纽约市排名第 14 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 布莱恩公园
+nums: 纽约市排名第 15 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 世贸一号观景台
+nums: 纽约市排名第 17 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 自由女神像
+nums: 纽约市排名第 18 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 城市游览 (203)
+nums: 纽约市排名第 19 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 圣帕提克大教堂
+nums: 纽约市排名第 20 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 史泰登岛渡轮
+nums: 纽约市排名第 21 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 世贸大厦遗址博物馆工作室
+nums: 纽约市排名第 22 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 无线电城音乐大厅
+nums: 纽约市排名第 24 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 洛克菲勒中心
+nums: 纽约市排名第 25 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约公共图书馆
+nums: 纽约市排名第 26 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 私人游览 (117)
+nums: 纽约市排名第 28 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 美国自然历史博物馆
+nums: 纽约市排名第 31 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 第五大道
+nums: 纽约市排名第 32 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 现代艺术博物馆
+nums: 纽约市排名第 33 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 林肯表演艺术中心
+nums: 纽约市排名第 34 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 美食游览 (49)
+nums: 纽约市排名第 36 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 无畏海空宇宙博物馆
+nums: 纽约市排名第 37 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 切尔西市场
+nums: 纽约市排名第 38 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 林肯中心爵士乐表演
+nums: 纽约市排名第 39 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 摩根图书馆与博物馆
+nums: 纽约市排名第 40 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 埃利斯岛
+nums: 纽约市排名第 41 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 格林威治村
+nums: 纽约市排名第 42 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 归零地（9.11世贸中心遗址）
+nums: 纽约市排名第 43 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 圣保罗教堂
+nums: 纽约市排名第 46 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 自行车游览 (50)
+nums: 纽约市排名第 47 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 文化游览 (59)
+nums: 纽约市排名第 48 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 西村
+nums: 纽约市排名第 49 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: SoHo区
+nums: 纽约市排名第 50 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 华盛顿广场公园
+nums: 纽约市排名第 51 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Christmas Spectacular Starring the Radio City Rockettes
+nums: 纽约市排名第 53 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 克莱斯勒大厦
+nums: 纽约市排名第 54 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 罗斯福岛棕榈泉
+nums: 纽约市排名第 55 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 密室逃脱游戏 (25)
+nums: 纽约市排名第 56 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 熨斗大厦
+nums: 纽约市排名第 57 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 圣约翰教堂
+nums: 纽约市排名第 58 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 艾利斯岛移民博物馆
+nums: 纽约市排名第 59 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 亚治烈街博物馆
+nums: 纽约市排名第 60 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 上西区
+nums: 纽约市排名第 61 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 盖西文剧院
+nums: 纽约市排名第 62 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Gulliver's Gate
+nums: 纽约市排名第 63 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 总督岛国家纪念碑
+nums: 纽约市排名第 64 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约新画廊
+nums: 纽约市排名第 65 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 礼品与特产商店 (589)
+nums: 纽约市排名第 67 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 圣三一教堂
+nums: 纽约市排名第 68 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 曼哈顿桥
+nums: 纽约市排名第 69 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 阿波罗剧院
+nums: 纽约市排名第 70 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 河滨公园
+nums: 纽约市排名第 71 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: One World Trade Center
+nums: 纽约市排名第 72 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 圣·托马斯教堂
+nums: 纽约市排名第 73 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: World Trade Center Memorial Foundation
+nums: 纽约市排名第 74 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 大中央市场
+nums: 纽约市排名第 75 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 哥伦比亚大学
+nums: 纽约市排名第 76 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 哈德逊河公园
+nums: 纽约市排名第 77 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 毕士达喷泉
+nums: 纽约市排名第 78 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 布鲁克菲尔德广场展厅(原世界金融中心)
+nums: 纽约市排名第 79 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 联合广场
+nums: 纽约市排名第 80 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 肉品市场区
+nums: 纽约市排名第 81 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 巴特里公园
+nums: 纽约市排名第 82 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 切尔西
+nums: 纽约市排名第 83 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 梅西百货先驱广场店
+nums: 纽约市排名第 85 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 爵士夜店与酒吧 (25)
+nums: 纽约市排名第 87 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 鲁宾喜马拉雅艺术博物馆
+nums: 纽约市排名第 88 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 直升机游览 (11)
+nums: 纽约市排名第 89 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约杜莎夫人蜡像馆
+nums: 纽约市排名第 90 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 联合国总部
+nums: 纽约市排名第 91 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 国王剧院
+nums: 纽约市排名第 92 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 麦迪逊广场
+nums: 纽约市排名第 93 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 罗斯福岛
+nums: 纽约市排名第 94 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 爱丽丝梦游仙境雕塑
+nums: 纽约市排名第 95 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 哈莱姆区
+nums: 纽约市排名第 96 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 酒吧与夜店 (766)
+nums: 纽约市排名第 98 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 所罗门·R·古根海姆博物馆
+nums: 纽约市排名第 100 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 文学、艺术与音乐游览 (26)
+nums: 纽约市排名第 101 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 约翰·列侬纪念馆
+nums: 纽约市排名第 102 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 新阿姆斯特丹剧院
+nums: 纽约市排名第 103 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 美国原住民博物馆
+nums: 纽约市排名第 105 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约市立博物馆
+nums: 纽约市排名第 106 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 啤酒品尝与游览 (5)
+nums: 纽约市排名第 107 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 联合广场跳蚤市场
+nums: 纽约市排名第 108 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 华尔街
+nums: 纽约市排名第 109 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 中央公园动物园
+nums: 纽约市排名第 110 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 第42街
+nums: 纽约市排名第 111 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 小意大利
+nums: 纽约市排名第 112 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 帕克街
+nums: 纽约市排名第 113 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 眺望台城堡
+nums: 纽约市排名第 115 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约历史协会
+nums: 纽约市排名第 117 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 纽约市立芭蕾舞团
+nums: 纽约市排名第 120 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Columbus Circle
+nums: 纽约市排名第 121 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 购物游览 (26)
+nums: 纽约市排名第 123 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Kings County Distillery
+nums: 纽约市排名第 127 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 多日游 (2)
+nums: 纽约市排名第 128 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 滑雪&游览 (1)
+nums: 纽约市排名第 129 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 漂流 (1)
+nums: 纽约市排名第 130 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 布鲁明戴尔百货店
+nums: 纽约市排名第 131 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 联邦厅
+nums: 纽约市排名第 132 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 灯塔剧院
+nums: 纽约市排名第 133 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 南街海港
+nums: 纽约市排名第 135 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 华尔街公牛
+nums: 纽约市排名第 138 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 时代广场教会
+nums: 纽约市排名第 139 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 上东部
+nums: 纽约市排名第 140 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 装备租赁 (32)
+nums: 纽约市排名第 141 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Sea Glass Carousel
+nums: 纽约市排名第 142 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 课程与研讨会 (49)
+nums: 纽约市排名第 143 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 一日游 (13)
+nums: 纽约市排名第 144 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Ripley's Believe It or Not - Times Square
+nums: 纽约市排名第 145 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 犹太人博物馆
+nums: 纽约市排名第 146 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Minskoff剧院
+nums: 纽约市排名第 148 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 海登天文馆
+nums: 纽约市排名第 149 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 尼尔·西蒙剧院
+nums: 纽约市排名第 150 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 翠贝卡
+nums: 纽约市排名第 151 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 观光车游览 (7)
+nums: 纽约市排名第 153 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Saturday Night Live - The Exhibition
+nums: 纽约市排名第 154 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 格兰特将军国家纪念堂
+nums: 纽约市排名第 155 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 唐人街
+nums: 纽约市排名第 156 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 宾夕法尼亚车站
+nums: 纽约市排名第 157 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Studio 54
+nums: 纽约市排名第 158 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 纽约证券交易所
+nums: 纽约市排名第 159 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 西奥多·罗斯福诞生地
+nums: 纽约市排名第 160 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约消防博物馆
+nums: 纽约市排名第 161 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: The Met Breuer
+nums: 纽约市排名第 162 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 艺术和设计博物馆
+nums: 纽约市排名第 163 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 圣派翠克大教堂
+nums: 纽约市排名第 164 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 时装技术学院
+nums: 纽约市排名第 165 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 皇后区大桥
+nums: 纽约市排名第 166 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Westfield World Trade Center
+nums: 纽约市排名第 167 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 发现时代广场
+nums: 纽约市排名第 168 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 贾维茨会议中心
+nums: 纽约市排名第 169 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 法兰西斯客栈博物馆
+nums: 纽约市排名第 170 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 外百老汇新世纪舞台
+nums: 纽约市排名第 171 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Stephen Sondheim Theatre
+nums: 纽约市排名第 172 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 纽约市政厅公园旅客信息中心
+nums: 纽约市排名第 173 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 爱尔兰饥荒纪念碑
+nums: 纽约市排名第 174 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 沃尔曼滑冰场
+nums: 纽约市排名第 175 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 长滩
+nums: 纽约市排名第 176 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: The Dakota
+nums: 纽约市排名第 177 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 帝国剧院
+nums: 纽约市排名第 178 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Jacqueline Kennedy Onassis Reservoir
+nums: 纽约市排名第 179 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Bethel Gospel Assembly
+nums: 纽约市排名第 180 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约港
+nums: 纽约市排名第 181 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 梅西感恩节大游行
+nums: 纽约市排名第 182 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 威廉斯堡大桥
+nums: 纽约市排名第 183 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 音乐会 (17)
+nums: 纽约市排名第 186 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 电影和电视游览 (10)
+nums: 纽约市排名第 188 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: World Trade Center's Liberty Park
+nums: 纽约市排名第 189 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 喜剧俱乐部 (30)
+nums: 纽约市排名第 190 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 时代广场剧场
+nums: 纽约市排名第 191 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 时代华纳中心
+nums: 纽约市排名第 192 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 阿勒贡金酒店
+nums: 纽约市排名第 193 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Lyric Theatre
+nums: 纽约市排名第 194 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 乔治·华盛顿桥
+nums: 纽约市排名第 195 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 侯爵剧场
+nums: 纽约市排名第 196 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 先驱广场
+nums: 纽约市排名第 197 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 纽约联邦储备银行
+nums: 纽约市排名第 198 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Franklin D. Roosevelt Four Freedoms Park
+nums: 纽约市排名第 199 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 理查·罗杰斯剧院
+nums: 纽约市排名第 200 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 哥伦布环购物区
+nums: 纽约市排名第 201 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 朗艾克剧院
+nums: 纽约市排名第 202 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 木球草地
+nums: 纽约市排名第 203 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 哈密尔顿农庄国家纪念碑
+nums: 纽约市排名第 204 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 兰心大戏院
+nums: 纽约市排名第 205 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Cadillac Winter Garden剧院
+nums: 纽约市排名第 207 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 下东部
+nums: 纽约市排名第 208 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 国宾剧院
+nums: 纽约市排名第 209 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 铁路 (1)
+nums: 纽约市排名第 210 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 切尔西码头
+nums: 纽约市排名第 211 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 非裔公墓国家纪念碑
+nums: 纽约市排名第 212 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 韩国城
+nums: 纽约市排名第 213 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Gerald Schoenfeld Theatre
+nums: 纽约市排名第 214 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: St. James Theater
+nums: 纽约市排名第 215 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 快艇游览 (3)
+nums: 纽约市排名第 218 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 马车游览 (22)
+nums: 纽约市排名第 219 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 埃塞尔巴利摩剧院
+nums: 纽约市排名第 220 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 炮台公园市洛克菲勒公园
+nums: 纽约市排名第 221 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: East Village
+nums: 纽约市排名第 222 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Kinokuniya Book Stores of America
+nums: 纽约市排名第 223 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 人驞奥妙展
+nums: 纽约市排名第 224 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Lord & Taylor百货商场
+nums: 纽约市排名第 226 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Godiva Chocolatier
+nums: 纽约市排名第 227 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: SPA (569)
+nums: 纽约市排名第 228 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: PATH
+nums: 纽约市排名第 229 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Museum of the American Gangster
+nums: 纽约市排名第 230 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 莎士比亚公园
+nums: 纽约市排名第 231 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 杜菲广场
+nums: 纽约市排名第 233 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 曼哈顿儿童博物馆
+nums: 纽约市排名第 234 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: New York City Hall
+nums: 纽约市排名第 235 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 跑步游览 (3)
+nums: 纽约市排名第 236 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Trinity Church Cemetery & Mausoleum
+nums: 纽约市排名第 237 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 佩雷公园
+nums: 纽约市排名第 238 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 朗特方谭剧院
+nums: 纽约市排名第 239 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 大地球仪
+nums: 纽约市排名第 240 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 美国金融博物馆
+nums: 纽约市排名第 241 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 纽约表演艺术公共图书馆
+nums: 纽约市排名第 242 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: H&M专卖店
+nums: 纽约市排名第 243 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: GhostBusters Firestation
+nums: 纽约市排名第 244 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 美国芭蕾舞剧团
+nums: 纽约市排名第 245 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Washington Square Arch
+nums: 纽约市排名第 246 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 格拉梅西公园
+nums: 纽约市排名第 247 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 百老汇贝拉斯科剧院
+nums: 纽约市排名第 248 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 倪德伦剧院
+nums: 纽约市排名第 249 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 早安美国城
+nums: 纽约市排名第 250 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Alleva Dairy
+nums: 纽约市排名第 251 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Morris-Jumel大厦
+nums: 纽约市排名第 252 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 纽约大学
+nums: 纽约市排名第 253 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 音乐盒剧院
+nums: 纽约市排名第 254 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 中央公园文学路
+nums: 纽约市排名第 255 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Broadhurst Theatre
+nums: 纽约市排名第 256 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 古埃及方尖碑
+nums: 纽约市排名第 257 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Seventh Avenue
+nums: 纽约市排名第 258 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Greeley Square Park
+nums: 纽约市排名第 259 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 乔伊斯剧院
+nums: 纽约市排名第 260 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 切尔莎跳蚤市场
+nums: 纽约市排名第 261 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Cort Theatre
+nums: 纽约市排名第 262 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 克林顿城堡国家纪念馆
+nums: 纽约市排名第 263 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 奥古斯特·威尔逊剧院
+nums: 纽约市排名第 264 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: The New York Pass
+nums: 纽约市排名第 265 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 尤金·奥尼尔剧场
+nums: 纽约市排名第 266 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 舞厅与迪厅 (32)
+nums: 纽约市排名第 268 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: FDNY Memorial Wall
+nums: 纽约市排名第 269 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 卡尔舒茨公园
+nums: 纽约市排名第 270 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 夜间游览 (21)
+nums: 纽约市排名第 272 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 博物馆路
+nums: 纽约市排名第 273 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 中城剧院
+nums: 纽约市排名第 274 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 巴尼百货公司
+nums: 纽约市排名第 275 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Bernard B. Jacobs Theatre
+nums: 纽约市排名第 277 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 幽灵与吸血鬼游览 (9)
+nums: 纽约市排名第 278 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Hudson River Greenway
+nums: 纽约市排名第 279 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 爱德·苏利文剧院
+nums: 纽约市排名第 280 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 约瑟夫帕普公共剧院
+nums: 纽约市排名第 281 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 通用电气大楼
+nums: 纽约市排名第 282 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 哈莱姆画室博物馆
+nums: 纽约市排名第 283 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Hans Christian Andersen Statue
+nums: 纽约市排名第 284 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 莫尔公园
+nums: 纽约市排名第 285 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Deno's奇迹公园
+nums: 纽约市排名第 286 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 美国民俗博物馆
+nums: 纽约市排名第 287 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Houdini Museum of New York at Fantasma Magic
+nums: 纽约市排名第 288 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 伊莉沙白大道
+nums: 纽约市排名第 289 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 美国海关局
+nums: 纽约市排名第 290 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 格雷斯教堂
+nums: 纽约市排名第 291 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Conservatory Water
+nums: 纽约市排名第 292 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: ABC家居商店
+nums: 纽约市排名第 293 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 沃尔特•克尔剧院
+nums: 纽约市排名第 294 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 布鲁克斯亚金森剧院
+nums: 纽约市排名第 295 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 博兹剧院
+nums: 纽约市排名第 296 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Balto Statue
+nums: 纽约市排名第 297 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Westside Theatre
+nums: 纽约市排名第 299 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Hope Sculpture
+nums: 纽约市排名第 300 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 市政大楼
+nums: 纽约市排名第 301 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 曼哈顿购物中心
+nums: 纽约市排名第 302 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 圣玛丽教堂
+nums: 纽约市排名第 303 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 邮政总局
+nums: 纽约市排名第 304 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Artists & Fleas at Chelsea Market
+nums: 纽约市排名第 305 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Fulton Center
+nums: 纽约市排名第 306 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 以马内利会堂
+nums: 纽约市排名第 307 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 时装展与游览 (2)
+nums: 纽约市排名第 309 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Wollman Rink
+nums: 纽约市排名第 310 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 玻璃花房
+nums: 纽约市排名第 311 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: First Corinthian Baptist Church
+nums: 纽约市排名第 312 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 百思买剧院
+nums: 纽约市排名第 313 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: The Pershing Square Signature Center
+nums: 纽约市排名第 314 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 罗丝地球环境科学中心
+nums: 纽约市排名第 315 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Modell's商场
+nums: 纽约市排名第 316 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: New York City Supreme Court
+nums: 纽约市排名第 317 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: FDNY Fire Zone
+nums: 纽约市排名第 318 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 哥伦布公园
+nums: 纽约市排名第 319 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Governors Island
+nums: 纽约市排名第 320 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 华盛顿广场十九号
+nums: 纽约市排名第 321 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Essex Street Market
+nums: 纽约市排名第 322 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Greater Refuge Temple
+nums: 纽约市排名第 323 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 美国插话博物馆
+nums: 纽约市排名第 324 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Obscura Antiques & Oddities
+nums: 纽约市排名第 326 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 船只租赁 (4)
+nums: 纽约市排名第 327 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 朱莉亚音乐学院
+nums: 纽约市排名第 328 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 戴拉寇特剧院
+nums: 纽约市排名第 329 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Pier 17
+nums: 纽约市排名第 330 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 都铎市
+nums: 纽约市排名第 331 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: The Art of the Brick by Nathan Sawaya
+nums: 纽约市排名第 332 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 亚洲协会博物馆
+nums: 纽约市排名第 333 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 汤普金斯广场公园
+nums: 纽约市排名第 334 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 儿童艺术博物馆
+nums: 纽约市排名第 335 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 跳蚤市场
+nums: 纽约市排名第 336 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Greenacre Pocket Park
+nums: 纽约市排名第 337 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约市刑事法庭
+nums: 纽约市排名第 338 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 摩天大楼博物馆
+nums: 纽约市排名第 339 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 烹饪班 (28)
+nums: 纽约市排名第 341 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 林肯广场
+nums: 纽约市排名第 342 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 市政厅
+nums: 纽约市排名第 343 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 尼古拉斯·罗利其博物馆
+nums: 纽约市排名第 344 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 爱尔兰剧院
+nums: 纽约市排名第 345 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 弗农山酒店博物馆&公园
+nums: 纽约市排名第 346 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 奥纳西思文化中心
+nums: 纽约市排名第 347 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 34th Street
+nums: 纽约市排名第 348 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Heckscher Playground
+nums: 纽约市排名第 349 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 晨曦公园
+nums: 纽约市排名第 350 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 红色立方体
+nums: 纽约市排名第 351 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: John V. Lindsay East River Park
+nums: 纽约市排名第 353 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 电影院 (29)
+nums: 纽约市排名第 354 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 新闻大楼
+nums: 纽约市排名第 355 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: St. Peter's Church
+nums: 纽约市排名第 356 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 纽约公园大道军械库
+nums: 纽约市排名第 357 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: The High Bridge
+nums: 纽约市排名第 358 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 越南退伍军人广场
+nums: 纽约市排名第 359 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约水道
+nums: 纽约市排名第 361 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 59E59 Theaters
+nums: 纽约市排名第 362 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Central Synagogue
+nums: 纽约市排名第 363 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: The Armory (Track)
+nums: 纽约市排名第 364 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Bethesda Terrace
+nums: 纽约市排名第 365 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 雪丽兰剧场
+nums: 纽约市排名第 366 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Pier 45
+nums: 纽约市排名第 367 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: American Merchant Marines Memorial
+nums: 纽约市排名第 368 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 瑞典木偶剧院
+nums: 纽约市排名第 369 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: David Geffen Hall
+nums: 纽约市排名第 370 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 自助游与出租屋 (5)
+nums: 纽约市排名第 372 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Pier 66 Maritime
+nums: 纽约市排名第 373 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 新胜利剧院
+nums: 纽约市排名第 374 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Zuccotti Park
+nums: 纽约市排名第 375 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Helmsley Building
+nums: 纽约市排名第 376 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 海峡庭园
+nums: 纽约市排名第 377 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Hudson Theatre
+nums: 纽约市排名第 378 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 兰德尔岛
+nums: 纽约市排名第 379 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 南衡海港博物馆
+nums: 纽约市排名第 380 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 小红灯塔
+nums: 纽约市排名第 381 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 帕雷媒体中心
+nums: 纽约市排名第 382 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 维多利亚花园
+nums: 纽约市排名第 383 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: The Davenport Theatre
+nums: 纽约市排名第 384 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 西格拉姆大厦
+nums: 纽约市排名第 385 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: The Sphere
+nums: 纽约市排名第 386 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 曼哈顿戏剧俱乐部
+nums: 纽约市排名第 387 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 海伦·海斯剧院
+nums: 纽约市排名第 388 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Easter Parade
+nums: 纽约市排名第 389 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: The Jefferson Market Garden
+nums: 纽约市排名第 390 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 美国标准大厦
+nums: 纽约市排名第 391 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Tom's Diner
+nums: 纽约市排名第 392 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 曼哈顿环岛骑
+nums: 纽约市排名第 393 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 钢琴酒吧 (10)
+nums: 纽约市排名第 395 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 伍德山公园
+nums: 纽约市排名第 396 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 纽约修道院大街浸信会
+nums: 纽约市排名第 397 的景点玩乐 (共 1,115 个) 
+score: 3 分，共 5 分
+
+Title: 阿比西尼亚浸信会教堂
+nums: 纽约市排名第 398 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Urbanspace - Broadway Bites
+nums: 纽约市排名第 401 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 飞索与空中冒险乐园 (1)
+nums: 纽约市排名第 402 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 刺激与极限游览 (1)
+nums: 纽约市排名第 403 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 万圣节大游行
+nums: 纽约市排名第 404 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Church of St. Francis of Assisi
+nums: 纽约市排名第 405 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 河边车道
+nums: 纽约市排名第 406 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 黑街
+nums: 纽约市排名第 407 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: The Players Theatre
+nums: 纽约市排名第 408 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Ben & Jerry's Times Square
+nums: 纽约市排名第 409 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 重回福科斯伍德剧院
+nums: 纽约市排名第 410 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Peace Fountain - Friedensbrunnen
+nums: 纽约市排名第 411 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 阿斯提宫剧院
+nums: 纽约市排名第 412 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: The Hunger Games Exhibition
+nums: 纽约市排名第 413 的景点玩乐 (共 1,115 个) 
+score: 2.5 分，共 5 分
+
+Title: 斯堪的纳维亚博物馆
+nums: 纽约市排名第 414 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Schaller & Weber
+nums: 纽约市排名第 415 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 性博物馆
+nums: 纽约市排名第 416 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 苏富比
+nums: 纽约市排名第 417 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 宝立
+nums: 纽约市排名第 418 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 波多黎克博物馆
+nums: 纽约市排名第 419 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 珍珠河
+nums: 纽约市排名第 420 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Jose de San Martin Statue
+nums: 纽约市排名第 421 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 洛克威斯住宅区
+nums: 纽约市排名第 422 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 变容教堂
+nums: 纽约市排名第 423 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Elektra Theatre
+nums: 纽约市排名第 424 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Nuyorican Poet's Cafe
+nums: 纽约市排名第 425 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 国家设计学院博物馆
+nums: 纽约市排名第 426 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 杰弗森市场图书馆
+nums: 纽约市排名第 427 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Saint Paul Chapel
+nums: 纽约市排名第 428 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Antioch Baptist Church New York
+nums: 纽约市排名第 429 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Church of St. Paul the Apostle
+nums: 纽约市排名第 430 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约游艇俱乐部
+nums: 纽约市排名第 431 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Institute for the Study of the Ancient World
+nums: 纽约市排名第 432 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 大都会人寿保险公司大楼
+nums: 纽约市排名第 433 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Metropolitan Transportation Authority
+nums: 纽约市排名第 434 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 绿跳蚤旧货市场
+nums: 纽约市排名第 435 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: The Pond
+nums: 纽约市排名第 436 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 巴里摩尔剧院
+nums: 纽约市排名第 437 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 克里斯多福公园
+nums: 纽约市排名第 438 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: New York International Auto Show
+nums: 纽约市排名第 439 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Anne Frank Center for Mutual Respect
+nums: 纽约市排名第 440 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Lincoln Tunnel
+nums: 纽约市排名第 441 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 萨顿公园
+nums: 纽约市排名第 442 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Leslie-Lohman Museum of Gay and Lesbian Art
+nums: 纽约市排名第 443 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Barrow Street Theatre
+nums: 纽约市排名第 444 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: The Discovery of King Tut
+nums: 纽约市排名第 445 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约市旅游会展局官方游客信息中心
+nums: 纽约市排名第 446 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Chelsea酒店
+nums: 纽约市排名第 447 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 小舒伯特剧院
+nums: 纽约市排名第 448 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: The Church of St. Ignatius Loyola
+nums: 纽约市排名第 449 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Hell's Kitchen & Clinton Dog Run
+nums: 纽约市排名第 450 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Times Square Museum and Visitor Center
+nums: 纽约市排名第 451 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Trip to Bountiful
+nums: 纽约市排名第 452 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 加戈施安美术馆
+nums: 纽约市排名第 453 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Ladies Pavilion
+nums: 纽约市排名第 454 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: The Kneeling Fireman
+nums: 纽约市排名第 455 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 地下生活
+nums: 纽约市排名第 456 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: A.M.E.锡安妈妈教堂
+nums: 纽约市排名第 457 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 纽约亚高洛画廊
+nums: 纽约市排名第 458 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 都德市绿地
+nums: 纽约市排名第 459 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: The Rambles酒吧
+nums: 纽约市排名第 460 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约圣经艺术博物馆
+nums: 纽约市排名第 461 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 尚博格黑人文化研究中心
+nums: 纽约市排名第 462 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Vivian Beaumont Theatre
+nums: 纽约市排名第 463 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 圣女西顿
+nums: 纽约市排名第 464 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 大理石教堂
+nums: 纽约市排名第 465 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: St. Patrick’s Day Parade New York City
+nums: 纽约市排名第 466 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 奥查德大街
+nums: 纽约市排名第 467 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: New York Transit Museum
+nums: 纽约市排名第 468 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Grand Masonic Lodge of New York
+nums: 纽约市排名第 469 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: David H. Koch Theater
+nums: 纽约市排名第 470 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 卡内基丘
+nums: 纽约市排名第 471 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: United Palace
+nums: 纽约市排名第 472 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 玛希斯·卡瑞纪念公园
+nums: 纽约市排名第 473 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 其他户外活动 (7)
+nums: 纽约市排名第 475 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 纽约时代广场新年倒计时
+nums: 纽约市排名第 476 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 日本协会
+nums: 纽约市排名第 477 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 孔子塑像
+nums: 纽约市排名第 478 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Italian American Museum
+nums: 纽约市排名第 479 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 纽约土地室
+nums: 纽约市排名第 480 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Metro Pictures画廊
+nums: 纽约市排名第 481 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Magnet Theater
+nums: 纽约市排名第 482 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: American Express 11 Tears Memorial
+nums: 纽约市排名第 483 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 库柏联盟大楼
+nums: 纽约市排名第 484 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Sixth Avenue (Avenue of the Americas)
+nums: 纽约市排名第 485 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 卡拉 OK 吧 (13)
+nums: 纽约市排名第 487 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 奥芬大剧院
+nums: 纽约市排名第 488 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 路西尔·洛特尔剧院
+nums: 纽约市排名第 489 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Bow Bridge
+nums: 纽约市排名第 490 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: The Episcopal Church of The Heavenly Rest
+nums: 纽约市排名第 491 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 国家艺术俱乐部
+nums: 纽约市排名第 492 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: GemsNY
+nums: 纽约市排名第 493 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Theodore Roosevelt Park
+nums: 纽约市排名第 494 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 迪克曼农庄博物馆
+nums: 纽约市排名第 495 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 圣詹姆斯剧院
+nums: 纽约市排名第 496 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 圣米迦勒教堂
+nums: 纽约市排名第 497 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Fred F. French Building
+nums: 纽约市排名第 498 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Alexander Hamilton Statue
+nums: 纽约市排名第 499 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 马尔科勒姆·夏巴斯·哈莱姆市场
+nums: 纽约市排名第 500 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Theatre At St. Clement's
+nums: 纽约市排名第 501 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: St. John the Baptist Church
+nums: 纽约市排名第 502 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Monumento a Cristobal Colon
+nums: 纽约市排名第 503 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 哈利特自然保护区
+nums: 纽约市排名第 504 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Wagner Cove
+nums: 纽约市排名第 505 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 乌克兰博物馆
+nums: 纽约市排名第 506 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 贾德基金
+nums: 纽约市排名第 507 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Roosevelt Island Historical Society Visitor Center Kiosk
+nums: 纽约市排名第 508 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 诗人之家
+nums: 纽约市排名第 509 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 福特基金会大楼
+nums: 纽约市排名第 511 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Titanic Memorial Park
+nums: 纽约市排名第 512 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Group of Bears Statue
+nums: 纽约市排名第 513 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: This is Our Youth - Cort Theatre
+nums: 纽约市排名第 514 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 百老汇大扫把
+nums: 纽约市排名第 515 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Dag-Hammarskjold Plaza Greenmarket
+nums: 纽约市排名第 516 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约联合广场剧院
+nums: 纽约市排名第 517 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Daryl Roth Theatre
+nums: 纽约市排名第 518 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: New York Comic-Con
+nums: 纽约市排名第 519 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Minetta Lane Theatre
+nums: 纽约市排名第 520 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Cadillac House
+nums: 纽约市排名第 521 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 哥伦比亚广播公司大厦
+nums: 纽约市排名第 522 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 巴士交通 (12)
+nums: 纽约市排名第 524 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 犹太历史中心
+nums: 纽约市排名第 525 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 剧作家视野剧院
+nums: 纽约市排名第 526 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Aqueduct跑马道
+nums: 纽约市排名第 527 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Highbridge Park
+nums: 纽约市排名第 528 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Vivian Beaumont Theater - Macbeth
+nums: 纽约市排名第 529 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Alice Tully Hall
+nums: 纽约市排名第 530 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: The Appel Room
+nums: 纽约市排名第 531 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Fifth Avenue Presbiterian Church
+nums: 纽约市排名第 532 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 劳拉·佩尔斯剧院
+nums: 纽约市排名第 533 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 哈林湖
+nums: 纽约市排名第 534 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: New York Public Library - Bloomingdale Library
+nums: 纽约市排名第 536 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 蓝调夜店与酒吧 (3)
+nums: 纽约市排名第 537 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Library Way
+nums: 纽约市排名第 538 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 包厘街圣马可教堂
+nums: 纽约市排名第 539 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 第二舞台剧院
+nums: 纽约市排名第 540 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: William Jenkins Worth Monument
+nums: 纽约市排名第 541 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 圣卢克宫
+nums: 纽约市排名第 542 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: East River Waterfront Esplanade
+nums: 纽约市排名第 543 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 纽约大学斯哥尔柏表演艺术中心
+nums: 纽约市排名第 544 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Robert F. Kennedy Bridge
+nums: 纽约市排名第 545 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: John Jay Park
+nums: 纽约市排名第 546 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Aperture Foundation Gallery
+nums: 纽约市排名第 547 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: The National Jazz Museum in Harlem
+nums: 纽约市排名第 548 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 贞德纪念碑
+nums: 纽约市排名第 549 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Salmagundi美国艺术博物馆
+nums: 纽约市排名第 550 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Foley Square
+nums: 纽约市排名第 551 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 多伦多圣三一教堂
+nums: 纽约市排名第 552 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: The Lowline Lab
+nums: 纽约市排名第 553 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 基督教堂
+nums: 纽约市排名第 554 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 海斯特街集市
+nums: 纽约市排名第 555 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Soldiers' and Sailors Monument New York
+nums: 纽约市排名第 556 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Fantasy Forest Amusement Park at the Flushing Meadows Carousel
+nums: 纽约市排名第 557 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 纽约清真寺
+nums: 纽约市排名第 558 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 奋斗者街
+nums: 纽约市排名第 559 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 健康/健身俱乐部与健身房 (18)
+nums: 纽约市排名第 561 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: St. Jean Baptiste Roman Catholic Church
+nums: 纽约市排名第 562 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: St. Nicholas Park
+nums: 纽约市排名第 563 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Ralph Bunche Park
+nums: 纽约市排名第 564 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Church of Saint Vincent Ferrer
+nums: 纽约市排名第 565 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Sara D Roosevelt Park
+nums: 纽约市排名第 566 的景点玩乐 (共 1,115 个) 
+score: 3 分，共 5 分
+
+Title: King Jagiello Monument
+nums: 纽约市排名第 567 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Rose Theater
+nums: 纽约市排名第 568 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Second Avenue Subway
+nums: 纽约市排名第 569 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Silverstein Family Park
+nums: 纽约市排名第 570 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Elmendorf Reformed Church
+nums: 纽约市排名第 571 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Lilac Gallery
+nums: 纽约市排名第 572 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: The Garden at St. Lukes in the Fields
+nums: 纽约市排名第 573 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: The Museum of Interesting Things
+nums: 纽约市排名第 574 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: St Andrew Church
+nums: 纽约市排名第 575 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 拉玛玛剧团
+nums: 纽约市排名第 576 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 英伍德公园
+nums: 纽约市排名第 577 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Church of Saint Agnes
+nums: 纽约市排名第 578 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 献给美国的瓷砖画
+nums: 纽约市排名第 579 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Salem United Methodist Church
+nums: 纽约市排名第 580 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约体验剧院
+nums: 纽约市排名第 581 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 75 1/2 Bedford Street
+nums: 纽约市排名第 582 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 第一大通曼哈顿广场
+nums: 纽约市排名第 583 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Statue of Lenin
+nums: 纽约市排名第 584 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 奥地利文化论坛
+nums: 纽约市排名第 585 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约市立歌剧院
+nums: 纽约市排名第 586 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 石楠花园
+nums: 纽约市排名第 587 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Diamond District
+nums: 纽约市排名第 588 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: New York Society Library
+nums: 纽约市排名第 589 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: T.J. Maxx
+nums: 纽约市排名第 590 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Mt Olivet Baptist Church
+nums: 纽约市排名第 591 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 圣尼古拉斯俄罗斯东正教教堂
+nums: 纽约市排名第 592 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 新城剧院
+nums: 纽约市排名第 593 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 游吟诗人毕业生中心画廊
+nums: 纽约市排名第 594 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: The Pearl Theatre
+nums: 纽约市排名第 595 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Gotham Carriages
+nums: 纽约市排名第 596 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: More and More Antiques
+nums: 纽约市排名第 597 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: The New Theater at 45th Street - Around the World in 80 Days
+nums: 纽约市排名第 598 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Ebenezer Gospel Tabernacle
+nums: 纽约市排名第 599 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Jean Dubuffet - Group of Four Trees
+nums: 纽约市排名第 600 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Tribeca Art Factory
+nums: 纽约市排名第 601 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Mint Theater Company
+nums: 纽约市排名第 602 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 贝雷斯福德
+nums: 纽约市排名第 603 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Castle Williams
+nums: 纽约市排名第 604 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 纽豪斯剧场
+nums: 纽约市排名第 605 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Madison Square Park
+nums: 纽约市排名第 606 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Turtle Pond
+nums: 纽约市排名第 607 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: The Immigrants
+nums: 纽约市排名第 608 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: De Witt Clinton Park
+nums: 纽约市排名第 609 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 多恩公园
+nums: 纽约市排名第 610 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 发现哥伦布
+nums: 纽约市排名第 611 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: World Trade Center Transportation Hub
+nums: 纽约市排名第 612 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Shiloh Baptist Church
+nums: 纽约市排名第 613 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 美国爱尔兰历史协会
+nums: 纽约市排名第 614 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Irish Arts Center
+nums: 纽约市排名第 615 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Saint Peter’s Church
+nums: 纽约市排名第 616 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Stephen A. Schwarzman Building
+nums: 纽约市排名第 617 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Liz Christy Bowery Houston Community Garden
+nums: 纽约市排名第 618 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Sniffen Court Historic District
+nums: 纽约市排名第 619 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: William Cullen Bryant Statue
+nums: 纽约市排名第 620 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Kirk Theatre
+nums: 纽约市排名第 621 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Gapstow Bridge
+nums: 纽约市排名第 622 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 葡萄园剧院
+nums: 纽约市排名第 623 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 舒乐堡航海业博物馆
+nums: 纽约市排名第 624 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: St. Vartan Armenian Cathedral
+nums: 纽约市排名第 625 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Fulton水产市场
+nums: 纽约市排名第 626 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 纽约歌剧院
+nums: 纽约市排名第 627 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 想像力公园
+nums: 纽约市排名第 628 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 华盛顿广场七号
+nums: 纽约市排名第 629 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Kehila Kedosha Janina
+nums: 纽约市排名第 630 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Saint Sava Serbian Orthodox Cathedral
+nums: 纽约市排名第 631 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Arthur Ashe Stadium
+nums: 纽约市排名第 632 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: The San Remo
+nums: 纽约市排名第 633 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Sheen Center
+nums: 纽约市排名第 634 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Church of Our Lady of Mount Carmel
+nums: 纽约市排名第 635 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 第26街跳蚤市场
+nums: 纽约市排名第 636 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Graffiti Hall of Fame
+nums: 纽约市排名第 637 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 中国研究所
+nums: 纽约市排名第 638 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 艾沙姆公园
+nums: 纽约市排名第 639 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Museum of Reclaimed Urban Space (MoRUS)
+nums: 纽约市排名第 640 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 6 1/2 Avenue
+nums: 纽约市排名第 641 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 中央公园比利·约翰森游乐场
+nums: 纽约市排名第 642 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Canaan Baptist Church of Christ
+nums: 纽约市排名第 643 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: P.S. 183古玩跳蚤集市
+nums: 纽约市排名第 644 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 河岸州立公园
+nums: 纽约市排名第 645 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Theatre 80 Saint Marks
+nums: 纽约市排名第 646 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 花旗集团中心
+nums: 纽约市排名第 647 的景点玩乐 (共 1,115 个) 
+score: 3 分，共 5 分
+
+Title: 保龄球馆 (2)
+nums: 纽约市排名第 649 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Joey Ramone Place
+nums: 纽约市排名第 650 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Stonewall National Monument
+nums: 纽约市排名第 651 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: The Renee and Chaim Gross Foundation
+nums: 纽约市排名第 652 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: New York Classical Theatre
+nums: 纽约市排名第 653 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 凯利庙
+nums: 纽约市排名第 654 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Lasker Rink and Pool
+nums: 纽约市排名第 655 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Firemen's Memorial
+nums: 纽约市排名第 656 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Shrine of Frances Xavier Cabrini
+nums: 纽约市排名第 657 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: I Heart Radio Theater
+nums: 纽约市排名第 658 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 救主堂
+nums: 纽约市排名第 659 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 53rd Street Public Library
+nums: 纽约市排名第 660 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: The Lotus Garden
+nums: 纽约市排名第 661 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 克里斯朵夫大街51-53酒吧
+nums: 纽约市排名第 662 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: IGT Jewelry Shopping Mall
+nums: 纽约市排名第 663 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Electric Zoo
+nums: 纽约市排名第 664 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Tribeca Film Festival
+nums: 纽约市排名第 665 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: The Showplace
+nums: 纽约市排名第 666 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 餐馆剧院 (4)
+nums: 纽约市排名第 668 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Ninth Avenue International Food Festival
+nums: 纽约市排名第 669 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: The Ansonia
+nums: 纽约市排名第 670 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Giuseppe Verdi Monument
+nums: 纽约市排名第 672 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 雪茄吧 (8)
+nums: 纽约市排名第 673 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 利华大厦
+nums: 纽约市排名第 675 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: St. Luke's Theatre
+nums: 纽约市排名第 676 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 高尔夫球场 (4)
+nums: 纽约市排名第 677 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 蛋糕店
+nums: 纽约市排名第 678 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Church of Our Lady of Guadalupe
+nums: 纽约市排名第 679 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Our Lady of Pompeii
+nums: 纽约市排名第 681 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 纽约州长舞会音乐节
+nums: 纽约市排名第 682 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Kerr Theater Forever Tango
+nums: 纽约市排名第 683 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 皮划艇与独木舟 (4)
+nums: 纽约市排名第 684 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Hauser & Wirth
+nums: 纽约市排名第 685 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Seidenberg Antiques
+nums: 纽约市排名第 686 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Bruce Reynold’s Garden
+nums: 纽约市排名第 687 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Lik Soho
+nums: 纽约市排名第 688 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Momenta艺术画廊
+nums: 纽约市排名第 689 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 基督圣体堂
+nums: 纽约市排名第 690 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: SoHo古玩和跳蚤市场
+nums: 纽约市排名第 691 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Peter Detmold Park
+nums: 纽约市排名第 692 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Grolier Club
+nums: 纽约市排名第 693 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 斯佩罗韦斯特沃特
+nums: 纽约市排名第 694 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Museum of Comic and Cartoon Art MOCCA NYC
+nums: 纽约市排名第 695 的景点玩乐 (共 1,115 个) 
+score: 3 分，共 5 分
+
+Title: Asphalt Green
+nums: 纽约市排名第 696 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 跳蚤
+nums: 纽约市排名第 697 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 米勒剧院
+nums: 纽约市排名第 698 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 皇家剧院
+nums: 纽约市排名第 699 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Queen of Greene街
+nums: 纽约市排名第 700 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Caywood Vineyards
+nums: 纽约市排名第 701 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: East River Roundabout
+nums: 纽约市排名第 702 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Larry's Freewheeling
+nums: 纽约市排名第 703 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 切尔西艺术博物馆
+nums: 纽约市排名第 704 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Frantiques Gallery
+nums: 纽约市排名第 705 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Katharine Hepburn Garden
+nums: 纽约市排名第 706 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Graybar Electric Building (Graybar Rats)
+nums: 纽约市排名第 707 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Dave's New york
+nums: 纽约市排名第 708 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Dana Discovery Center
+nums: 纽约市排名第 709 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Rohrbachs Railroad Street Brewery
+nums: 纽约市排名第 710 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Brooklyn Municipal Building
+nums: 纽约市排名第 711 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Ukrainian Institute of America
+nums: 纽约市排名第 712 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Hell Gate Bridge
+nums: 纽约市排名第 713 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Dante Park
+nums: 纽约市排名第 714 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Midtown Theater
+nums: 纽约市排名第 715 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Carvel
+nums: 纽约市排名第 716 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 叶史瓦大学博物馆
+nums: 纽约市排名第 717 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Holy Trinity Greek Orthodox Cathedral
+nums: 纽约市排名第 718 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: St. Joseph's Church in Greenwich Village
+nums: 纽约市排名第 719 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Doris C. Freedman Plaza
+nums: 纽约市排名第 720 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Banksy's "Hammer Boy"
+nums: 纽约市排名第 721 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: The Center for Book Arts
+nums: 纽约市排名第 722 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: The Playroom NYC
+nums: 纽约市排名第 723 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Machpelah Cemetery, site of Houdini's grave
+nums: 纽约市排名第 724 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: The Gym at Judson
+nums: 纽约市排名第 725 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Church of St Charles Borromeo
+nums: 纽约市排名第 726 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Cathedral Church of St. Thomas the Apostle
+nums: 纽约市排名第 727 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 新阿姆斯特丹市场
+nums: 纽约市排名第 728 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Paine Webber画廊
+nums: 纽约市排名第 729 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 芭芭拉·格拉德斯通美术馆
+nums: 纽约市排名第 730 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 霍华德S.露丝画廊
+nums: 纽约市排名第 731 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 水手施洗教堂
+nums: 纽约市排名第 732 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 威廉二世美术馆
+nums: 纽约市排名第 733 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Nice Price/SSS Sample Sale特价商店
+nums: 纽约市排名第 734 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 素描中心
+nums: 纽约市排名第 735 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 非洲艺术博物馆
+nums: 纽约市排名第 736 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 徒步与露营游览 (3)
+nums: 纽约市排名第 738 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约地底博物馆
+nums: 纽约市排名第 739 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: DiMenna Children's History Museum
+nums: 纽约市排名第 740 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: St. Francis de Sales Church
+nums: 纽约市排名第 741 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Pier 54
+nums: 纽约市排名第 742 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Anderson Cooper Tv Show
+nums: 纽约市排名第 743 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Liberty Theater
+nums: 纽约市排名第 744 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: East 72nd Street Playground
+nums: 纽约市排名第 745 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Liddabit Sweets
+nums: 纽约市排名第 746 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 美国移民荣誉墙
+nums: 纽约市排名第 747 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: John Street United Methodist Church
+nums: 纽约市排名第 748 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 佩斯·韦登斯坦恩画廊
+nums: 纽约市排名第 749 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Kimlau Square
+nums: 纽约市排名第 750 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Alex Adam Gallery
+nums: 纽约市排名第 751 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Korean War Veterans Memorial
+nums: 纽约市排名第 752 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: The 520 Madison Avenue Berlin Wall
+nums: 纽约市排名第 753 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 圆顶教堂
+nums: 纽约市排名第 754 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Taglialatella Galleries
+nums: 纽约市排名第 755 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Howard Greenberg画廊
+nums: 纽约市排名第 756 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Bartman Statue
+nums: 纽约市排名第 757 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Holy Cross Church
+nums: 纽约市排名第 758 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Stiles Farmers Market
+nums: 纽约市排名第 759 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Spiedie Fest & Balloon Rally
+nums: 纽约市排名第 760 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Tada! 剧院
+nums: 纽约市排名第 761 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Owls Head Park
+nums: 纽约市排名第 762 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: NYC Ferry
+nums: 纽约市排名第 763 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Sherry Lehmann
+nums: 纽约市排名第 764 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: National Archives at New York City
+nums: 纽约市排名第 765 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Dia:Chelsea
+nums: 纽约市排名第 766 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 6BC Botanical Garden
+nums: 纽约市排名第 767 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Sikkema Jenkins Company
+nums: 纽约市排名第 768 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 摩托车游览 (2)
+nums: 纽约市排名第 770 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Church of the Incarnation
+nums: 纽约市排名第 772 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 工厂参观游览 (1)
+nums: 纽约市排名第 773 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: East Village
+nums: 纽约市排名第 774 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: New York Marble Cemetery
+nums: 纽约市排名第 775 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Episcopal Church Center
+nums: 纽约市排名第 776 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: SohoPhoto Gallery
+nums: 纽约市排名第 777 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Greenwich Village
+nums: 纽约市排名第 778 的景点玩乐 (共 1,115 个) 
+score: 2.5 分，共 5 分
+
+Title: Adam Baumgold Gallery
+nums: 纽约市排名第 779 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 纽约会议暨旅游局
+nums: 纽约市排名第 780 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 勒隆美术馆
+nums: 纽约市排名第 781 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 海勒画廊
+nums: 纽约市排名第 782 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 演员工作室
+nums: 纽约市排名第 783 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 马乐伯画廊
+nums: 纽约市排名第 784 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Franklin Bowles Gallery NYC
+nums: 纽约市排名第 785 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Collect Pond Park
+nums: 纽约市排名第 786 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 宇宙馆
+nums: 纽约市排名第 787 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Storefront for Art and Architecture
+nums: 纽约市排名第 788 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Canyon of Heroes
+nums: 纽约市排名第 789 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: St. John Nepomucene
+nums: 纽约市排名第 790 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: First Park
+nums: 纽约市排名第 791 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Moose River Plains Complex
+nums: 纽约市排名第 792 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Statue of Peter Stuyvesant
+nums: 纽约市排名第 793 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: The Paris Theatre
+nums: 纽约市排名第 794 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: St. Luke African Methodist Episcopal Church
+nums: 纽约市排名第 795 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: The Paul Nicklen Gallery
+nums: 纽约市排名第 796 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Convene
+nums: 纽约市排名第 797 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Greater Zion Hill Baptist Church
+nums: 纽约市排名第 798 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Main Street Park
+nums: 纽约市排名第 799 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Pen and Brush
+nums: 纽约市排名第 800 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Questroyal Fine Art
+nums: 纽约市排名第 801 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 69th Regiment Armory
+nums: 纽约市排名第 802 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Kush Fine Art Gallery
+nums: 纽约市排名第 803 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Church of The Most Precious Blood
+nums: 纽约市排名第 804 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Harlem School of the Arts
+nums: 纽约市排名第 805 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Webster Library
+nums: 纽约市排名第 806 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Martayan Lan Antique Maps
+nums: 纽约市排名第 807 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Carter Burden Gallery
+nums: 纽约市排名第 808 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: St. George Ukrainian Catholic Church
+nums: 纽约市排名第 809 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Richard Taittinger Gallery
+nums: 纽约市排名第 810 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Church of the Covenant
+nums: 纽约市排名第 811 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 纽约市美酒美食节
+nums: 纽约市排名第 812 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Metropolitan Playhouse
+nums: 纽约市排名第 813 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Roosevlet House
+nums: 纽约市排名第 814 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: New Century Artists
+nums: 纽约市排名第 815 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Fredrick Malle
+nums: 纽约市排名第 816 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: SUMO
+nums: 纽约市排名第 817 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Gray & Davis: Antique and Custom Jewelry
+nums: 纽约市排名第 818 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Theatre Bedlam
+nums: 纽约市排名第 819 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Charles A Dana Discovery Center
+nums: 纽约市排名第 820 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: The Northern Dispensary
+nums: 纽约市排名第 821 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Rubenstein Communications, Inc.
+nums: 纽约市排名第 822 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 联合祈祷会
+nums: 纽约市排名第 823 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: bialystoker犹太教堂
+nums: 纽约市排名第 824 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 美洲犹太教神学院
+nums: 纽约市排名第 825 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 柱廊纽约地标
+nums: 纽约市排名第 826 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 舞蹈剧院工作室
+nums: 纽约市排名第 827 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Paula Cooper画廊
+nums: 纽约市排名第 828 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 米歇尔-茵纳什美术馆
+nums: 纽约市排名第 829 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 埃德温胡克美术馆
+nums: 纽约市排名第 830 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 齐姆和里德艺术画廊
+nums: 纽约市排名第 831 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: ATM画廊
+nums: 纽约市排名第 832 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 邮政局长艺廊
+nums: 纽约市排名第 833 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 路令·奥古斯丁艺术画廊
+nums: 纽约市排名第 834 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: Soho Triad画廊
+nums: 纽约市排名第 835 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 犹太文化儿童美术馆
+nums: 纽约市排名第 836 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: African-American Wax Museum of Harlem
+nums: 纽约市排名第 837 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 埃弗雷特儿童探奇乐园
+nums: 纽约市排名第 838 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: 纽约电话公司大楼
+nums: 纽约市排名第 839 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: 马修·马克斯画廊
+nums: 纽约市排名第 840 的景点玩乐 (共 1,115 个) 
+score: 3 分，共 5 分
+
+Title: Dwyer Cultural Center
+nums: 纽约市排名第 841 的景点玩乐 (共 1,115 个) 
+score: 4.5 分，共 5 分
+
+Title: Lynn Redgrave Theater
+nums: 纽约市排名第 842 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Crystal District
+nums: 纽约市排名第 843 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: City Cinema 123
+nums: 纽约市排名第 844 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: City Lore Gallery
+nums: 纽约市排名第 845 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Union Square Metronome
+nums: 纽约市排名第 846 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Logos Bookstore
+nums: 纽约市排名第 847 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Amersfort Park
+nums: 纽约市排名第 848 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Saint Paul Baptist Church
+nums: 纽约市排名第 849 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Church of the Intercession
+nums: 纽约市排名第 850 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Tudor Grove Playground
+nums: 纽约市排名第 851 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Lumas New York - SoHo画廊
+nums: 纽约市排名第 852 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Rattlestick Playwrights Theater
+nums: 纽约市排名第 853 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 名鼠岩
+nums: 纽约市排名第 854 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Cunard Building
+nums: 纽约市排名第 855 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 科尔顿表演艺术中心
+nums: 纽约市排名第 856 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Harlem River Greenway
+nums: 纽约市排名第 857 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Masjid Malcolm Shabazz清真寺
+nums: 纽约市排名第 858 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Equitable画廊
+nums: 纽约市排名第 859 的景点玩乐 (共 1,115 个) 
+score: 3 分，共 5 分
+
+Title: Throgs Neck Bridge
+nums: 纽约市排名第 860 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Eastern States Buddhist Temple of America
+nums: 纽约市排名第 861 的景点玩乐 (共 1,115 个) 
+score: 2.5 分，共 5 分
+
+Title: Dempsey Theater
+nums: 纽约市排名第 862 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Bleecker Street Playground
+nums: 纽约市排名第 863 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 普利茅斯剧院
+nums: 纽约市排名第 864 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 美国纽约蒙沙瑞画廊
+nums: 纽约市排名第 865 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Leica Photographic Gallery
+nums: 纽约市排名第 866 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Wards Island Park
+nums: 纽约市排名第 867 的景点玩乐 (共 1,115 个) 
+score: 3 分，共 5 分
+
+Title: 出海捕鱼与游览 (3)
+nums: 纽约市排名第 869 的景点玩乐 (共 1,115 个) 
+score: 5 分，共 5 分
+
+Title: CIMA - Center for Italian Modern Art
+nums: 纽约市排名第 870 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 自然与野生动物游览 (4)
+nums: 纽约市排名第 872 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Washington Mews
+nums: 纽约市排名第 873 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Pier 34
+nums: 纽约市排名第 874 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Amster Yard
+nums: 纽约市排名第 875 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Elevated Acre
+nums: 纽约市排名第 876 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Eighteen Mile Creek
+nums: 纽约市排名第 877 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Verdi Square
+nums: 纽约市排名第 878 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: General Worth Square
+nums: 纽约市排名第 879 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Kissena Park
+nums: 纽约市排名第 880 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Kew Gardens Hills
+nums: 纽约市排名第 881 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Immigrant Building
+nums: 纽约市排名第 882 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Theater District Shopping Court
+nums: 纽约市排名第 883 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Manhattan Night Court
+nums: 纽约市排名第 884 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: DeLury Square
+nums: 纽约市排名第 885 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Lady Liberty
+nums: 纽约市排名第 886 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: First Chinese Presbyterian Church of New York City
+nums: 纽约市排名第 887 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: City Hall Library
+nums: 纽约市排名第 888 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: The Arsenal
+nums: 纽约市排名第 889 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Wards Island Pedestrian Bridge
+nums: 纽约市排名第 890 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Lewis G Morris House
+nums: 纽约市排名第 891 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: St. Catherine's Park
+nums: 纽约市排名第 892 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Church of the Ascension
+nums: 纽约市排名第 893 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: St. James Episcopal church
+nums: 纽约市排名第 894 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Lilac
+nums: 纽约市排名第 895 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Immanuel Lutheran Church
+nums: 纽约市排名第 896 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Calvary-St. George
+nums: 纽约市排名第 897 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: New Era Factory Outlet, Inc.
+nums: 纽约市排名第 898 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Di Donna Galleries
+nums: 纽约市排名第 899 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Manhattan Repertory Theatre
+nums: 纽约市排名第 900 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: St. Anthony of Padua
+nums: 纽约市排名第 901 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Miriam and Ira D. Wallach Art Gallery
+nums: 纽约市排名第 902 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Cosby House
+nums: 纽约市排名第 903 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Anastasia Photo
+nums: 纽约市排名第 904 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Harlem FIre Watchtower
+nums: 纽约市排名第 905 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Edward Tyler Nahem Fine Art
+nums: 纽约市排名第 906 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: The Chernuchin Theatre
+nums: 纽约市排名第 907 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: DR2 Kids Theatre
+nums: 纽约市排名第 908 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 艾布朗艺术中心
+nums: 纽约市排名第 909 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 耶德逊纪念教堂
+nums: 纽约市排名第 910 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Arthur Ross Pinetum
+nums: 纽约市排名第 911 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Block Beautiful
+nums: 纽约市排名第 912 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Fusion Arts Museum
+nums: 纽约市排名第 913 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 兰斯顿·休斯的家
+nums: 纽约市排名第 914 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 国家黑色剧院行为艺术研究院
+nums: 纽约市排名第 915 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 乡间小镇剧院
+nums: 纽约市排名第 916 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 肯特郡美术馆
+nums: 纽约市排名第 917 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 翠贝卡表演艺术中心
+nums: 纽约市排名第 918 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: OK哈里斯美术馆
+nums: 纽约市排名第 919 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 基督和圣士提反圣公会
+nums: 纽约市排名第 920 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 罗宁画廊
+nums: 纽约市排名第 921 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 守护天使教堂
+nums: 纽约市排名第 922 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: 切尔西古董大楼
+nums: 纽约市排名第 923 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: 纽约商业交易所
+nums: 纽约市排名第 924 的景点玩乐 (共 1,115 个) 
+score: 4 分，共 5 分
+
+Title: Krause Gallery
+nums: 纽约市排名第 925 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: Lewis H. Latimer House Museum
+nums: 纽约市排名第 926 的景点玩乐 (共 1,115 个) 
+score: 3 分，共 5 分
+
+Title: Triumph of the Human Spirit
+nums: 纽约市排名第 927 的景点玩乐 (共 1,115 个) 
+score: 3 分，共 5 分
+
+Title: McCaffery Playground
+nums: 纽约市排名第 928 的景点玩乐 (共 1,115 个) 
+score: 3 分，共 5 分
+
+Title: Holland Tunnel
+nums: 纽约市排名第 929 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+
+Title: George M. Cohan Statue
+nums: 纽约市排名第 930 的景点玩乐 (共 1,115 个) 
+score: 3.5 分，共 5 分
+

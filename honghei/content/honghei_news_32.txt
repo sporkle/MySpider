@@ -1,0 +1,782 @@
+-----------------------------------------------------------0-----------------------------------------------------------
+0X0: 
+     [1.25]美国伊朗“换囚”，美方释放一名伊朗黑客 
+
+=700) window.open('http://image.3001.net/images/20160122/14534392623302.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+目前美国已经释放四名伊朗人，其中有一名是伊朗黑客。
+美国伊朗公布释放人员名单
+美国已经释放四名伊朗人，并减少其余三人的刑期，这样做是为了换取目前伊朗关押的5名美国公民，同时这也是“互相释放”条件的一部分。而伊朗释放关押的美国公民从侧面来看是履行“伊朗核问题协议”。
+伊朗释放的5名美国公民都包括：《华盛顿邮报》驻伊朗记者Jason Rezaian（贾森・礼萨安）、美国前海军陆战队队员Marine Amir Hekmati（阿米尔・希克马）、美国学生Matthew Trevithick（马修・特里维西克）、基督教教职人员基督教教职人员Saeed Abedini（赛义德・阿贝迪尼）以及Pastor Nosratollah Khosravi-Roodsari。
+美国方面释放的伊朗人分别是：Nader Modanlou、Bahram Mechanic、Khosrow Afqahi、Arash Ghahreman、Touraj Faridi、Nima Golestaneh（黑客）、Ali Sabounchi。
+在周日美国总统Barack Obama讲话中表示：
+“这些人没有被控参与恐怖活动或犯下任何暴力罪行，他们是平民，他们的释放是‘一种姿态’，在这一时刻也给伊朗提供特别的机会，也可以在更大的情况下发挥作用，这也反映了我们的意愿，即与伊朗建立关系并促进我们的共同利益，正如我们确保美国的国家安全。”伊朗黑客的个人经历
+然而，被释放的一名伊朗黑客曾被指控从一家美国公司窃取军事机密。一名30岁伊朗人Nima Golestaneh在去年从土耳其被引渡至美国，被指涉嫌网络攻击美国美国国防承包商Arrow Tech Associates。
+在2012年10月Golestaneh曾成功入侵Vermont-based aerodynamics公司服务器，并从数据库里面计划窃取价值数百万的软件资料。最后美国联邦调查局跟踪其至土耳其，并最终引渡回美国，Golestaneh最后面临的指控包括，诈骗、非法使用计算机以及洗钱。
+而目前Golestaneh被美国施以宽大，并在最终被判刑之前送了回去。据悉Golestaneh是伊朗活跃黑客团队的成员之一，据美国官员称，针对的方向包括，美国的基础设施、国防工业以及拉斯维加斯Sands casino电子邮件系统。
+此前2艘美国海军船只和10名船员进入伊朗波斯湾水域被伊朗扣留，目前10名船员现已被释放。
+*参考来源：thehackernews
+
+
+
+
+
+
+
+-----------------------------------------------------------1-----------------------------------------------------------
+0X1: 
+     [1.25]苹果修复iOS严重漏洞，黑客可从设备窃取cookie（CVE-2016-1730） 
+
+苹果修复iOS严重漏洞，黑客可从设备窃取cookie（CVE-2016-1730）
+ 
+近日，苹果修复了iOS中一个严重的漏洞。这个漏洞允许黑客伪装成终端用户，获取网站未加密cookie的读写权限。
+ 
+随着周二发布的iOS 9.2.1，该漏洞被修复，距它首次被报告给苹果已历时三年。
+ 
+这个漏洞被称作“Captive Portal”（强制主页）漏洞，最初是由网络安全公司Skycure 的Adi Sharabani和Yair Amit发现的，他们在2013年6月私下报告给了苹果。
+ 
+漏洞如何产生
+ 
+该漏洞是因为iOS在Captive Portals存储cookie的方式出了问题，它生成了一个登录页面，要求用户第一次连接到免费脆弱的公共wifi热点时，强制跳转到该页面进行身份验证。
+ 
+所以，当某用户在使用有漏洞的iOS产品时，他们连接到这样的网络后会发生下面的情况，这种情况通常发生在咖啡厅、酒店、机场。
+=700) window.open('http://image.3001.net/images/20160122/14534191799996.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+iOS漏洞导致cookie的失窃
+一旦接受后，受影响的用户可以正常上网。但是，嵌入式浏览器会共享Safari浏览器里存储的未加密的cookie。
+据Skycure周三发布的博文称，这个漏洞能让黑客在创建伪造的Captive Portal，并接入wifi时，一旦iOS用户进行连接，他们就能够窃取在设备上未加密的cookie。
+黑客可以执行的攻击列表
+据研究人员称，Captive Portal漏洞可以让黑客：
+进行模拟攻击：黑客可以窃取用户的未加密（HTTP）的cookie，然后伪装成受害者登录网站。进行会话固定攻击：黑客会让受害者进入了黑客控制的账户，因为cookie为共享存储。当受害者使用Safari移动版浏览器浏览了受影响的网站时，他们就登入了黑客的账户，而不是自己的。进行指定网站的缓存投毒攻击：黑客会给受害者返回缓存头部的HTTP响应包。在这种情况下，黑客可以在受害者每次通过Safari移动版浏览器连接网站时，执行恶意JS脚本。为你的设备打上补丁
+该漏洞会影响iPhone 4S和iPad 2及以后的版本。然而，该漏洞在iOS 9.2.1后被修复。在此以后，Captive Portal的cookie都会单独进行存储，由此规避了黑客攻击。
+Skycure表示，这是苹果修复期最长的一个漏洞，但是补丁打的毕竟复杂，暂时没有看到互联网上有绕过它的迹象。
+所以，为了让您规避这样的攻击，请在设置菜单里下载iOS 9.2.1，更新您的系统吧。
+*参考来源：TA
+
+ 
+
+
+
+
+-----------------------------------------------------------2-----------------------------------------------------------
+0X2: 
+     [1.25]Asacub进化史：如何从间谍软件到银行恶意软件 
+
+=700) window.open('http://image.3001.net/images/20160122/14534383971206.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+近日，安全人员对移动端银行木马Trojan-Banker.AndroidOS.Asacub进行了深入分析，发现其恶意功能随着版本的改变不断增加。
+ 
+早期版本
+该木马首次发现于2015年6月上旬，功能类似于间谍软件。早期的Asacub木马会窃取所有的短信并上传到恶意服务器，接收并执行C&ampC服务器端的以下命令：
+1、get_history：向服务器上传浏览器历史记录2、get_contacts：向服务器上传手机通讯录3、get_listapp：向服务器上传已安装应用列表4、block_phone：关闭手机屏幕5、send_sms：向指定号码发送特定文本进化版本
+Asacub新版本在2015年7月中旬被发现，该版本在界面中使用欧洲银行的logo，而早期版本则主要使用美国银行的logo。
+C&ampC服务器的命令也有所增加：
+1、get_sms：向服务器上传所有短信2、del_sms：删除指定的短信3、set_time：为C&ampC链接设置新的时间间隔4、get_time：为C&ampC链接上传时间间隔5、mute_vol：将手机设置成静音6、start_alarm：开启手机模式，当手机处于白屏状态时处理器仍能继续工作7、stop_alarm：禁用手机模式8、block_phone：关闭手机屏幕9、rev_shell：允许攻击者在设备上远程执行命令10、intercept_start：开启短信拦截模式11、intercept_stop：禁用短信拦截模式其中有一个比较特殊的命令：rev_shell。当接收到该命令时，Asacub会将远程服务器连接到受感染的设备控制台，以方便攻击者在设备上执行命令，并查看这些命令的输出。该功能为后门的典型功能，在银行恶意软件中很少见，因为后者的主要目的是获利，而不是控制设备。
+2015年9月发现的Asacub的最新版本的功能则更侧重于窃取银行信息。之前的版本只是使用银行的logo，但是最近的版本中发现了许多使用银行logo的钓鱼界面。
+ 
+=700) window.open('http://image.3001.net/images/20160121/14533679856117.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+ 
+图一界面所对应的代码名为“ActivityVTB24”，与俄罗斯一家大型银行名称相似，而该界面所对应的文本则指的是乌克兰银行Privat24。
+众所周知，9月以后的版本开始出现钓鱼界面，但是也只在银行卡输入界面使用，这意味着，攻击者只是攻击他们所模仿银行的用户。软件启动后，开始窃取所有往来短信，同时也可以执行以下命令：
+1、get_history：向服务器上传浏览器历史记录2、get_contacts：向服务器上传手机通讯录3、get_cc：显示钓鱼界面，用于获取银行卡信息4、get_listapp：向服务器上传已安装应用列表5、change_redir：启用呼叫转移到指定号码6、block_phone：关闭手机屏幕7、send_ussd：运行指定的USSD请求8、update：下载指定链接的文件并安装9、send_sms：向指定号码发送特定文本最新版本
+在2015年末，研究人员发现了Asacub的新版本，它可以执行如下新命令：
+1、GPS_track_current：获取设备的坐标并发送给攻击者2、camera_shot：使用相机进行截图3、network_protocol：目前没有发现该与该命令对应的操作，但是将来可能会更改恶意软件与C&ampC服务器交互的协议该版本没有钓鱼界面的相关更新，但是代码中仍然涉及到了银行。其中，它会尝试关闭一家乌克兰银行的官方软件。
+尽管我们还没有受到Asacub攻击的波及，但是该木马对美国银行logo的盗用就是警告信号：Asacub木马在迅速发展，新的恶意功能随时可能被激活。这就意味着所有手机用户都可能成为下一个受害者。建议安全厂商能够针对此恶意软件给用户提供一个安全的解决方案。
+*原文地址：securelist
+ 
+ 
+
+
+
+
+-----------------------------------------------------------3-----------------------------------------------------------
+0X3: 
+     [1.25]RSA大会网上注册被吐槽：收集注册者Twitter明文凭证 
+
+=700) window.open('http://image.3001.net/images/20160122/14534641086837.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+最近，安全专家们在Twitter上发现一个奇怪现象：RSA信息安全大会网站注册页面要求收集注册者的Twitter登录明文凭证，并将其发送回RSA的服务器上，而其在安全方面的设计令很多安全专家吐槽。
+
+
+Freebuf 百科：RSA信息安全大会
+RSA大会是信息安全界最有影响力的业界盛会之一。它于1991年由RSA公司(现为EMC公司信息安全事业部)发起，得到了业界的广泛支持。RSA大会一年一度分别在美国、欧洲和日本举办，其议程设计由信息安全从业者及其它相关专业人士评判和制定。19年来，RSA大会一直吸引着世界上最优秀的信息安全人士，创造机会让参会者跟同辈和杰出人物、跟新兴企业和知名企业直接交流，了解IT安全的最重要课题。随着IT安全领域的重要性和影响力不断提升，RSA大会在连接和培养全球信息安全专业人士方面，扮演着不可或缺的角色。
+
+RSA网站注册要求提供Twitter登录凭证
+最近，安全专家们在Twitter上发现了一个奇怪的事情，那就是在RSA会议网站上注册会员时，最后一步会请求注册者的Twitter登录凭证（明文登录密码），在注册者输入之后，会将其发送回RSA会议的服务器上。
+=700) window.open('http://image.3001.net/images/20160122/14534639462888.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+你没有听错，确实是输入Twitter登录凭证。RSA的执行安全行动论坛（Executive Security Action Forum，ESAF）组织正在收集注册者的Twitter账户密码，而这一行为是通过专用的形式进行的。
+在RSA会议网站注册页面的最后一步中，要求注册者提供社交媒体信息。
+=700) window.open('http://image.3001.net/images/20160122/14534639729189.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+通过这种方式，用户的Twitter凭证直接被发送回RSA会议组织的服务器上。
+=700) window.open('http://image.3001.net/images/20160122/14534640675989.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+输入的凭证竟然为明文
+更让人不解的是，页面请求的竟然是明文密码，而并非实现可以保存用户数据的OAUTH身份验证机制。很多安全专家们表示很不解，同时对这一“最失败”的安全措施大喊大叫：为什么一家世界上最重要的安全公司会做如此愚蠢的事情呢？
+所以，如果你计划参加下一届RSA会议，那么就直接跳到注册过程的最后一页，并填写你的Twitter登录凭证吧。
+
+*参考来源：[backcolor=0px 0px]SecurityAffairs
+[backcolor=0px 0px]
+
+
+
+
+
+
+
+
+-----------------------------------------------------------4-----------------------------------------------------------
+0X4: 
+     [1.25]DVRF：路由器漏洞练习靶机 Damn Vulnerable Router Firmware 
+
+ 0×01 概述
+这个项目的目的是来帮助人们学习X86_64之外其他架构环境，同时还帮助人们探索路由器固件里面的奥秘。
+目前为止，该项目是基于Linksys E1550 为基础进行安装。
+
+
+=700) window.open('http://image.3001.net/images/20160120/14532636105616.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+0×02 安装
+友情提示，安装前请先备份路由器固件，以备不时之需。
+
+1、使用管理员帐户密码登录E15502、访问固件更新页面，http://192.168.1.1/Upgrade.asp3、上传Damn Vulnerable Router Firmware (DVRF) v0.1 固件DVRF_v01.bin4、点击更新固件，然后等待重启路由器，重启完成后即安装完成。0×03 移除或重置
+有时候由于DVRF固件bug，需要移除安装好的DVRF固件或对该固件进行重置。
+移除 ：
+ 1、进入DVRF的主页http://192.168.1.1/index.asp 2、点击Browse按钮，将备份的路由器固件进行导入，完成后重启路由器即可。重置：
+ 1、进入DVRF的主页http://192.168.1.1/index.asp 2、点击Browse按钮，将新版的DVRF固件上传后更新重启即可。
+
+
+*项目地址：https://github.com/praetorian-inc/DVRF
+ 
+ 
+ 
+
+
+
+
+-----------------------------------------------------------5-----------------------------------------------------------
+0X5: 
+     [1.25]Applocker：Windows网络保护之应用程序控制策略 
+
+应用白名单是一个很强大的技术，可以保护我们电脑免受未知的恶意软件的侵害，但它从来没有被真正地使用。其中一个主要原因是很难配置和维护，另一个则是有相当多的绕过技术，因此它无法很好的阻止那些被确定的攻击者。今天我们就来看看windows内置的AppLocker技术，它免费提供了一些基本功能。
+配置
+首先你需要启用相应的服务让AppLocker运行。
+通过GPO操作：
+Computer Configuration →Policies → Windows Settings → System Services把Application Identity服务设置为自动：
+
+
+=700) window.open('http://image.3001.net/images/20160119/14532134801212.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+然后去应用程序控制策略配置。
+其实有两种类型的白名单是可以用的――以前的微软限制策略和新的AppLocker。
+你可以用AppLocker设置以下内容：
+可执行文件MSI安装文件脚本动态链接库文件（dll）然后，你要以下三个情况下设置允许或拒绝：
+路径――很简单，必须从文件夹执行允许或拒绝。文件的哈希值――要基于文件哈希来允许或拒绝。这个不是很有用，因为它需要计算哈希文件本身，你也不能就不依靠文件本身而停止这个MD5哈希。发行商――需要基于数字证书发行来允许或拒绝执行。你也可以在规则里添加额外的，比如你可以创建一个规则除了cmd.exe以外允许所有东西都放在C：\ Windows里。
+用法
+基本上AppLocker有两个方法――要么只允许白名单要么你允许除了黑名单上的所有。
+白名单：
+=700) window.open('http://image.3001.net/images/20160119/14532135601919.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+黑名单：
+
+附加信息源是使用AppLocker最有效的。即使你不想使用AppLocker，你也可以配置并在监视模式下使用。这样，你就会得到在系统上执行的每个可执行文件、动态链接库和脚本的信息：
+=700) window.open('http://image.3001.net/images/20160119/14532143152495.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+哈希隐藏在XML版本的日志里。不过，AppLocker使用SHA256 Authenticode而不是EXE and DLL的哈希文件，这对我们来说没什么用。你无法在VirusTotal或其他地方看到。
+分块
+如果你想分块，你需要记住：
+你必须要注意如果你在规则里让发行商=微软就意味着Sysinternals之类的工具也同时启用了。你在使用路径的时候需要对该文件夹的访问权限进行监视。如果任何人都可以写入你所信任的文件夹，AppLocker就会因为没有任何意义而被绕过了。如果你试图给临时文件夹里的执行分块，AppLocker确实能按要求做到。但是它也会为你的用户打破很多东西，所以你需要先测试一下。你还需要把那些从AppData文件运行的软件列个白名单出来――比如Dropbox和Chrome。还有，别忘了给C:\temp, C:\ProgramData、回收站和其它几个可写的文件夹分块。就我个人而言，我觉得要找出所有需要从TEMP运行的软件工作量很大，不过你可以尝试一下。本地管理员和AppLocker不能混起来用。如果你的用户有管理员权限，那么他们可以自己绕过任何你所设置的限制添加规则覆盖AppLocker的。AppLocker的局限性
+AppLocker无法控制内存中正在运行的。
+它不能控制Office宏它不能控制HTML应用程序默认规则没有你想象的那样安全。一般情况下确实会认为用户无法写入Windows文件夹，但是有一些文件夹是允许用户写入从而轻松绕过默认规则。用这个脚本或Sysinternals的accesschk检查系统 � accesschk.exe -d -w paranoid C:\Windows\*
+=700) window.open('http://image.3001.net/images/20160119/14532145386519.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+脚本不是严格控制的，所以如果解释器允许运行，你可以复制粘贴文本文件的命令并以这种方式运行脚本。我在三台不同的机器上做了测试，Windows 7的系统由于某种原因PowerShell脚本并没有在默认设置下分区，还不知道为什么。不过Windows 8.1能够如期运行。
+绕过 AppLocker
+还有不少AppLocker绕过导致AppLocker失效：
+如果你有本地管理员权限，你可以添加一个本地规则允许所有的东西都可以执行。这就会重写所有基于域的策略。
+你可以随便使用可写权限，随便将可执行文件移动到C:\Windows的某个地方。这都可以绕过所有的限制与默认规则。
+=700) window.open('http://image.3001.net/images/20160119/14532145996663.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+你可以使用HTML应用程序（HTA）。这里有个关于使用PowerShell的HTA例：
+=700) window.open('http://image.3001.net/images/20160119/14532146426559.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+你可以使用rundll32执行各种在这里提到的操作系统功能。甚至你还可以通过rundll32调用javascript代码并执行任意代码。臭名昭著的Poweliks恶意软件使用的就是这个方法，而且我记得最早看到是一个著名的APT团队把这个使用在自己的恶意软件。不过可惜的是它不能被分区。
+=700) window.open('http://image.3001.net/images/20160119/14532149305486.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+你可以直接使用解释器（用于PowerShell和VBS的相同策略）：
+=700) window.open('http://image.3001.net/images/20160119/14532149643091.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://image.3001.net/images/20160119/14532149643091.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+内存有效负载不会受到影响，所以如果没有保存到硬盘上就不会受到AppLocker的影响。于是，利用一些可信的进程或使用反射注入技术就可以做到绕过。
+除非你有严格的DLL AppLocker规则，否则你就可以DLL劫持信任的应用程序。
+还有一些需要特定的.NET应用程序的绕过，这里就不详写了。
+缓解旁路绕过
+
+一些绕过可以通过正确的配置来改善：
+撤销Windows文件夹和Program Files里用户的可写权限或者把所有用户可写文件添加到Exceptions里。
+=700) window.open('http://image.3001.net/images/20160119/14532150706133.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://image.3001.net/images/20160119/14532151408260.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+给mshta.exe分块，可以终止HTML应用程序的执行。
+=700) window.open('http://image.3001.net/images/20160119/14532152846729.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+如果你和你的用户都不使用任何需要用到powershell.exe，CMD.EXE，Cscript.exe的脚本，给它们分块也会起到作用，但如果需要，就不要这样做，因为可能会破坏到登录脚本或一些自动化的功能。注意一下，PowerShell可以通过任何网络应用程序直接调用，所以也给PowerShell的dll分块（C:\Program Files (x86)\Reference。 Assemblies\Microsoft\WindowsPowerShell\3.0\System.Management.Automation.dll）或给未知的可执行文件和powershell.exe分块。
+虽然rundll32不能被分块，但如果你启用了命令行日志记录，你就可以很轻松地捕获，然后在JavaScript上注意rundll32.exe。不过我不清楚那些合法的行为会不会通过rundll32调用JavaScript。
+*参考来源：dfir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+-----------------------------------------------------------6-----------------------------------------------------------
+0X6: 
+     [1.25]英国核潜艇还在运行旧版操作系统，易遭网络攻击 
+
+=700) window.open('http://image.3001.net/images/20160122/14534716035072.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+ 
+ 
+在2014年4月8日微软正式终止Windows XP操作系统的服务支持，尽管该公司在过去18个月已发出了很多警告，仍然有很多公司和组织继续运行Windows XP操作系统。
+事件经过
+而在这些公司和组织中就有英国皇家海军，英国皇家海军携带核弹的战略潜艇就目前就运行着Windows XP的操作系统，但官员声称，尽管缺乏系统补丁，但一切都是100%安全。卫报近日发表了一篇文章，深入了解英国皇家海军三叉戟核潜艇的潜艇计划，并透露其中一些细节，同时包括目前正在服役的前卫号核潜艇供电系统。
+
+基本上，目前英国皇家海军核潜艇最大的威胁是，潜艇在软件更新时，操作系统未打补丁的漏洞可以被恶意攻击者利用，入侵核潜艇的操作系统。
+早前英国卫报曾报道，英国前国防大臣德斯・布朗表示未来3年内英国无法保证三叉戟核武计划不被黑客攻击。同时布朗先生称，他的看法是基于美国国防部门的国防科学委员会2013年发表的一份报告。该报告警告说，如果不及时升级，美国及其盟国的防御体系将在未来五年变得易受黑客的攻击。
+在2006年至2008年间曾担任英国国防大臣的布朗先生表示，英国在这方面停滞不前，而且如果没有快速的行动，英国首相将会发现自己的核计划已经受到训练有素的黑客破坏。早前英国政府曾同意拨款32亿英镑升级网络安全防御系统，但据卫报当时的报道，大部分资金将划给英国间谍机构GHCQ，提升其网络间谍活动能力。布朗先生和英国卫报均表示，政府没有拨出足够的资金来升级三叉戟计划。不过，英国国防部并不担心黑客可以利用这款操作系统中存在的漏洞，并在一份声明中表示，他们特别注意防止这种威胁。
+XP用户预计将会下降
+同时他们表示，潜艇在隔离的环境中操作，这有利于它们的网络适应能力。我们承担我们的责任，以保持可靠的核威慑力量，我们不断评估潜艇能力，以确保其运营效率，包括应对来自网络和无人驾驶设备的威胁。
+目前世界各地仍然在运行Windows XP的台式电脑不到10%，这个数字预计将继续下降，越来越多的Windows XP用户持续转移到新的系统平台，如Windows 7、8.1或10。
+*参考来源：softpedia、[backcolor=0px 0px]popularmechanics
+ 
+ 
+
+
+
+
+-----------------------------------------------------------7-----------------------------------------------------------
+0X7: 
+     [1.25]巴西地下网络犯罪市场愈演愈烈 
+
+=700) window.open('http://image.3001.net/images/20160121/14533585969817.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------8-----------------------------------------------------------
+0X8: 
+     分销系统都有哪些功能？ 
+
+随着分销模式的流行，市场上衍生出了各种各样的分销系统，不同的分销系统在功能上也存在大大小小的差异，那么分销系统一般都具备哪些功能呢？拥有哪些功能才算得上优秀的分销系统呢？以下小编就以用户超过30万的建站宝盒全网分销系统为例，跟大家分析一下，优秀分销系统应该具备哪些功能。
+
+
+
+-----------------------------------------------------------9-----------------------------------------------------------
+0X9: 
+     [01.12]苹果非官方应用市场从中国向全球扩张 
+
+ 
+ 
+苹果非官方应用市场从中国向全球扩张
+ 
+ 
+.=700) window.open('http://image.3001.net/images/20160109/14523193566707.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+目前为非越狱的iOS设备提供应用下载的非官方应用商店平台目前正从中国市场扩展到世界多个国家。
+非官方应用商店的存在
+这些第三方应用商店之所以会出现的，原因在于苹果以及谷歌对其应用商店上的每一个APP严格的审查机制。
+对于开发者而言，由于有些应用难以顺利通过应用商店的审核或者是出于定制化私人使用考虑，这些应用就可能会出现在非官方应用商店或者网站平台上以供下载。
+而对于用户来说，有时候想要下载一些付费应用的破解版或者是应用中因含有某些成人内容而未能通过官方应用商店审核没有出现在官方应用商店上的，所以通常不得不去到应用程序开发者的官网上或非官方应用商店里进行下载。
+签名证书滥用，掩盖应用程序真正来源
+我们知道，在Android系统环境下，安装一个未签名的应用，只需更改下设置，允许安装就可以了。而对于IOS用户来说，如果设备没有越狱，那么这个过程会较为繁琐，需要通过一系列步骤来实现。而这种在非苹果应用商店渠道下载应用程序的方式，也被称为应用程序的侧载（side-loading）。目前该方式为被苹果所容许。
+下面我们可以看下在 IOS 9 中具体的操作步骤。
+步骤1：在设备上下载应用；
+=700) window.open('http://image.3001.net/images/20160109/14523206662268.png!small')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+步骤2：双击进行安装已经默认处于失效状态，所以该步骤无效；
+=700) window.open('http://image.3001.net/images/20160109/14523206904832.png!small')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+步骤3：你必须访问设置-》通用-》描述文件（Profiles）；
+=700) window.open('http://image.3001.net/images/20160109/14523207175341.png!small')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+步骤4：从未信任证书列表中寻找所需安装应用的证书；
+=700) window.open('http://image.3001.net/images/20160109/14523207442220.png!small')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+步骤5：点击应用之后，选择你要信任该证书；
+=700) window.open('http://image.3001.net/images/20160109/14523207775414.png!small')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+步骤6：应用获得授权，然后就可以打开和安装。
+=700) window.open('http://image.3001.net/images/20160109/14523208002723.png!small')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+苹果本身允许使用侧载的应用程序，但通过将专门颁发的证书用于侧载应用程序的签名，从而验证其来源。
+
+但在之前，存在多个非官方的应用商店，其通过使用在官方应用商店上应用程序的签名证书，从而为众多用户提供非官方的下载渠道，以此提升他们的业务流量。这些非官方的应用商店获取证书的方式，一般通过如下途径取得，
+1、从地下黑市获得签名的证书；2、从应用程序开发者企业窃取了证书；3、或者以假冒的公司在苹果上注册，以获取签名证书。或者如本文前面提到的，有些应用因为定制化用于私人使用，此类应用也是需要合法的签名证书才能正常使用，比如，苹果允许企业为自身员工定制开发应用程序，但每年要交 299 美元并参与开发者企业项目。这些定制应用程序只会在特定的企业内部使用，在应用商店里面是找不到的。虽然没有经过应用商店的审核，但苹果服务器还是会默认给这些应用程序加上签名。
+非官方应用商店平台vShare 不断扩大其用户数量
+根据 Proofpoint 研究人员所称，一款被称为vShare的非官方app下载平台，最初只在中国经营，但是目前向世界各地的用户已经打开了它的大门，为各国用户提供数量高达15,000个的iOS应用程序以及超过400,000个Android应用程序的下载。
+经过跟踪研究，Proof point 指出该平台会经常更改证书来使其在其用户设备上安装的应用程序合法化，以避免被苹果检测到。
+尽管苹果制定了一系列繁琐的非官方途径下载的应用安装流程，使得这种安装途径不再那么轻易可以进行，但并不是所有用户都遵循其建议，而是还是会去下载潜在的恶意应用程序。安全厂商也劝告用户不要从这家应用商店和其他类似的平台下载应用程序。
+非官方应用商店带来的安全风险
+许多IOS用户错误地认为，如果他们的设备不越狱，他们将是安全的，不会下载到恶意应用程序。但是用户应该知道，其中的区别只是在于苹果应用商店与其他商店平台在应用审查程序上的区别。
+对于 IOS用户来说，真正的威胁是在于下载安装的应用程序中的代码，而不在于设备是否已经越狱。我们知道， IOS操作系统有功能强大的API接口，允许应用程序进行调用并对操作系统进行操控。而因为苹果的审查程序，这些API接口只授予�受信任的应用程序进行调用。
+而来自非官方应用商店的应用程序中可能包含恶意代码，非法组织或者个人可以通过在应用程序中嵌入恶意代码，然后调用系统提供的API接口，利用已发现的安全漏洞，通过恶意程序来感染设备，从而窃取设备上用户的个人信息。
+所以，即便是越狱的设备，也应该从苹果应用商店下载应用，而不是使用侧载的应用，这样会大大增加设备安全性，保护用户数据安全。
+结语
+目前不知道vShare的扩展步伐是否已经引起苹果的注意？以及对于这类非官方应用商店平台，苹果针对证书管理（将某些证书设置为黑名单）的速度是否快于vShare获取新证书的速度，以便遏制此类平台的扩张趋势。我们也将保持关注。
+*参考来源：softpeida，[backcolor=0px 0px]proofpoint
+[backcolor=0px 0px]
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+-----------------------------------------------------------10-----------------------------------------------------------
+0X10: 
+     [01.08]Zerodium为Adobe Flash的堆隔离保护机制漏洞悬赏10万美金 
+
+
+
+Zerodium为Adobe Flash的堆隔离保护机制漏洞悬赏10万美金
+
+
+
+=700) window.open('http://image.3001.net/images/20160106/14520836594498.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+虽然Adobe Flash播放器存在太多问题已经被要求退休了，但是Adobe内部研究员和供应商依然继续投资这Flash播放器并建立了相关针对攻击的措施。
+三个星期前，Adobe宣布他们已经重写了播放器的内存管理器，并采用了最新的堆隔离保护机制防止use-after-free漏洞攻击。
+昨天，漏洞收购公司Zerodium通过其推特帐户公布了他们的赏金计划：为针对Flash播放器堆隔离保护机制的绕过攻击代码支付10万美元。
+=700) window.open('http://image.3001.net/images/20160106/14520842133535.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Zerodium是由VUPEN创始人的Chaouki Bekrar去年七月创立的一家公司，主要购买所有主要平台和第三方应用程序的高风险0day漏洞。Bekrar说，他们公司购买的漏洞将会提供给购买的客户，而且不会将漏洞公之于众。
+去年九月他们就为苹果iOS 9的一个漏洞向一个团队支付了百万。又在十一月公布了他们公司为0day漏洞支付的价目表。
+如今Zerodium的最新悬赏是Adobe Flash播放器上的漏洞，这可是黑客和一些为了巨大利润的网络犯罪组织最喜欢的目标。而且可以从他们公布的价目表中看到，安全研究员在找到Falsh 0day漏洞后最多只能拿到8万美元，而堆隔离漏洞则高达了10万。堆隔离漏洞在Zerodium心目中地位很高啊。
+如今虽然许多安全社区都已经不再使用flash播放器了。Adobe依然在为Flash每月推出安全更新。就单单十二月这一个月就更新了79个大部分针对内存的漏洞，比如use-after-free漏洞。
+在更新之前，Adobe只为ActionScript对象提供一个堆，这个坑方便了黑客攻击Vector对象并指定分配的对象空间。而且侵入内存后，黑客可以在虚拟内存里读取写入并绕过ASLR执行代码。
+所幸Adobe在这个问题上已经从合作伙伴那里得到了帮助，谷歌的Zero项目开发者向Adobe提供了大量的堆隔离代码。堆隔离可以在一个单独的堆中分配Vector对象，这能很好地避免这种情况。
+据悉去年7月，Zero项目就将堆隔离功能运用到Flash Player v.18.0.0.209中，这个功能是在堆上隔离了所有不同类型的对象，谷歌说，他们也会在Chrome浏览器和其他浏览器中广泛使用这个技术。
+*参考来源：[backcolor=0px 0px]threatpost
+
+
+
+
+
+
+
+
+-----------------------------------------------------------11-----------------------------------------------------------
+0X11: 
+     [01.08]Comcast Xfinity家庭安全系统被曝严重漏洞 
+
+ 
+Comcast Xfinity家庭安全系统被曝严重漏洞
+ 
+ 
+ 
+近日，研究人员发现Comcast Xfinity家庭安全系统中存在一个安全漏洞，攻击者可以在不触发警报的前提下进入用户住宅。
+Comcast（康卡斯特）是美国最大的有线电视公司，同时也是宽带网络及IP电话服务供应商。Xfinity家庭安全系统是一套月租型的智能家庭监控系统解决方案，不仅提供给使用者拥有住宅报警的功能之外，还可以提供使用者收看有线电视，互联网和电话的服务等服务。
+Xfinity主要依靠使用电池供电的传感器检测入侵者，而这种传感器使用工作在2.4 GHz无线频段的无线通信协议ZigBee与基站进行通信，并以短信或电子邮件的形式将警报发送给用户。
+Rapid7的安全专家称，Xfinity中的漏洞可以使攻击者欺骗该系统，使其不能检测到门窗的打开行为和物体的任何移动。利用该漏洞的触发条件源于2.4 GHz无线频段，当出现错误时，Xfinity系统不能成功启动，会默认所有传感器都完好无损、门窗关闭，并且无移动物体。该系统没有限制故障持续时间，也不会对故障发出警报，并且当无线频段恢复正常时，传感器需要花费大量的时间与集线器重新建立连接。研究人员在系统处于ARMED状态时，将一对门窗感应器放置在锡箔中屏蔽，然后移除传感器中的磁铁，模拟无线电干扰攻击并打开了被监视的门窗。当传感器中的磁铁被拿走时，尽管传感器距离控制系统的集线器只有几英尺，系统仍然显示处于ARMED状态。当传感器恢复正常时，需要花费几分钟到三个小时的时间与集线器重新建立连接，而在这段时间内，系统仍然不会报警。
+Rapid7的安全专家指出，有多种方法可以干扰传感器和基站之间的通信，比如使用无线电干扰设备，或对ZigBee协议实施基于软件的解除验证攻击等。
+缓解
+目前没有很好的方法可以缓解该漏洞，因为基站在处理无线电问题时，需要依靠软件或固件更新来确定处理时间，同样的，感应器重新连接基站的速度也是如此。
+CERT已经发布了该漏洞，Comcast也发布公告称没有找到合适的方法解决该问题，并称会持续研究该问题，并与其他厂商共同合作，以确定合适的解决方案。
+*原文：SecWek
+ 
+ 
+
+
+
+
+
+
+-----------------------------------------------------------12-----------------------------------------------------------
+0X12: 
+     究竟是什么？让fm域名在芸芸国别域名中脱颖而出！ 
+
+究竟是什么？让fm域名在芸芸国别域名中脱颖而出！
+
+
+
+-----------------------------------------------------------13-----------------------------------------------------------
+0X13: 
+     精准测试之项目案例实战大剖析 
+
+精准测试之项目案例实战大剖析
+
+
+
+-----------------------------------------------------------14-----------------------------------------------------------
+0X14: 
+     [12.29]土耳其上周遭遇了史上最大规模的网络攻击 
+
+=700) window.open('http://image.3001.net/images/20151226/14511104683719.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+报道称目前土耳其注册网站上周遭遇了史上最大规模的网络攻击。
+土耳其境内约有4万家网站受到影响
+而目前土耳其注册网站遭到了网络攻击之后，一些银行的业务受到了影响，并且影响公众的日常生活。NIC.tr是土耳其主要DNS服务器及其.tr域名行政管理机构。而受到影响的网站数量也很多，土耳其全境约有4万家网站遭到一伙网络黑客袭击。tr域名为土耳其国家顶级域名（ccTLD）后缀，于1990年分配使用。目前注册管理局为TRNIC，主要域名后缀为.com.tr / .net.tr / .org.tr。
+对于该次攻击来源，相关部门在周四表示：“这次网络攻击来源于土耳其境外，并且组织性极强。”运输和通信部部长Binali Yildirim 也称这次网络攻击是很严重的。
+银行内部人员透露消息称，这次网络攻击完全扰乱正常秩序。目前无法分析具体的攻击来源。甚至有些报纸报道猜测是俄罗斯所为，支持的观点是最近土耳其和俄罗斯发生的事件，在今年11月24日，俄罗斯空军1架苏-24战斗轰炸机正在执行打击叙利亚土耳其边境的叙利亚反政府武装的任务时，被土耳其空军的F-16战斗机击落，俄罗斯战机上两名飞行员跳伞，一人死亡一人被叙利亚反政府武装俘虏。这一事件随即得到了俄罗斯和土耳其两国政府确认，后来又导致了一系列事件，于是目前有分析猜测是俄罗斯所为。
+在周四晚上一伙网络攻击者就开始攻击银行和金融网络一直持续到周五晚上，而此前黑客组织匿名者(Anonymous)曾向土耳其根域名服务器发起DDos攻击，匿名者(Anonymous)表示道：
+“土耳其向‘达伊沙’（DAESH即ISIS）购买石油并对他们的战士提供后勤保障，这是在为这个组织提供支持。”匿名者(Anonymous)也曾表示，如果土耳其不停止支持ISIS这样的行为，那么他们将会对这个国家的根域名服务器，同时对银行、政府、机场、军队及与之相联系的私企网站继续发动攻击。并在上周一发表了YouTube视频。
+
+目前局势得到控制
+目前土耳其三家知名银行已经确认受到攻击，包括Ziraat银行, Isbank 和 Garanti。而且土耳其电信也已经确认此事。一名土耳其电信代理商发言人 Onur Oz在接受路透社采访时称：
+“这次网络攻击事件是很严重的，但相反的是这次目标不是土耳其电信，相反，土耳其的银行和公共机构网络受到了严重的攻击。现在大多数的土耳其机构使用土耳其电信作为网络服务商，目前我们在积极应对这次网络攻击并做好防御工作。”运输和通信部部长Binali Yildirim声称目前局势已经得到控制，并且政府已经采取措施来保证国家的基础设施的正常运转。目前还是没有确切消息和证据证明这次网络攻击的来源究竟是哪里。
+
+
+
+
+
+
+
+
+-----------------------------------------------------------15-----------------------------------------------------------
+0X15: 
+     [12.29]针对Linux系统全盘加密的启动攻击 
+
+=700) window.open('http://image.3001.net/images/20151226/14511448841337.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+最近，我们高谭数码科技(GDS)的研究人员讨论了针对Linux系统全盘加密的冷启动攻击，大家都认为这种攻击是可行的，但执行这么一次攻击有多难？攻击的可行性有多少呢？
+攻击
+由于市面上没有现成的工具能够执行这种攻击，所以我们自己制作了工具，并把它命名为EvilAbigail。Evil maid攻击可以针对任何操作系统。此次的研究我们针对的是使用LUKS全盘加密的Linux系统。
+一般来说，当Linux系统使用了全盘加密后，会由一小块分区还是没有加密，这个区域就是用来解密和引导加密磁盘的。这个分区会挂载在/boot，并且包含内核和初始RAM磁盘(initrd)。虽然攻击内核或者bootloader也是可行的，但是我们还是针对initrd进行了攻击。
+initrd是指一个临时文件系统，它在启动阶段被Linux内核调用。initrd主要用于当root文件系统被挂载之前，进行准备工作。initrd 中包含了是解密和挂载root文件系统所需要的目录和可执行程序的最小集合。一旦initrd任务完成，它就会执行pivot_root，从而将initrd根文件系统卸载掉,并挂载真正的根文件系统。
+一般来说，initrd是一个通过gzip压缩的cpio镜像。我们测试的基于Debian的操作系统是这样，但基于RedHat的操作系统 (Fedora, RHEL, CentOS)现在使用的是dracut，包含一个未压缩的cpio镜像。基于Debian的initrds 会用ash shell脚本执行启动，而dracut则会用systemd和它所关联的配置方法。
+为了执行我们的攻击，我们选择使用一个基于LD_PRELOAD的bootkit，但是其实也可以注入恶意的内核或可执行文件中。我们使用LD_PRELOAD的主要目标是对刚刚解密完成的root文件系统中的第一个可执行文件注入一个共享对象。第一个可执行文件通常是/sbin/init，PID一般会是1。进行攻击最简单的方法就是修改init脚本，导出这个环境变量，这样执行pivot_root的时候环境变量就设置好了。因为当文件系统更改的时候还得在合适的时候（解密之后）把共享对象复制到新系统中。把以下这两行放入initrd的init脚本中，插在切换文件系统之前：
+
+cp /hack.so /${rootmnt}/hack.so
+export LD_PRELOAD=/hack.so
+之所以这样可行是因为真正的root文件系统是在临时root文件系统下解密挂载的，这先于pivot，并且rootmnt变量是用挂载点位置填充的。但是，在这之前需要把目标文件系统重新挂载成读写，因为默认是只读的。在我们的例子中我们对init脚本进行了修改，修改了脚本分析内核命令行的地方，因此无论提供的参数是什么，root文件系统都是读写方式挂载。另一种方法是在注入的命令中添加mount -o remount,rw /${rootmnt}。
+不过基于dracut的initrds中不存在注入点，因为init的可执行文件是个二进制文件而非shell脚本。这就给我们带来了三个问题，只有克服了这三个问题我们才能够注入到pid 1进程中。
+三个问题
+第一个问题是有关复制我们的二进制文件到解密的root文件系统中。这个问题是三个问题中最好解决的一个。我们可以加两个ExecPre指令到负责pivote文件系统的systemd服务文件中。这基本就相当于前面提到的插入脚本的方法。第一个命令会以读写方式重新挂载root文件系统，第二个执行复制操作。
+第二个问题有关LD_PRELOAD。因为我们不是在修改shell脚本，我们不能把环境变量传递给这个进程（因为它是由内核调用的），因此加载我们的共享对象就有点棘手了。最简单的办法就是，先把init二进制文件移动到另一个位置，然后在它原来的位置插入我们自己的shell脚本，最后再执行原来的二进制文件。我们只需要两行代码，第一行导出LD_PRELOAD，第二行执行原来的systemd二进制文件。请注意，这样注入的是initrd中的pid 1进程，而不是最终root文件系统的pid 1。
+第三个问题就是，在调用switch-root命令之前，systemd会用clearenv()函数清除所有环境变量。因为这个函数是标准库的一部分，我们就可以重写这个函数，让被注入的进程会调用我们的函数而不是原来的函数。我们不关心真正清除环境变量，我们写的clearenv()函数会清除所有环境变量，然后把我们的LD_PRELOAD变量注入到环境中。由于clearenv()只会被调用一次，我们的修改不会导致任何副作用。
+解决了以上这三个问题之后，我们的共享对新就会被复制到加密的root文件系统中，我们的LD_PRELOAD会被注入到目标文件系统的pid 1进程中。接下来我们就可以获取用于解密的用户密码。
+对于Debian的initrds，可执行文件会要求用户输入密码，然后解密、挂载root文件系统。我们可以把我们的脚本注入到pipeline进程中从而获取密码。
+至于systemd，它会通过Unix domain sockets使用一种更复杂的进程间通信。我们选择攻击文件系统的挂载，而非这个进程。这又是一个库函数，它在动态加载库中，从systemd里调用，所以我们可以hook这个函数。解密硬盘的函数叫做crypt_activate_by_passphrase。这个函数会把密码作为char数组。通过hook这个函数，我们可以获取到密码。我们要包裹这个原来的函数，所以我们用dlsym打开真正的函数，并且调用它。不过在此之前我们会保存密码以便以后取回。
+为了“保存”密码，我们简单地把密码加到我们之后要复制到root文件系统的共享对象中。之所以选择这种方法是因为我们已经知道这个文件存在，并且会被复制过去。采用这种方法还会减少我们接触到的磁盘文件的数量。为了获取密码，我们之后会读取我们自己文件末尾（通过LD_PRELOAD变量定位），然后把它设置为我们的反弹shell中PASSWORD环境变量的值，因此（以meterpreter为例）通过‘getenv PASSWORD’命令可以获取用于解密磁盘的密码。由于我们所有的目标主机都默认安装了python，所以我们就使用了python meterpreter反弹shell。
+解决方案
+解决这种问题有很多方法。但是即使使用了这些解决方法，如果攻击者能够物理接触计算机，并且有足够的时间重刷BIOS/UEFI，那也是防不住的。
+第一种方法是把bootloader、内核和initrd放在外置的U盘上，然后从U盘上启动从而替代/boot分区。但对用户来说这个方法很糟糕，因为他们离开笔记本的时候要记得拔掉U盘，如果没有卸载的话还要安全卸载/boot分区。更新的时候也很麻烦，要插上U盘才能更新initrd/内核。
+另一种方案则是彻底关闭从外置媒体启动系统。这样就不存在自动化攻击的可能性了，但是某些情况下，如对于包含shell的Debian initrds，还是可以从initrd人工挂载和修改initrd的。这可以通过自动键盘式设备完成，这样就绕过了无法通过外置媒体启动系统的限制。
+另外，还可以开启BIOS启动密码，这样没有密码的人就无法启动计算机了。
+不过如果攻击者有足够的时间把硬盘拆下，然后用他们自己的笔记本启动硬盘的话，后两种方案也不管用了。
+最后，最安全的方案就是将SecureBoot拓展到initrd。SecureBoot可以验证bootloader和内核，如果能够验证经过签名的initrd的话，要不留痕迹地在/boot分区修改任何东西都会很困难。但是如果攻击者可以通过刷BIOS/UEFI关闭secureboot的话，这种方案也没用了。
+防止这类攻击最好的方法就是不要让你的设备落入攻击者们的手中，我们的PoC攻击可以在2分钟内攻陷所有的目标主机，但在现实世界中，攻击者也可以做出攻击特定目标的payload，这样的payload只用几秒就可以攻击设备。
+相关代码和有关我们工具的更多细节：
+https://github.com/GDSSecurity/EvilAbigail
+
+
+
+
+
+
+
+-----------------------------------------------------------16-----------------------------------------------------------
+0X16: 
+     [12.29]Ramnit僵尸网络归来，被猜测为同一团队所为 
+
+ =700) window.open('http://image.3001.net/images/20151227/14511971019035.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+2015年2月底，欧洲刑警组织(Europol)与多家网络安全公司摧毁了金融诈骗网站Ramnit僵尸网络的C&ampC(命令与控制)服务器。
+Ramnit僵尸网络复活
+10个月过后，IBM的X-Force Threat Intelligence团队报告，Ramnit僵尸网络幕后团队正在慢慢地进行第二版网络的建设工作，目前，他们已经开始利用恶意广告程序以及银行木马病毒感染用户的设备。
+Ramnit僵尸网络亮相于2010年，直到2014年年底，它成为了继GameOver Zeus、Neverquest、Shylock之后的第四大金融诈骗僵尸网络。主要攻击母语是英语国家例如美国、澳大利亚、英国等，很快，它成为了微软、赛门铁克、AnubisNetworks等网络安全公司的主要打压对象，它们联合Europol欧洲网络犯罪中心(EC3)并在今年摧毁了这个网站的主服务器。目前IBM公司的研究人员指出，Ramnit v1僵尸网络的C&ampC(命令与控制)服务器虽然还在发送指令，但由于欧洲刑警组织的努力，这些程序指令从未达到过已经感染的设备上。
+怀疑为同一个团队
+目前看起来这对于Ramnit僵尸网络幕后的犯罪团队并没有太大关系，该僵尸网络的团队已经抛弃了这个旧版本的服务器，并通过一个银行木马展开了新的行动。
+IBM安全专家称，新版本和旧版的并没有太大差异，只是感染的方式不同了。据悉，Ramnit v1用的是可移动硬盘和网络共享感染恶意程序，而新版本则改用托管方式，通过恶意广告将用户引到一个Angler Exploit Kit网页上。并且11月末 Malwarefor.me网站的报告也证实这一点。
+这个新版本的僵尸网络用的是新的C&ampC(命令与控制)服务器，并且似乎是旧版本的幕后团队复出，另外IBM公司指出，Ramnit僵尸网络似乎成为了首个重新露面的银行欺诈僵尸网络，这让他们感到诧异。但当时随着打击他们僵尸网络的逐步增强，幕后团队跑掉被没有损失什么人员。此外，IBM的专家们表示，由于他们从未对外公布过任何关于v1版本的信息、它的源代码也从未对外公开过。
+=700) window.open('http://image.3001.net/images/20151227/14511972621735.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+IBM的 Limor Kessem描述道：
+“目前Ramnit主要的攻击目标是银行网络，地区分布在加拿大，澳大利亚、美国以及芬兰，从过去的活动分析，在接下的几个月时间里，运作团队只要建立好工具以及资源那么将很快传播到世界其它地方。”
+
+
+
+
+
+
+-----------------------------------------------------------17-----------------------------------------------------------
+0X17: 
+     [12.29]剑走偏锋：基于静态检测的IE漏洞检测工具IEFuzz 
+
+=700) window.open('http://image.3001.net/images/20151227/14511485006435.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+本文主要分享一款静态的IE浏览器模糊测试工具，该工具被称为IEFuzz。我们知道，像其他大部分软件一样，浏览器也往往通过两种方式进行模糊测试，一种为静态，另外一种则为动态。
+在此前，我们在其他文章中也了解过其他的Fuzzer，如X-Fuzzer，PKAV HTTP Fuzzer，也了解过相关的Fuzzing方法,如从零开始学Fuzzing系列：浏览器挖掘框架Morph诞生记等。本文主要讲述静态浏览器Fuzzer的情况。
+在当下，动态浏览器Fuzzer占据着主流，因为它们的运行效率高（纯粹是用JavaScript写的）。然而，当我们在进行动态Fuzzing 的时候，往往面临着一个共同的问题，就是“异常事件重现”。所以一般我们在构建JS 浏览器 Fuzzer时都需要非常仔细，否则在运行过程中可能会由于浏览器Fuzzer是动态的，将导致异常事件不可重现。
+所以，在Fuzzing之前，我们往往需要考虑以下几个方面的问题：
+
+1、测试实例（样本）如何生成？2、对异常事件如何监控？3、对于引起异常事件的测试实例如何保存？4、异常事件如何重现？对于上述使用动态 Fuzzer面临的问题，另外一种解决思路是，采用静态Fuzzer进行检测。虽然静态Fuzzer效率较低，但是一般都可以重现异常事件的。
+IEFuzz简介
+该静态IE fuzzer 是用python编写的，包括使用到以下模块:
+pywin32com ――用于加载或者重载*.html测试实例；
+pydbg――用于监控IE浏览器的异常事件；
+paimei――用于生成异常事件的dump文件，下载链接为：paimei。
+IEFuzz使用配置
+为了能够顺利进行Fuzzing,我们需要在IE设置中做如下更改。
+
+1、首先，因为Fuzzer 需要在本地加载测试实例（如加载路径为file://c:/fuzzer/testcases/temp.html）所以应该先将IE的ActiveX告警提示关闭，通过如下步骤：
+（1）工具-&gtInternet 选项-&gt安全-&gt自定义级别；
+（2）随后将ActiveX告警提示关闭。
+2、接着，为了能够使用 Python win32com来监控IE，我们还需要关闭IE的保护模块。但是请注意其中的风险。
+（1）工具-&gtInternet 选项-&gt安全-&gt受信任的站点：自定义级别为低；
+（2）工具-&gtInternet 选项-&gt安全-&gtInternet:自定义级别为中，同时关闭保护模式；
+（3）工具-&gtInternet 选项-&gt安全-&gt受限站点：关闭保护模式。
+编写测试实例
+首先我们可以基于该fuzzer编写自己的静态测试用例生成器。之后可以将其放在/TestCases文件夹中。在GitHub源码中， 也提供了一个样本以供参考：’TestCases/SampleTestCase.py。因源码篇幅较长，链接如下，
+TestCases/SampleTestCase.py
+
+在编写测试实例时也请注意，实例中需要包含一个TestCase类以及getFinalTestCase()方法。 getFinalTestCase()方法需要能够返回完整的 Html页面。
+在动态fuzzer的应用过程中，需要从对象中提取不同的Html元素属性，然后在运行状态下进行模糊检测。而对于一个静态Fuzzer，我们能够在我们的python测试实例中预定义html元素以及属性，并将之作为字典dict。
+dict举例如下：
+
+attr = {'CANVAS':['height','width','getContext', ... , ... , ... ]}
+对于这种属性生成列表，也提供了一个JavaScript 应用供参考。
+
+&lthtml&gt
+&lthead&gt
+&ltscript&gt
+/*
+----------------------------------------------------------------------------
+&quotTHE BEER-WARE LICENSE&quot (Revision 42):
+&ltdebasishm89_at_gmail.com&gt wrote this file.As long as you retain this notice you
+can do whatever you want with this stuff. If we meet some day, and you think
+this stuff is worth it, you can buy me a beer in return. Debasish Mandal
+----------------------------------------------------------------------------
+This JS code should be used for generating a python dict. of element attributes of different HTML elements.
+In case of dynamic fuzzer, its usually generated on the fly, since its a static fuzzer you need to pre define html elements and their attributes to your test case.
+Other wise you can use a list of well known attributes. It's completely your choice, how you write your test case. 
+*/
+function getEleAttributes(ele){
+buff = &quot['&quot
+for( var p in ele ){
+buff += p + &quot','&quot
+}
+buff = buff.slice(0, -2) + &quot]&quot
+return buff
+}
+function generate() {
+/*
+Add your element list in this here and open this html in IE.
+*/
+var elements = [&quotARTICLE&quot,&quotASISE&quot,&quotB&quot,&quotBDI&quot,&quotBDO&quot, &quotBLOCKQUOTE&quot,&quotBR&quot,&quotBUTTON&quot,&quotCANVAS&quot,&quotCAPTION&quot,&quotCITE&quot,&quotCOL&quot,&quotCODE&quot,&quotCOMMAND&quot,&quotDATALIST&quot,&quotDD&quot,&quotDEL&quot,&quotDETAILS&quot,&quotDFN&quot,&quotDL&quot,&quotDT&quot, &quotEM&quot,&quotSTYLE&quot,&quotFIELDSET&quot,&quotFIGCAPTION&quot,&quotSCRIPT&quot, &quotEMBED&quot,&quotFIGURE&quot,&quotFOOTER&quot,&quotHEADER&quot,&quotHGROUP&quot,&quotHR&quot,&quotI&quot,&quotINPUT&quot,&quotINS&quot,&quotKEYGEN&quot,&quotKBD&quot,&quotLEGEND&quot,&quotMARK&quot,&quotMENU&quot,&quotMETER&quot,&quotNAV&quot,&quotNOSCRIPT&quot,&quotOPTGROUP&quot,&quotOUTPUT&quot,&quotP&quot,&quotPARAM&quot,&quotPRE&quot,&quotPROGRESS&quot,&quotQ&quot,&quotRP&quot,&quotRT&quot,&quotRUBY&quot,&quotS&quot,&quotSAMP&quot,&quotSECTION&quot,&quotSELECT&quot,&quotSMALL&quot,&quotSOURCE&quot,&quotSPAN&quot,&quotSUP&quot,&quotTH&quot,&quotTHEAD&quot,&quotTIME&quot,&quotOBJECT&quot,&quotIFRAME&quot,&quotTEXTAREA&quot,&quotTRACK&quot,&quotU&quot,&quotVAR&quot,&quotWBR&quot,&quotFORM&quot,&quotA&quot,&quotBODY&quot,&quotHTML&quot,&quotDIV&quot,&quotTABLE&quot,&quotAREA&quot,&quotTD&quot,&quotTR&quot,&quotLINK&quot,&quotBASE&quot,&quotFONT&quot,&quotHEAD&quot,&quotIMG&quot,&quotMAP&quot,&quotMETA&quot,&quotOL&quot,&quotLI&quot,&quotTBODY&quot,&quotTITLE&quot,&quotH1&quot,&quotBLINK&quot,&quotAREA&quot,&quotCOL&quot,&quotSPAN&quot,&quotFRAMESET&quot,&quotFRAME&quot,&quotUL&quot,&quotOPTION&quot,&quotNOFRAMES&quot,&quotTFOOT&quot,&quotXMP&quot,&quotISINDEX&quot,&quotCENTER&quot,&quotHR&quot,&quotLABEL&quot,&quotOPTGROUP&quot,&quotAUDIO&quot,&quotVIDEO&quot,&quotTEMPLATE&quot,&quotSVG&quot]
+main_buff = &quotele_dict = {&quot
+for (ele in elements){
+var id_0 = document.createElement( elements[ele] )
+all_props = getEleAttributes(id_0)
+main_buff += &quot'&quot+elements[ele] 
+main_buff += &quot':&quot
+main_buff += all_props
+main_buff += &quot,&quot
+}
+main_buff = main_buff.slice(0,-1)
+main_buff += &quot}&quot
+document.getElementById('result').innerHTML = main_buff
+}
+&lt/script&gt
+&lt/head&gt
+&ltbody onload='generate()'&gt
+&ltb&gtOutput : (Copy paste following python dictionary to your testcase generator script and fuzz using them )&lt/b&gt&lt/br&gt&lttextarea id=&quotresult&quot rows=&quot100&quot cols=&quot200&quot&gt&lt/textarea&gt
+&lt/body&gt
+&lt/html&gt
+ 
+那么IEFuzz 是如何运行的？请参考往下步骤:
+1、启动IE；2、将iexplore.exe进程挂载到 Debugger(pydbg) 中，然后对其父进程以及子进程所有类型的事件进行监控；3、生成一个静态实例(Html + JavaScript)；4、通过win32COM加载该静态实例到本地（如file://c:/fuzzer/testcases/temp.html）5、如果没有产生异常事件，那么就需要重新生成一个Html测试实例，然后再使用win32COM （python模块）进行重载。（在这里先不关闭IE或者重新打开IE。可以说，我们只是重新刷新了页面，但是页面的代码或者内容是不同的，这也给测试节省了时间）；6、在出现异常事件时，先复制或者保存测试实例到一个单独的文件夹，然后再关闭IE进程；7、返回步骤1。Demo 演示视频
+我们也可以通过下面的Demo演示，具体了解下IEFuzz。
+原视频网址为：http://www.youtube.com/watch?v=CI6Kb5BKBl8
+IEFuzz Github链接
+
+IEFuzz的参考源码请点击：IEFuzz
+ 
+ 
+ 
+ 
+
+
+
+
+-----------------------------------------------------------18-----------------------------------------------------------
+0X18: 
+     [12.29]BadBarcode条码攻击浅析 
+
+原创作者：阿金
+=700) window.open('http://image.3001.net/images/20151225/14510423413203.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在GEEK PWN大会上，TK为大家演示了腾讯玄武实验室最近研究的新成果―badbarcode，也就是对条码中一些安全隐患的研究。其实关于条码及二维码的安全研究由来已久，本文主要为大家介绍一下badbarcode最基本的原理以及简单的badbarcode攻击。
+
+在badbarcode中，主要针对的是code128协议，由于几乎所有的读码器都可以识别code128协议的条码，因此，此方法还是十分通用的。Code128码其实还分成三类，即128A、128B、128C。它们的区别就是对应的字符表不一样。那么code128码到底怎么读呢？请看下面的图：
+=700) window.open('http://image.3001.net/images/20151225/14510425049271.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+条码中从左往右是黑白相间的条形图，其中黑颜色的叫做“条”，用B表示，白颜色的叫做“空”，用S表示。条和空都有4种不同的宽度，我们将其从细到粗赋予1、2、3、4四个值。然后我们开始按照不同粗细的值来阅读上面的条码，结果为：211232 112232 131123 331121 241112 214121 124211 2331112。
+
+Code128码有一个头一个尾。尾用2331112来表示，这代表Code128已经结束；尾前面的6位是校验位，用于检查该条形码是否被正确编码；头有3种，分别是211412表示128A、211214表示128B、211232表示128C；其余的部分是6位为一个块。去掉头、尾以及校验码后就是这样：112232 131123 331121 241112 214121。我们可以根据字符表读出该条码的具体内容，字符表如下所示：
+=700) window.open('http://image.3001.net/images/20151225/145104274296.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+根据头我们可以知道这个是Code128C型。C型码是纯数字的，每个块对应2位数字，查表可得：12 34 56 78 90
+
+要研究badbarcode，我们就要了解一下条码扫描仪是如何识别条码并对条码中的数据进行处理的。识别条码的原理在上面已经介绍过了，那么识别出其中的数据后扫码仪是如何工作的呢？其实大部分扫码仪是基于模仿键盘的机制进行工作的，也就是说在条码中读出数据后，机器会认为该数据是通过键盘输入的，从而在商品编号等信息框内输入商品信息。那么这样的话，我们可不可以通过控制条码信息来在电脑上执行命令呢？答案当然是可以的！在code128协议中，是支持ASCII控制字符的。也就是说在code128协议中对于输入的ASCII字符都会有一个控制字符与之对应，具体的对应情况请看下表：
+=700) window.open('http://image.3001.net/images/20151225/14510428774901.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+通过上表我们可以看到，针对不同的ASCII字符，都有一个CTRL+X(X代表任意键)与之对应，这样呢，我们就可以通过执行CTRL+O打开对话框，然后大家就可以继续使用一些方式来进行进一步的操作了。根据上面对code128协议的介绍，我们可以通过生成一个含有2114121341111341112331112信息的条码来执行CTRL+O命令。该信息表明此条码是128A类型的条码，其中包含ASCII字符SI，即对应着CTRL+O命令。生成该条码后，条码如下所示：
+=700) window.open('http://image.3001.net/images/20151225/14510430096921.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+扫码仪扫描过上面条码后就会打开如下窗口：
+ 
+=700) window.open('http://image.3001.net/images/20151225/14510430696707.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+ 
+以上只是badbarcode中最基础的内容，在此仅做一个简单的解析，更加精彩的攻击方式可以通过ADF技术自定义键盘输入来实现构造一段包含任意命令的条码。具体关于ADF的技术原理在此就不做介绍了，有兴趣的可以自己进行进一步的研究。
+*原创作者：阿金，本文属FreeBuf原创奖励计划文章。
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+-----------------------------------------------------------19-----------------------------------------------------------
+0X19: 
+     [12.29]勒索软件Gomasom受害者的福音：免费解锁的工具已出 
+
+=700) window.open('http://image.3001.net/images/20151228/14512638852400.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+来自Emsisoft的安全研究员Fabian Wosar，他推出了一款针对Gomasom恶意赎金软件的解锁工具。与此同时，相应的用户指南被放在了Bleeping Computer论坛上。
+Gomasom的恶意行为
+恶意赎金软件（Ransomware）的概念最近被媒体炒得火热，它们对终端用户有着巨大的威胁。不过，Gomasom的受害者最近应该算是有福音了，Emsisoft公司推出的工具可以对其进行解密。
+Gomasom（谷歌邮件赎金软件），是恶意赎金犯罪系统的一个新星。它会加密用户的文件，并在每个文件名里加入Gmail地址，换成.crypt的扩展名。
+对Gomasom加锁文件的解密
+该工具通过分析加密文件，可以让用户获得解密的密钥来解锁文件。Wosar解释说，在受害人同时拥有加锁后的文件和原始版本的文件时，该工具经过分析两者会有很高的成功率。
+不管怎样，总是有可能获取到解密的key的，因为受害者可以取一个被感染的png文件，然后和网上的png文件进行对比。
+动图如下
+=700) window.open('http://securityaffairs.co/wordpress/wp-content/uploads/2015/12/Gomasom-Ransomware-decryption-tool.gif')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+下载地址：http://emsi.at/DecryptGomasom
+
+
+
+
+
+
+
+
+-----------------------------------------------------------20-----------------------------------------------------------
+0X20: 
+     .tt域名2数字2声母抢注过后，2字母单拼和单词来势汹汹！ 
+
+
+继2数字tt域名之后，2声母tt也几乎被包场啦！ 那么，接下来的tt域名2字母单拼和单词，你还要错过吗？
+
+近日.tt域名的行情走向势不可挡，先是2数字.tt域名被注册光了，再有.tt域名每天注册量暴涨，2声母.tt域名也几乎被包场。
+
+.tt域名先是因锤子手机启用t.tt域名而火了一把，但.tt域名注册量却一直不愠不火，近日2字符.tt域名瞬间被抢注，这或许跟域名市场行情有关。
+
+=700) window.open('http://img.iisp.com/image/20151223/20151223171102_29555.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------21-----------------------------------------------------------
+0X21: 
+     [12.25]黑客组织SkidNP：圣诞节将攻击Steam和“我的世界”服务器 
+
+ 
+ 
+=700) window.open('http://image.3001.net/images/20151219/14505390834578.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+ 
+ 
+近日，一黑客组织“SkidNP”表示计划在圣诞节期间攻击Steam和“我的世界”服务器。
+黑客组织发布攻击计划
+目前在圣诞节期间威胁到了微软和索尼线上游戏网络（Xbox Live和PlayStation Network）的Phantom Squad黑客团体，其某个主账号已经被社交平台Twitter给停用。当你访问该账号的时候，页面会重定向并给出如下所示的信息。=700) window.open('http://image.3001.net/images/20151219/14505391188272.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在账户被停用之前，Phantom Squad声称参与了早前中断Xbox Live游戏网络的行动。
+SkidNP表示最终目的是迫使像微软，索尼和Valve等公司做更多的工作来阻止他们进行攻击。在过去，Twitter对用户‘谋划讨论攻击’的行为总是采取‘不插手’的态度。比如之前的几次都没有立即停用其账号。
+=700) window.open('http://image.3001.net/images/20151219/14505391855640.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+目前黑客组织Phantom Squad已经宣布对近期的一些事件负责，包括GTAOL、PSN、Xbox Live、Reddit等发生的问题都是他们在幕后操作的，同时他们也表示自己并不是所谓的跟风者也不是赝品，虽然名字有些类似，但和之前的黑客组织Lizard Squad并非同根。
+黑客组织表示会进行网络攻击
+Phantom Squad还称如果自己某条推特被转发超过100次，将对Lizard Squad发起攻击。SkidNP方面表示，他们会进行攻击，因为SkidNP正试图让它们积极应对这些攻击，让它们变得更加强大。
+=700) window.open('http://image.3001.net/images/20151219/14505389707671.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+目前黑客组织SkidNP已经向Neowin网站表示，它计划会在圣诞节期间攻击Steam和我的世界服务器，可结果会怎么样就不得而知了。
+但是去年Megaupload创始人Kim Dotcom曾帮助平息黑客事件出了不少力，他提供了3000个会员账号让这些黑客停止攻击，Kim Dotcom也在最近表示：
+
+“微软和索尼！你们有一年的时间去提升你们的网络安全，如果你们再让黑客黑掉PSN和Xbox Live，我们将会非常生气！”
+=700) window.open('http://image.3001.net/images/20151219/14505390187710.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+-----------------------------------------------------------22-----------------------------------------------------------
+0X22: 
+     [12.25]4000个微笑表情能使WhatsApp崩溃？ 
+
+=700) window.open('http://image.3001.net/images/20151222/14507975382734.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+一位独立研究员，Indrajeet Bhuyan报告了存在于WhatsApp中的一个新漏洞，通过利用该漏洞，任何人都可以远程使WhatsApp崩溃，而他们需要做的仅仅是向目标用户发送将近4000个表情符号。该漏洞影响全球约10亿WhatsApp用户。
+
+4000个表情就能使WhatsApp崩溃
+为了使广受欢迎的消息应用WhatsApp崩溃，我们都需要做什么呢？其实很简单，仅仅需要将近4000个微笑表情符号即可使其崩溃，包括WhatsApp Web版和移动APP。是的，仅仅通过向你朋友的WhatsApp上发送微笑表情符号，你就可以使他的WhatsApp崩溃，包括WhatsApp Web版本和移动应用。
+一位独立研究员，Indrajeet Bhuyan报告了存在于WhatsApp中的一个新漏洞，通过利用该漏洞，任何人都可以远程使WhatsApp崩溃，而他们需要做的仅仅是向目标用户发送将近4000个表情符号。此外，该漏洞影响全球约10亿WhatsApp用户。
+
+崩溃漏洞原理
+Bhuyan去年报告了WhatsApp的一个崩溃漏洞，该漏洞只需要将2000个单词（2kb大小）的特殊字符消息发送到对方，这样就能远程崩溃WhatsApp应用程序(Freebuf相关报道)。在这一发现后，通过设置WhatsApp短消息中的字符数限制，该公司修复了这个漏洞。然而不幸的是，那次修复却未能限制WhatsApp消息中笑脸表情符号的数量。
+Bhuyan在他的博文中写道：
+”在WhatsApp Web中，WhatsApp允许65500―6600个字符，但在输入约4200―4400个笑脸时，浏览器反应开始变慢。但是，由于当前消息数量尚未达到其限制，所以WhatsApp仍然允许继续插入…当它收到更多表情符号时，就会造成缓冲区溢出并最终崩溃。”
+=700) window.open('http://image.3001.net/images/20151222/14507984218645.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+最近，通过在多个不同品牌的安卓设备上测试该漏洞，最终都成功使WhatsApp崩溃：
+1、WhatsApp运行的安卓系统版本包括Marshmallow（6.0）、Lollipop（5.0）和Kitkat（4.4）。2、WhatsApp Web版本，针对Chrome、Opera和Firefox浏览器。确定的是，最新版本的WhatsApp仍然受这个漏洞的影响。
+
+
+视频演示
+你也可以观看下面的POC视频，视频中演示了这种攻击能够正常工作。
+如何保护自己
+
+
+
+-----------------------------------------------------------23-----------------------------------------------------------
+0X23: 
+     [12.25]揭秘：广告拦截软件如何赚钱？ 
+
+生活中没有免费的午餐，同理，拦截软件也不是免费的，也就是说拦截广告也可以赚钱，那么，拦截软件是如何在保证用户拥有干净清洁的在线体验时赚钱的呢？
+拦截广告
+Adbolck Plus近期跟用户承诺用户会获得更透明的后台使用，同时也揭露了他们是如何在保证用户不受到影响的情况下获得收益的。
+=700) window.open('http://image.3001.net/images/20151222/14507136966035.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+事实证明，许可才是是热门广告拦截软件通过可接受的广告获得收益的关键。接入互联网时，它允许白名单里的广告弹出。广告拦截软件不会确保用户拥有完全无广告的体验，因为某些大型公司希望用户看到他们的广告，这样他们就会出很多钱，并且大公司的需求越强烈，他们给广告拦截商的利益就越大。
+广告拦截越来越普及，每月大概有200万用户使用广告拦截。广告拦截通过应用或者扩展插件拦截广告很多的网页，其中包括弹框广告、刺激广告和动画广告。
+虽然用户可能享受更加干净清洁的用户体验，但是广告网络和出版商都选择忽略这点，因为夺人眼球的广告为开源网站和免费在线服务提供继续存活下去的重要收入。
+Adblock Plus公司的可接受广告模式
+Adblock Plus全球合作伙伴的高级经理 Job Plas 在他周三发表的博客中写到，公司将继续致力于资助增强用户使用透明度的开源项目，因为公司是通过这个项目开始的。
+
+虽然保密协议（NDA）的执行防止了不同种类的这一情况的发生，但是Adblock Plus仍希望通过展示如何盈利来减少由NDAs带来的批评和损伤。
+Adblock Plus的可接受广告功能旨在为用户和依靠广告收益维持网站的那些在线的提供免费内容的站长一个&quot共同的平台&quot。该计划允许某些广告成为漏网之鱼，只要这些发出广告的公司支付一定的许可费用即可。
+可接受广告方案要求广告是非动态的，并且不能阻挡用户阅读和移动屏幕。并且，广告需要被标明，这样用户就不会不会认为广告是原始网页的一部分了。
+公司说，&quot没有任何申请人会被区别对待，没有商家可以花钱进入白名单。在广告有资格成为‘可接受’状态之前，所有的广告都会被一视同仁，并且用相同的方式被过滤。&quot
+可接受广告模式的赚钱方式
+Adblock Plus主要是通过可接受广告项目赚钱的。根据公司介绍，有些用户会捐助他们，但是大部分自己都来自于白名单广告许可模式。如果公司再一个月内通过可接受广告项目赚取了超过一千万美金，公司会把钱用户Adblock Plus的维护工作。
+
+Adblock表示：&quot我们通常会收取白名单中广告收益的30%作为许可证费用。&quot然而，90%的白名单许可都授予了提供免费服务的小型公司，而这些公司的广告收益还没有达到这个水平。
+ 
+网络广告有他的两面性，一方面，广告带来的收益可以保证一些小型的提供免费服务或者开源服务的网站维持生存，另一方面，用户会非常讨厌它，因为广告会阻挡用户正在进行的活动，除非用户会继续为提供免费服务的网站捐助。网络广告的问题还需要很长一段时间来商讨、解决。
+
+
+
+ 
+ 
+
+
+
+
+
+
+-----------------------------------------------------------24-----------------------------------------------------------
+0X24: 
+     lc域名2数字已经被注册完，只剩少数2杂可以注册！ 
+
+
+2数字域名到底有多抢手，不少国别域名的2数字域名也告急？小编表示更新文章的速度都赶不上2数字域名被注册的速度了！
+
+=700) window.open('http://img.iisp.com/image/20151223/20151223104015_91716.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+

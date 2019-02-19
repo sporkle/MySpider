@@ -1,0 +1,574 @@
+-----------------------------------------------------------0-----------------------------------------------------------
+0X0: 
+     [10.03]安卓L最终命名确认，三星S5已跑起新系统 
+
+对于Android系统而言，Android L也是一次有史以来极其重大的Android版本更新，外在的比如 Material Design，内在的性能升级都让人颇为期待。对于Android阵营而言，Android L也给了定制系统一些新的发展方向，Material Design的设计语言完全可以融入到自家的定制当中去。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_142251_901.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+三星作为Android阵营的领头羊，一直都有摆脱Google控制的欲望，同时又因为重度依靠Android而无力单飞。这一次 SamMobile曝出的基于Android L定制的TouchWiz版Galaxy S5或许说明了三星开始遵循Google指引的方向了。
+这一次 SamMobile 给出的基于 Android L的S5使用的是一个测试版的Android L（LRW58J）。在此之前，SamMobile也解开了一个谜题，Android L中的L其实代表的是“Lollipop（棒棒糖）”，而不是之前所说的 Lemon Meringue Pie（柠檬酥皮派）。
+由于这个Android L for Galaxy S5只是测试版本，因此在上面的上手视频中和SamMobile的说明可以看到，这个系统反应并不快，也有许多Bug存在。所以还不能因为上面的演示就断定Android L或基于Android L的系统定制的成品如何，这里主要看的是，三星以及TouchWiz根据Android L和Material Design做出的设计改变。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_142251_930.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_142251_959.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_142252_14.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_142252_42.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+可以看到，在这版TouchWiz中的拨号。信息、提醒、闹钟等多个应用和功能界面都进行了重新设计，很大程度上也遵循了Material Design的方向，整体看上去更为协调和活泼。而在今年的 Google I/O大会上，Google也透露新的Android L在点击按钮或旋钮的时候会有更多的动画效果，不过在演示中也看到，其实应有的动画效果还是缺失的，后续的正式版本应该会加上，形成完整的体验。
+
+
+
+
+
+-----------------------------------------------------------1-----------------------------------------------------------
+0X1: 
+     [10.03]苹果员工苦极了：库克每天只睡三小时 
+
+据外媒报道，苹果是一家伟大科技公司这不假，早就起伟大的不只是乔布斯，还有一大批奋发图强的员工。苹果两位前高管爆料，苹果高管的工作真得很辛苦，CEO库克每晚只睡3至4个小时。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_075014_426.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+库克只睡3小时
+苹果互联网技术部门前主管唐・麦尔登(Don Melton)称，员工经常在凌晨1点收到老板的电子邮件，并且需要立即回复。“对苹果每位员工而言，周日晚上就是一个工作夜，因为第二天就是高管会议。因此，你只能把手机放在一边，专心在电脑前工作，即使你最喜欢的电视剧正在播放。”
+不过“你可以指望《黑道家族》(The Sopranos)，这时斯科特・福斯特尔(Scott Forstall，苹果前高级副总裁)不会打扰你，因为他在看这部电视剧。这时候，你可以放心去洗澡了，或者与家人聊天”，麦尔登说。
+iOS应用前主管尼汀・加纳特拉(Nitin Ganatra)则表示，苹果经理们的工作时长也是相当惊人的。“你可能会接到一封转发的电子邮件，并不是直接发送给你的。它来自斯科特，但却是史蒂夫・乔布斯(Steve Jobs)写的。这些邮件的发送时间有时是凌晨2点45分，而副总裁或执行副总裁又希望即刻得到回复。”
+当然，并不是苹果的工程师和经理们才享受不到充足的睡眠，苹果CEO蒂姆・库克(Tim Cook)也是如此。麦尔登说，库克每天也是大部分时间都在线，一直到深夜。“你可能听说过库克熬夜很晚，且很早就起床工作。这并不是公关人员的套话，他们真的那么努力工作。这些人太疯狂了，几乎全天候在线。”
+对此加纳特拉则预计，库克每天晚上的睡觉时间只有3个至4个小时。另外，麦尔登说，苹果员工几乎是24/7(每周7天、每天24小时)待命。
+
+
+
+
+
+-----------------------------------------------------------2-----------------------------------------------------------
+0X2: 
+     [10.03]福布斯美国富豪榜:盖茨居首 扎克伯格财富增长最多 
+
+ 9月30日，《福布斯》发布了美国富豪400强榜单。榜单显示，比尔&#8226盖茨蝉联首富宝座，个人资产达到810亿美元；Facebook联合创始人兼CEO马克&#8226扎克伯格财富增长最多，凭借340亿美元的个人资产跃至第11位。
+归功于生机勃勃的股市，美国顶级富豪的财富与日俱增。这也使得加入美国精英富豪俱乐部变得越来越难。今年，福布斯美国400富豪榜的上榜门槛是15.5亿美元，是自1982年福布斯开始编制美国富豪榜以来最高的一年。去年，如果想要在这份榜单上占据一席之地，至少需要13亿美元的财富。正因为门槛如此之高，今年竟有113名十亿美元级的美国富豪未能上榜。
+坐拥810亿美元财富的比尔&#8226盖茨(Bill Gates)连续第21年蝉联美国首富宝座。这名微软公司董事长在这家他当初与人联合创办的公司中所拥有的股权价值还不到他总资产净值的20%。伯克希尔哈撒韦公司(Berkshire Hathaway)首席执行官沃伦&#8226巴菲特(Warren Buffet)凭借670亿美元资产净值占据了榜眼位置(他从2001年起就一直是第二名)。排在第三位的是不久前才宣布从甲骨文公司(Oracle)CEO位置上退下来的拉里&#8226埃里森(Larry Ellison)，这家软件公司创始人的个人净值是500亿美元。
+Facebook联合创始人兼CEO马克&#8226扎克伯格(Mark Zuckerberg)现在是美国第11大富豪，也是今年榜单上财富增长最多的富豪：从去年的150亿美元飙升到了今年的340亿美元，主要归功于这家社交网站股价的大幅上涨。
+从增长百分比来说，可穿戴摄影机公司GoPro的创始人尼克&#8226伍德曼(Nick Woodman)傲视群雄，他的个人净值自去年以来猛增200%，达到了39亿美元。GoPro于今年6月上市，随着越来越多的人购买GoPro设备绑在自行车头盔上、冲浪板上、潜水设备上，其股价一路高歌猛进。
+所有上榜富豪的财富总和达到了惊人的2.29万亿美元，较去年增长了2700亿美元。这相当于拥有2亿人口的巴西的国内生产总值。上榜富豪的平均资产净值为57亿美元，较去年增长7亿美元，创下历史新高。400名富豪中，财富较去年出现增长的有303名，数量惊人。仅有36名富豪的资产较去年有所下降。26名富豪跌出榜单；6名富豪去世，其中包括商人、坦帕湾海盗队老板马尔康姆&#8226格雷泽(Malcolm Glazer)。
+今年的美国400富豪榜上共有27名新晋成员，其中伊丽莎白&#8226霍尔姆斯(Elizabeth Holmes)是榜单上最年轻的女富豪，也是全球最年轻的白手起家女富豪。这位斯坦福大学辍学生今年刚满30岁，她的血液测试公司Theranos被风险投资家估值为90亿美元。她拥有公司50%的股权。(中新网IT频道)
+
+
+
+
+-----------------------------------------------------------3-----------------------------------------------------------
+0X3: 
+     [10.03]流量杀-手？微信6.0的7项官方说明 
+
+自动播放是否会成为流量杀手？为什么找不到卡包功能？针对这些疑问，微信团队发布了微信6.0的超级产品使用说明书――《关于微信6.0，你也许不知道的7件事》。=700) window.open('http://news.xinhuanet.com/info/2014-10/02/133688670_14122269811591n.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+-----------------------------------------------------------4-----------------------------------------------------------
+0X4: 
+     [10.03]魅族黄章传奇：从“搬砖的”到科技先锋 
+
+最近一场“水军之争”将国内几家手机厂商卷入其中。“1799”引发小米和魅族之间的骂战，小米高层怀疑魅族雇佣水军扰乱其微博评论，魅族回应称评论的多为小米用户，一向低调的黄章也为自家厂商发声。这场骂战将平时为人低调的魅族创始人黄章推到大众视野中。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_081201_332.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_081306_512.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+【英雄不问出处】
+黄章同很多IT圈的大佬一样，都没有进入大学。但是“英雄不问出处”，黄章在进入行业之前，也曾历经磨练，还做过码头搬运工。2002年，黄章出任新加坡合资企业爱琴公司的总经理。早年对于电子产品的痴迷，使得他带领这家VCD企业转型MP3市场。由于之后与公司高层管理理念的不一致，黄章离开公司。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_081306_589.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+【创立魅族】
+离开合资公司的黄章，在2002年底利用网络论坛，发帖介绍即将诞生的品牌“魅族”。之后，魅族推出几款经典MP3随身产品，真正将魅族推到MP3行业巅峰的是2006年。黄章只用了三年时间，就讲一个默默无闻的公司做成闻名全国的MP3品牌。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_081306_645.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+【与粉丝沟通】
+黄章在创立魅族的同时，也开通官方网站和论坛。不仅如此，他还会每天花时间逛论坛，与消费者互动，解决用户发现的技术问题。在黄章的带动下，公司的员工都要去网上了解用户反馈的信息和问题。在魅族还处于MP3的时代时，消费者发现产品缺陷导致无法使用的情况，黄章会帮助其“退货”或“换货”，可以说在MP3时代，魅族就积累一定用户资源。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_081306_693.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+【转战手机产业：推倒“别墅”重新建】
+黄章在修建魅族办公楼时，因为不满意食堂地板，砸掉三次；他自己买地建别墅，觉得不够好，便拆掉重建。在公司战略决策时，黄章也有推倒“别墅”的勇气。2006年，魅族站在MP3行业巅峰，但黄章看到其中的颓势决定退出，转而投身手机市场，两年打造出魅族的转型之作。在Android系统方兴未艾之时，魅族又一次转型，做Android系统手机。两次转型，使得魅族越走越远。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_081306_739.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+【低调的“工匠”】
+黄章不善言辞，从不接受媒体采访，他更热衷于研究技术。在魅族运营商新台阶时，黄章则选择“退隐”，钻研手机的硬件和UI设计。同时，他很喜欢与用户交流，解答网友和用户提出的疑难问题。从2003年至今，黄章发布近6000个帖子。同时，喜欢钻研工艺的黄章还拥有木匠的手艺。家里很多家具都是他亲手打造。在公司一直也是首席设计师，设计手机外形时，会打造多个模具，选择最好的交给工程师。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_081306_785.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+【重回魅族，江湖再现“骂战”】
+魅族和小米的恩怨由来已久，其中也折射出个人恩怨。今年伊始，黄章重回魅族。两家公司在今年分别发布新机，围绕新机的骂战也升级。本来只有两家公司暗中较劲，锤子的罗永浩也声称自己也受到影响，并悬赏20万捉拿水军。低调寡言的黄章发表言论称“和老罗小米比炒作，我肯定输。要是比做产品，我可以秒他们几条街。”王思聪则转发此微博表示支持黄章。
+
+
+
+
+
+-----------------------------------------------------------5-----------------------------------------------------------
+0X5: 
+     [10.03]施密特：谷歌要比苹果安全得多 
+
+谷歌董事长埃里克・施密特（Eric Schmidt）周四说道，苹果搞错了一件事情――在互联网上，谷歌是最安全的地方。施密特在接受CNNMoney采访时表示：“我们在安全和加密领域中一直都是领导者。与包括苹果在内的任何公司相比，我们的系统都要安全得多，加密程度也高得多。它们正在追赶我们的步伐，这是件好事儿。”
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_082322_215.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+谷歌董事长施密特
+施密特强调，谷歌付出了极大努力来保护其用户信息不会被其他公司、政府和黑客获取。
+苹果首席执行官蒂姆・库克（Tim Cook）在上个月底将矛头对准谷歌，他在当时表示，当谷歌这样的在线服务免费向用户开放时，实际上用户才是其真正的“产品”，而并非客户。“但在苹果，我们认为优异的用户体验不应以侵权隐私权为代价。”库克说道。
+施密特则在今天对库克作出反击，他表示谷歌付出了极大努力来保护其用户信息不会被其他公司、政府和黑客获取。他还指出，用户有权对其个人设置作出改动，减少他们愿意共享的信息。“某人对谷歌政策的概括总结并不正确。”施密特说道。“对他来说那还真是不幸啊。”
+谷歌最近推出了一个系统，允许Gmail用户完全加密其电子邮件。谷歌还称，跟苹果iPhone一样，当下一个版本的Android操作系统在今年秋天发布时，Android手机也将被默认加密。这就意味着，政府机关和执法部门将很难查看用户在电子邮件和手机中存储的信息――当然，并非完全不可能。
+今年是黑客攻击事件频现于媒体头条的一年，从家得宝到苹果都被卷入其中。施密特就此指出，谷歌并未发生任何重大的数据被盗事件。
+不过，谷歌在隐私权方面也并不拥有什么完美记录。2012年，谷歌曾试图为旗下多种服务的所有谷歌账号都设定单一的隐私权政策，此举引发了极大争议，甚至有人诋毁称谷歌是想要更容易地追踪客户行为，并将相关信息出售给广告主。
+谷歌还曾被迫向美国联邦贸易委员会（FTC）支付了2250万美元的创纪录罚款，原因是被控绕过苹果对Safari浏览器的无Cookie政策。另外，谷歌还被发现故意利用其街景（Street View）拍摄车监听周边用户的互联网会议。
+
+
+
+
+
+-----------------------------------------------------------6-----------------------------------------------------------
+0X6: 
+     [10.03]暗黑3资料片台服半价销售，国服玩家啥心情 
+
+自暗黑3资料片夺魂之镰上线以来美服官网或亚马逊等购买平台已经做过不少优惠活动，而今日台湾官网首次降价，普通数字版降价幅度高达半折。同时进行优惠活动的还有原版，这也意味着用原价1150点战网点数即可购买本体和资料片。对于想把普通数字版升级成豪华版的玩家来说也可以趁这次活动购买，其中的差价将在结算时扣除。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_090117_201.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+资料片上线后，经常可以听到周围玩家讨论新的朋友加入到游戏中。即将到了十一长假，你身边是否还有朋友在观望游戏而没有购买呢？这是个不错的机会，趁着长假来临赶快开始游戏吧。
+网友：人家降价咱魔兽涨价？体谅过国服玩家的心情么？
+
+
+
+
+
+-----------------------------------------------------------7-----------------------------------------------------------
+0X7: 
+     [10.03]高科技滑板：滑1小时就给iPhone4/4S充满电 
+
+据国外媒体报道，滑板者常是音乐爱好者，而把这两个爱好合二为一只是时间问题。一位学生制造了一个高科技滑板。它的底部内置扬声器，还配有一个用于手机或音乐播放器的接口。除了从对接装置播放音乐外，这个名为充电板(Chargeboard)的滑板还可用底部轮子产生的动能给电池充电。
+比约恩-范-登-胡特设计了充电板。这是他在鹿特丹市威廉-德-库宁艺术与设计学院毕业设计的一部分。充电板底下的轮子转动时，两个发电机就会产生6伏电压。除了给扬声器提供动力外，这些电还可为接入的手机充电。
+充电板接口当前兼容苹果4和苹果4S手机，但3.5毫米的耳机插座和USB 2.0端口意味着它可以用于其他装置。使用者用充电板滑行一小时，就足以给一部手机充满电。与此同时，内置电池可给一部手机充电至少8次。
+胡特对网络版《每日邮报》说：“我真的想更加深入地研究这个项目，然后把它投放市场。所以我正在寻找一个想要在技术上发展充电板的团队。一个投资人将是这个项目取得进展的重要因素。因为我刚毕业，根本没钱根据我自己的想法去做。我计划29日在创意方案众筹网Kickstarter上启动一个项目，为生产充电板筹集资金。”
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_092040_456.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+荷兰鹿特丹市威廉-德-库宁艺术与设计学院的一位学生设计出一个叫充电板(照片显示)的电动滑板。该装置配有一个用于苹果4和苹果4S手机的接口。打开接口盖，连接电源，就可给手机充电。另外，它还内置播放音乐的扬声器。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_092040_522.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >　　
+充电板底下的轮子转动时，给电池充电。使用者滑行一小时，可将一部手机充满电。充电板还配有用于其他装置的3.5毫米耳机插座和USB端口。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_092040_582.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >　　
+充电板底下的轮子转动时，两个发电机就会产生6伏电压。除了给扬声器提供动力外，这些电还可为接入的手机充电。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_092040_627.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+胡特计划29日在创意方案众筹网Kickstarter上启动一个项目，为生产充电板(照片显示)筹集资金。
+
+
+
+
+
+-----------------------------------------------------------8-----------------------------------------------------------
+0X8: 
+     [10.03]苹果iPhone6国行最强购买攻略 
+
+iPhone 6/iPhone6 Plus终于通过工信部的入网许可，苹果也正式公布了10月17日的开卖日期。
+怎样才能第一时间买到国行iPhone6/6 Plus？什么时候买？
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_090610_303.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+iPhone 6国行最强购买攻略
+10号：大陆地区可以从10月10日起从苹果在线商店预定，苹果汇根据在线商店的备货情况和发货周期来发货。
+14号：10月14日起，可以去苹果的中国官网预约购买国行iPhone 6、iPhone 6 Plus。
+17号：10月17日，在14号预约成功之后，可以在苹果直营店取货。
+1、苹果在线商店
+http://store.apple.com/cn/iphone
+2、苹果线下零售店
+http://www.apple.com/cn/retail/
+3、三大运营商
+中国移动说了：
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_090610_361.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+中国移动
+中国联通说了：
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_090610_409.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+中国联通
+中国电信说了：
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_090610_437.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+中国电信
+4、苹果授权店
+5、价格：
+iPhone 6：
+16GB 5288元、64GB 6088元、128GB 6888元
+iPhone 6 Plus：
+16GB 6088元、64GB 6888元、128GB 7788元
+6、国行版本区别
+国行iPhone6/iPhone6 Plus共有四款型号，分别是A1586、A1589、A1524、A1593：
+A1586：为全网通的iPhone6，支持TD-LTE、FDD LTE、WCDMA、TD-SCDMA、CDMA2000以及GSM；
+A1589：为移动定制版iPhone6，支持TD-LTE、TD-SCDMA、GSM，漫游支持WCDMA以及FDD LTE。
+A1524：对应全网通的iPhone6 Plus，支持TD-LTE、FDD LTE、WCDMA、TD-SCDMA、CDMA2000以及GSM；
+A1593：对应移动定制版iPhone6 Plus，支持TD-LTE、TD-SCDMA、GSM，漫游支持WCDMA以及FDD LTE。
+下面我们通过一个表格来了解一下：
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_090610_489.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+iPhone6
+总结来说，电信用户的选择比较有限，除了国行之外，只能选择日版；而联通3G/4G用户不能使用国行移动定制版；移动3G/4G用户除了美版外均可选购。
+7、全球各地版本价格对比：日版最便宜
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141003_090610_522.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+全球各地版本价格对比
+按照最新的汇率对各版本价格进行了换算，表格中的货币单位均为人民币。
+其中日版和美版除了托朋友代购外，还可以通过海淘的方式进行，算上货币转换费、国际转运费以及进口关税，实际算下来费用合计大约在600元左右。另外购买日版还需要额外支付8%的消费税，该价格已含在表格中。
+购买iPhone 6/6 Plus的十大理由：
+1、更轻薄的机身，能掰弯。
+2、更快的处理速度，还有M8协处理器。
+3、更赞的拍照效果，拍照功能提升。
+4、更好地指纹识别，
+5、更好的游戏体验，比大更大。
+6、更大的屏幕，比大更大。
+7、更的健康功能，Health Kit。
+8、更丰富的智能家居体验，Home Kit。
+9、更大的容量，128G不错之选。
+10、更好的续航能力，比大更大。
+
+
+
+
+
+-----------------------------------------------------------9-----------------------------------------------------------
+0X9: 
+     [10.03]微软跳过Win9发布Win10，目的竟是这个 
+
+微软跳过Win9发布Win10，目的竟是这个
+10月1日，美联社周二刊文称，微软已经跳过Windows9，将其Windows操作系统的下一个版本命名为Windows10，其目的是强调作为该公司旗舰产品的Windows系统已在移动设备和互联网服务等领域中取得的进步。
+
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_065758_349.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+微软当前的Windows版本是Windows8，这个版本被广泛批评为强迫用户接受彻底的行为变化。为此，微软将恢复此前版本中的一些传统功能，并承诺无论用户目前正在使用哪个版本，Windows 10都将为其带来熟悉感。举例来说，Windows 10系统中的“开始”菜单将与Windows 7类似，但所谓的“动态磁贴”则将与Windows 8相似。
+据负责Windows设计和演进事务的微软副总裁乔・贝尔菲奥利（Joe Belfiore）称，Windows 10将为用户提供“Windows 7的熟悉感，同时还可提供Windows 8中已经存在的一些好处”，从而帮助商务用户升级至这个新版本。
+在周二召开的旧金山发布会上，微软向商务用户初步展示了Windows 10操作系统，并将从周三开始面向选定用户提供技术预览版。微软计划在明年初公布个人版Windows 10的细节信息，并在2015年中期最终发布这个新版操作系统。
+分析师认为，对于微软及其新任首席执行官萨提亚・纳德拉（Satya Nadella）来说，这个新的Windows版本能否取得成功是至关重要的一件事情，原因是纳德拉必须向外界证明，微软能在不牺牲传统计算体验的同时为移动设备用户提供良好体验。
+这个新版系统代表着微软作出的一种尝试：在两年前推出Windows 8操作系统时，许多桌面用户都对其彻底的重新设计感到不满，而现在微软则希望撤回这种设计。但与此同时，微软又不会完全放弃填补个人电脑与移动设备之间“鸿沟”的目标：Windows 10系统仍将保留触摸屏概念，这是因为微软希望为那些在桌面电脑、平板电脑和智能手机之间切换使用的Windows用户创造出一种熟悉的体验。
+微软执行副总裁、操作系统部门负责人特里・迈尔森（Terry Myerson）表示，Windows 10将是“全新一代”的操作系统，将可在从手机到游戏机等各种设备上运行。
+微软目前主要提供三种Windows操作系统：面向传统电脑和平板电脑用户的Windows 8系统、面向智能手机的Windows Phone 8系统、以及面向Xbox游戏机的操作系统。通过将这些系统合为一体的方式，软件开发商将可更加容易地为各种设备开发应用，而消费者也将可更加容易地在各种设备之间进行切换，而不需要多次购买相同的应用。
+不过，这并不意味着同一款应用在不同设备上将是完全一样的。开发商仍可针对不同尺寸的显示屏来对其应用作出调整，但无需为每种设备都从头开发不同的版本。另外，尽管使用相同的基本技术，但不同设备上的用户界面可能也仍将存在差别。就目前而言，微软计划保持当前的XBox界面不变。
+
+
+
+
+-----------------------------------------------------------10-----------------------------------------------------------
+0X10: 
+     [10.03]Win10技术预览版发布会汇总：惊！喜！ 
+
+Win10技术预览版发布会汇总：惊！喜！
+北京时间十月一日凌晨，微软在美国旧金山正式公布了下代Windows操作系统Win10的技术预览版本，发布会上微软带给我们很多惊喜。很惊讶是吧，看发布会直播的小伙伴们看到微软打出Windows10名称时估计都被惊讶到了，浓浓睡意刹那间烟消云散。微软之前还放出了Windows9、Windows TH、Windows 2015等一堆烟雾弹名称。不过，除了惊讶之外，Windows10也为我们带来很多令人欣喜之处，下面一起来看下，Win10都有哪些新特性。
+1、全设备平台制霸，Win10将实现大一统壮举
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_043823_656.png')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+从4英寸屏幕的“迷你”手机到80英寸的巨屏电脑，都将统一采用Windows 10这个名称。这些设备将会拥有类似的功能，微软正在从小功能到云端整体构建这一统一平台，跨平台共享的通用技术也在开发中。目前的Windows10技术预览版主要为台式机和笔记本打造，Windows Insider Program也会登陆。与此同时，微软还在发布会问答环节中确认了ARM版本Win10的存在。
+2、Win10长啥模样？和之前曝光的Win9截图一样吗？
+除了之前曝光的Win9预览版截图所展示的桌面开始菜单和窗口化Metro应用外，我们还在其中看到了全新的开始屏幕：同时结合触控与键鼠两种操控模式。Win7用户与Win8/Win8.1用户可以各取所好。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_052719_382.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_052924_177.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_014011_734.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+3、Win10技术预览版何时发布？正式版呢
+Windows10将在2015年晚些时候正式上市，微软并没有给出具体的发布时间。Win10技术预览版镜像下载开放后我们会第一时间为大家带来下载地址以及详细的安装教程。小伙伴们，再等等。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_032722_390.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+4、多任务切换变为更大的卡片式风格，更大更直观。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_012458_946.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+5、高效的多桌面、多任务、多窗口。
+微软为Windows10带来了虚拟桌面功能，可以更加自己的需要来添加多个虚拟桌面；另外，增强的分屏多窗口功能现在支持四个应用同时摆放；任务之间的切换也十分便捷，可以轻松在多个桌面间找到自己所需的应用。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_053229_288.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_053233_428.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+6、Charms边栏尚存
+微软没有彻底砍掉Charms边栏，Win10仍然为触摸屏用户保留了该功能，使用触控设备的用户无需再买个键盘鼠标了。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_013309_543.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+7、全新命令提示符功能，这下好用了
+Win10技术预览版命令提示符功能全面进化，不仅直接支持拖拽选择，而且可以直接操作剪贴板，支持更多功能快捷键。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_012921_707.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+8、即将到来的Win10技术预览版，版本号会是多少？
+昨天，IT之家为大家带来了9844版本Windows技术预览版的相关报道。不过微软在发布会上进行现场演示时使用的版本为9841。再之前的Win9技术预览版泄露截图显示其为9834版本，更新节奏好快！
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_012325_794.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+9、发布会后的现场问答环节，微软也给我们带来了更多消息。
+
+
+
+
+-----------------------------------------------------------11-----------------------------------------------------------
+0X11: 
+     [10.03]激动等待：Win10技术预览版下载页面上线 
+
+激动等待：Win10技术预览版下载页面上线
+熬夜看微软旧金山发布会的小伙伴们，估计都被Windows10这个名称惊到了。惊魂未定，微软又正式上线了Win10技术预览版官方下载页面：http://windows.microsoft.com/zh-cn/windows/preview-coming-soon火速直达该页面，不过先不要激动，目前还没有开放下载。再等等，该来的一定会来。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_032722_390.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+Windows10将是一款全设备制霸的大一统操作系统。包括手机、平板电脑以及台式电脑都将采用统一的名称。微软为其带来了桌面化Metro应用、虚拟桌面、全新的分屏多任务模式、触摸和键鼠双模式全新开始屏幕等诸多新功能。
+不出意外的话，Win10技术预览版应该很快就会到来，但是，经此一役，谁又能确保微软不继续调皮呢？届时IT之家将为大家带来更多信息，也将会为想体验Win10的小伙伴们带来详细安装教程，敬请期待。
+
+
+
+
+-----------------------------------------------------------12-----------------------------------------------------------
+0X12: 
+     [10.03]微软宣布新一代系统：Windows10（Win10） 
+
+微软宣布新一代系统：Windows10（Win10）
+10月1日凌晨消息，就在刚刚，微软正式宣布新一代Windows系统的命名：Windows10（我们习惯性简称为Win10）。
+微软的描述是，最为综合的系统，多设备完全无缝体验。微软操作系统主管Terry Myerson称“Windows 10将在最合适的时间给予用户最合适的体验，而且Windows 10将会广泛的运行在各式各样的设备上。”但其中是否包括Windows Phone还尚未可知。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_011156_749.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" > 
+无论你习惯如何操作，都能在Windows 10 中找到适合自己的操作方法，基本来说属于结合了所有Win7和Win8的重要元素，所以可以适应各种用户的不同习惯。
+
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_014212_432.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+
+-----------------------------------------------------------13-----------------------------------------------------------
+0X13: 
+     [10.03]Win10上手体验 
+
+ 微软终于推出了下一代操作系统Windows10。新的操作系统将统一所有Windows版本，将在2015年通过一个操作系统来接管包括电脑、手机和平板电脑等多种设备。不过对于普通用户来说这些都不重要，大家最在乎的绝对是开始菜单是否已经真正的回归。
+下面让我们看看Windows10操作系统究竟有哪些变化吧。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_095418_388.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+没错，这就是我们都爱不释手的开始菜单。它都能做些什么呢？基本上，在Windows7中能实现的功能在Windows10中都已经回归，再加上右侧的一些Windows8磁贴风格的有用信息展示区域。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_095418_461.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+你可以执行全局搜索功能。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_095418_503.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+也可以调整和重新组织磁贴区域的顺序和内容。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_095418_560.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+并且根据自己的需求调整开始菜单的大小、长宽比。
+但是让人感到意外的是，在Windows10的开始菜单中只有一个刷新/升级按钮。还记得在Windows7中，用户只要拖动窗框到屏幕边缘就可以自动分布到屏幕两侧的功能吗？现在Windows10可以通过Snap Fill和Snap Assist来更好的实现这一功能。如果你拖动左侧的日历应用，那么它将会自动缩小到适合用户更方便管理的尺寸。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_095418_603.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+你还可以非常简单的将其它窗口拖到桌面上剩余的空白空间，窗口就会自动调整大小填满这个空白，更好的利用屏幕空间。
+=700) window.open('http://img.ithome.com/images/v2/grey.gif')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+另外，Snap Assist功能可以在你尝试在桌面上开启多个窗口的时候，自动给出如何更好利用屏幕空间的建议，这绝对可以为用户节省出许多的时间。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_095418_683.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+按住键盘上的Windows键，点击“Tab”，就可以看到当前所有已经打开窗口的预览图，并且在桌面的底部通过不同的方式显示（目前还无法任意拖动这些预览图，而对于喜欢动手的用户来说，相信日后应该有相应的补丁实现这个操作）。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_095418_729.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+另外Windows10还可以通过远程的方式关闭本地运行的应用程序，而通过任务栏里面的小图标还可以时刻提醒还有哪些应用在云端运行。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_095418_770.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+另外关于Windows10的其它体验现在还无法一一实现，另外新系统还增加了一个全新的Charms Bar功能。虽然这个功能之前并不怎么太受欢迎，但是微软还是希望用户在使用触摸设备时保留这个功能，并且鼓励开发者更好的利用Charms Bar，而并不仅仅作为一个全局菜单功能使用。
+目前我们还没有体验到平板模式等其它模式，而Windows10系统可以根据设备的不同自动切换模式。到目前为止，新系统给我们的体验基本上复合我们对它的期望，接下来就是等待开发者版正式公布后实际的深入体验了。
+
+
+
+
+
+-----------------------------------------------------------14-----------------------------------------------------------
+0X14: 
+     [10.03]下一代WP系统是Win10，不是WP10？ 
+
+下一代WP系统是Win10，不是WP10？
+@WP之家 报道，在今天的微软Windows10发布会上，微软在问答阶段确认，下一代Windows Phone系统将会被叫做Windows10，简称Win10。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_181920_792.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+微软称，Win10系统涵盖4英寸到80英寸的智能设备，而且还确认手机版Win10将不会有电脑桌面模式。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_181956_475.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+微软Windows副总裁Joe Belfiore称：
+“我们试图融合横跨电脑、平板的体验。最好的思考模式就是将之前的Windows 8.1模型自然化。”
+微软还没有透露Windows10手机系统的新特性，但是我们期望带来类似桌面端的企业管理和一些界面UI改进。另外在Win10或称WP10系统将共享基于Windows通用应用的Win10统一应用商店。
+
+
+
+
+
+-----------------------------------------------------------15-----------------------------------------------------------
+0X15: 
+     [10.03]只说两点：Win10预览版安装密钥和到期时间 
+
+微软在10月2日零点正式公开了Win10预览版的下载地址：http://win10.ithome.com/，这个时间大家应该逐步开始安装工作了，因此提出下面两个问题的用户特别多，IT之家再稍作告知一下。
+1、Win10预览版安装密钥是什么？
+答：NKJFK-GPHP7-G8C3J-P6JXR-HQRJR，这是微软已公开的信息，但确实不少用户真的不知道。
+2、Win10预览版到期时间是什么时候？
+答：Windows10技术预览版将于2015年4月15日过期，微软将从在2015年4月1日向用户发送通知，提醒用户需要将电脑升级到新的版本。IT之家注：大家其实不必太担心Windows技术预览版的过期问题，因为微软在那之前必然会推出更新版本的。
+不要吐槽小编�嗦，上面短短的文字是可以了却不少用户的烦恼的。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141001_053229_288.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+
+
+
+
+-----------------------------------------------------------16-----------------------------------------------------------
+0X16: 
+     [10.03]新手必看：Win10预览版安装方法详解（多图） 
+
+ 新手必看：Win10预览版安装方法详解（多图）
+Win10技术预览版现已公开提供下载，本文为新手朋友们详解一下常用的几个安装方法，请根据自己的需求选择最佳安装法。豆豆提醒大家，Win10技术预览版是微软为了接受技术人员反馈信息以进一步改进和完善产品而发布，其在使用过程中不可避免会出现一些bug或者软件兼容问题，因此不建议用它来替代当前正在使用的系统，最好先安装双系统或在虚拟机中体验Win10最新特性。
+玩转Windows10系统盘镜像三板斧：
+&#8226 下载ISO后，可以用魔方电脑大师（点击访问官网）中的魔方文件校验来获取SHA1、MD5、CRC等校验值，确保下载的是官方纯净版，不给木马病毒留机会
+&#8226 魔方电脑大师中的魔方U盘启动，可以把ISO制作成启动U盘来进行安装，既省去了刻盘的麻烦，还可以随手分享给小伙伴
+&#8226 魔方电脑大师中的魔方虚拟光驱，可以把ISO直接虚拟成一个光驱，方便您直接运行安装
+=700) window.open('http://img.ithome.com/images/productgif/pcmaster.gif')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+一、替代当前系统（即将当前系统升级至Win10技术预览版）
+下载镜像后，打开ISO镜像（注：Win8/8.1中直接双击即可，Win7中可用魔方虚拟光驱加载 ，下载魔方：http://down.ruanmei.com/tweakcube/partner/pcmastersetup_u106_full.exe，直接运行镜像根目录中的setup.exe，如下图所示。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_144132_450.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+▲ 接受许可条款
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_144432_417.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+▲ 检查安装环境。这可能需要一段时间，主要取决于你当前使用的系统中的软件数量
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_144444_887.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+▲ 检查完成后，安装程序会列出你需要注意的事项，例如系统功能的缺失或现有软件的兼容性等。如果没有需要注意的事项则会出现下图所示结果。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_144439_106.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+▲ 在这里还可以更改升级后需要保留的内容。点击“更改要保留的内容”，出现下图内容
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_144505_836.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+▲ 选择要保留的项目。
+注意，无论选择哪个选项，升级后当前系统都会被Win10技术预览版替代。其中的“个人文件”是指“用户”文件夹下的内容；具体哪些应用可以保留取决于这些应用在Win10预览版中的兼容性；如果选择“不保留任何内容”，升级后“个人文件”仍会被保存下来，移至名为Windows.old的文件夹中。
+点击下一步即可开始安装，如果你选择保留所有内容升级，这将可能是一个非常耗时的过程。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_144532_706.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+本方法缺点是不能执行格式化安装(即纯净安装)。如果想执行格式化安装，请参考三。
+二、组成多系统的最简单方法
+首先我们要为Win10预览版准备一个分区。任何一个有足够剩余空间的分区都符合条件，不过还是建议单独准备一个干净的分区，如果体验后想删除，单独的分区可避免一些麻烦。
+分区：
+打开磁盘管理，找一个剩余空间较大的分区，右键单击选择“压缩卷”：
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_144550_611.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_144630_205.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+▲ 输入合适的大小（这里作为演示仅分配30GB空间，建议不小于40GB），点击“压缩”。之后会在你选择的分区后面出现一个未分配空间。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_144606_43.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+▲ 在未分配空间上右键单击，选择“新建简单卷”，再出现的窗口中一路点击“下一步”即可。注意，如果提示你需要将硬盘转换为动态磁盘，那是因为你的硬盘是MBR分区结构，主分区数量已经超过了该分区类型的最大限制――4个，此时请放弃分区操作。
+安装：
+下载镜像后，打开ISO镜像（注：Win8/8.1中直接双击即可，Win7中可用魔方虚拟光驱加载，，运行sources文件夹下面的setup.exe，如下图所示。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_144640_228.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+▲ 这里可任选
+
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_144656_787.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+▲ 接受许可条款
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_144856_680.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+▲ 选择“自定义”
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_144907_366.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+▲ 选择刚刚分好的分区，这里为J分区，点击“下一步”就开始安装了。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_144916_886.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+顺利的话，安装完成后将自动组成多系统。开机时将会提供多系统选择菜单。
+本方法的缺点是，不允许跨系统架构安装。比如，你不能在32位系统下用这种方法安装64位系统。如果要在32位系统下安装64位Win10预览版，请参考三。
+三、一些通用安装方法（单系统、多系统任你选，不存在上述方法限制）
+这里推荐采用U盘安装法，同时支持UEFI和传统BIOS两种模式。下载镜像后，安装魔方，在魔方“应用大全”找到魔方U盘启动，如下图
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_144930_678.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+按照图中的提示，只需要选择好U盘（一定要看仔细，别选错！）和镜像后，点击“开始制作”即可。
+注：如果提示要破坏U盘数据，请确认U盘没选错，点确定即可。
+
+制作好启动盘后，重启电脑。选择从USB启动即可进入安装环境。一般品牌机都有选择启动介质的快捷键，这些快捷键通常为F12等等，开机出现品牌机logo后按快捷键，然后在出现的列表中选择USB或者Removable类似的选项即可从USB启动，如下图所示
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_145002_953.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+如果找不到快捷键，可以在显示屏出现品牌标识的时候按DEL，F2，ESC等按键进入BIOS设置界面，在BIOS设置中找到Boot相关设置选项，将USB或者Removable选项设置为第一启动选项，最后按F10保存并退出即可。具体操作见下图。注意，不通电脑操作方法有差异，你可以在网上搜一搜对应型号的操作方法。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_145014_561.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+▲ 选择启动设置（Boot configuration）选项。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_145021_504.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+▲ 进入设置选项后，选择启动优先级设置选项。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_145028_417.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+▲ 调整USB设备（Removable Dev.）为第一启动设备
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_145037_944.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+▲ 设置完成后。按F10，选择“OK”即可保存设置并重启。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_145147_244.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+▲ 再次重启后即可进入安装环境。按照提示操作即可。
+之后的安装流程按照提示操作即可，可参考论坛网友pingsheng的分享《Windows 10安装流程图赏》。
+除U盘安装法之外，你还可以选择用Nt6硬盘安装器来安装，方法可参考《仅需两步！轻松硬盘本地安装Win8消费者预览版》。注意，使用该方法时请使用最新版Nt6工具下载：http://pan.baidu.com/s/1sj4U7Ul
+
+
+
+
+
+-----------------------------------------------------------17-----------------------------------------------------------
+0X17: 
+     [10.02]iCloud艳照门没完没了 
+
+在iCloud的好莱坞“艳照门”事件发生后不久，苹果公司发布了新的安全系统以保护用户免遭黑客入侵；但对于这个改进后的安全系统，黑客已经找到了破解的办法，并重新回到一个公共论坛上继续分享。
+苹果公司并未对其iForgot密码系统进行全面整改，黑客仍可利用这个系统来下载用户存储在iCloud平台上的iPhone照片。苹果公司CEO蒂姆・库克(Tim Cook)此前宣布，苹果作出的改进措施是当有人试图更改账号密码并获取iCloud备份信息，或是有人首次从一台新设备登录账号时向用户发出通知。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_082458_592.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+但在今天，仍有一小撮黑客在色情论坛AnonIB上发布破解方法，这个论坛是好莱坞“艳照门”首次曝光之地。这些黑客指出，苹果公司所作出的唯一改变就是扩大了通知系统，使其将iCloud备份信息也涵盖在内。苹果公司声称，在用户账号遭到黑客入侵时会马上发出警告通知，但实际上这个系统无法阻止黑客登录用户账号。
+iCloud黑客的目标对象多为十多岁的年轻女性，而她们不太可能会定期查收电子邮件。因此，苹果公司在有黑客入侵时马上向用户发出通知的作法并不那么有效。很多情况下，在黑客已经利用安全漏洞登录用户账号，并下载加密备份文件以后，遭到入侵的目标用户甚至都还不知道发生了什么事情。
+另外，iCloud黑客还已找到一种方法，能在入侵用户账号时不会触发通知。黑客称，在试图入侵一个iCloud账号以前，可首先破解目标对象的电邮密码；由于多数目标都是不经常查收邮件的少女，因此她们设置的电邮密码并不难猜，例如“password(密码)”本身就经常会被设为密码等。一旦侵入目标用户的电子邮件收件箱，那么黑客就会将来自于苹果公司的电邮标记为垃圾邮件，而这会导致iCloud安全通知也将被分类为垃圾邮件。
+换而言之，对iCloud黑客来说，苹果公司新的安全系统仅意味着目标用户的电子邮件收件箱里多出了一封电邮。AnonIB论坛上的有些发帖者还声称，有时这种通知邮件甚至会出现延迟，而这种延迟足以让黑客迅速“洗劫”用户账号以取得照片。一旦黑客成功侵入账号，即可解密iCloud备份文件并搜索照片。据美国科技博客Business Insider上个月报道称，黑客会通过执法人员使用的昂贵软件来下载和获取iCloud备份文件。
+现在黑客则有了一种新工具，可以用来窃取年轻女性放在网上的照片，那就是有安全研究专家阿列克谢・特罗斯切夫(Alexey Troshichev)开发的开源免费工具iLoot，这个工具以其成功在Find My iPhone软件中发现漏洞而闻名。在“艳照门”事件发生以前，特罗斯切夫所在公司Hack App曾发布了种名为iBrute的工具来利用这个漏洞。
+黑客此前使用的破解软件是在网上出售的，而iLoot则可在社交编程及代码托管网站GitHub上免费获取。在iLoot于9月上线以后，黑客开始使用这个工具来入侵iCloud账号。iLoot使用“命令行界面”，这意味着黑客只需敲入几行代码命令即可操纵这个工具。
+Hack App的Github网站页面称，该工具不应被用于破解版权资料；iLoot的Github网站页面也警告称，用户不得使用该软件入侵账号：“这个工具仅用于教育用途，请在确保符合你所在国家法律的前提下打开。”
+
+
+
+
+
+-----------------------------------------------------------18-----------------------------------------------------------
+0X18: 
+     [10.02]iPhone6之前，iPhone5c是英国最畅销手机 
+
+根据Kantar World Panel的数据统计，今年8月，iPhone 5c是英国最畅销的智能手机，销量甚至超过了iPhone 5s。虽然自iPhone 5c发布后，这款设备一直受到科技行业的批评，但实际上iPhone 5c在很多国家都是销量最高的智能手机，多次击败三星的产品。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_074842_800.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+今年8月，iPhone 5c 占有英国智能手机销量的8.9%，超过iPhone5s的7.6%和三星Galaxy S4的6.0%。通常情况下，苹果手机的销量会在下一代iPhone发布前下降，顾客都会等待新款iPhone发布后购买。不过，iPhone 5c的成功意味着苹果手机的销量下滑远远低于前几年。
+苹果手机8月在英国的销量相比7月只下降了1.6%，Kantar认为购买iPhone 5c的用户根本不关心最新的技术，所以在新产品发布前选择了iPhone 5c。当然，iPhone 6和6 Plus发布后，iPhone 5c的销量似乎没有可能超越。Kantar预测英国已经有400万用户准备购买新款iPhone。iPhone6和iPhone6 Plus开售3天后，销量达到了1000万。
+
+
+
+
+
+-----------------------------------------------------------19-----------------------------------------------------------
+0X19: 
+     [10.02]松下将发售全球最轻10.1英寸笔记本电脑 
+
+松下公司2日宣布，将于本月17日发售主力笔记本电脑“Let's note”的新系列产品“RZ4”。10.1英寸机型重745克，在全球同尺寸笔记本电脑中重量最轻。
+新产品的厚度为19.5毫米，电池最长续航时间为14个小时，还可当作平板电脑使用。预计最低售价16.28万日元(约合人民币0.92万元)。=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_191408_537.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+
+松下同时还将发售现有“MX3”、“LX3”和“SX3”系列笔记本电脑的升级版。公司计划在2014财年生产33万台“Let's note”，主要面向商用客户销售。
+
+
+
+
+
+-----------------------------------------------------------20-----------------------------------------------------------
+0X20: 
+     [10.02]iPhone6国行17日发售，苹果来袭谁最害怕 
+
+iPhone6大陆10月17日正式上市
+9月30日，苹果官网称iPhone6已经获得核发进网许可证，目前iPhone 6三证具备（其他两证为无线电核准证、3C认证），只待发售。苹果官方将10月10号确定为iPhone 6大陆预售日期，10月17号大陆正式上市。
+苹果iPhone 6来袭，谁最害怕
+苹果iPhone 6来袭，最害怕的无疑是其竞争对手，在中国手机市场，能勉强在苹果面前露脸的有：三星、诺基亚、HTC、索尼移动、OPPO、华为、小米、魅族、联想、酷派等。那么谁才有资格去害怕苹果来袭呢？
+首先我们先看下价格上。
+苹果iPhone 6售价5288元起，这就把以性价比著称的小米，魅族排出在外了。从品牌均价来看，三星、苹果智能手机均价高处第一阵营，三星均价跨过3000大关，苹果均价跨过4000大关，在价格上，苹果来袭，三星是有资格去害怕的。而其他手机的均价在3000元以下，以高性价比为旗号的魅族、小米价格更低，从价格上和iPhone 6根本就不是一个层次，都可以排除在外。
+其次我们看下关注度。
+前瞻产业研究院发布的《2015-2020年中国手机行业市场前瞻与投资预测分析报告》数据显示，2014年6月，从智能手机品牌关注格局来看，三星以17.2%的关注比例居第一位，紧随其后的则是苹果，关注度为16.10%，三星和苹果可谓是第一梯队；第二梯队的华为、诺基亚、酷派、小米关注度在5-10%的区间。
+图表1：2014年6月中国智能手机市场品牌关注份额分布（单位：%）
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_084256_224.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+资料来源：前瞻产业研究院
+iPhone 6来袭，势必来拉低其他手机的关注度，由于其他品牌的关注度差苹果太大，所以，iPhone 6，对三星的手机关注度有比较明显的影响。
+第三我们看下产品。
+iPhone 6产品与以往的苹果系列最大的不同在于屏幕，iPhone6为4.7英寸，iPhone6 Plus为5.5英寸。而在以往的大屏手机市场，三星和联想稳坐大屏手机冠亚军位置，OPPO与索尼移动激烈争夺季军位。
+图表2：2013年Q1-Q4中国大屏手机市场品牌关注份额对比（单位：%）
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_084309_858.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+资料来源：前瞻产业研究院
+2013年三星占据大屏手机市场品牌关注份额35.4%的比例，联想占据14.1%的比例，所以，大屏iPhone6来袭，无疑会抢占大屏手机的关注度，受到威胁的品牌中，三星和联想是首当其冲，但由于联想在价格和关注度和苹果不是一个档次的品牌，所以收到威胁最大的品牌还是三星。
+无论从价格，还是关注度，亦或是屏幕，三星无疑是iPhone 6来袭最害怕的品牌。
+
+
+
+
+
+-----------------------------------------------------------21-----------------------------------------------------------
+0X21: 
+     [10.02]微软将在11月12日谈论Win10通用应用战略 
+
+Mary Jo Foley消息源称，微软将于11月12日在纽约召开面向开发者的发布会，只限邀请的开发者或CXO群体。微软预计将披露下一代Visual Studio（代号Visual Studio 14）的Beta，VS首个社区预览版已经在6月发布，正式版预计明年发布。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_094312_777.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+微软目前鼓励开发者开发通用Windows应用，称“为Windows10准备的最佳方式是继续开发通用Windows应用”。通用Windows应用是微软在 Build 2014大会上宣布的，并宣布将在Build 2015大会上进一步披露通用应用的细节，Build 2015暂定明年4月召开，但还没具体日期。预计下月12日的发布会也将会介绍Win10通用应用的战略。
+同时，微软也将在伦敦召开为期三天的Future Decoded开发者活动，活动日程包括了微软通用应用的战略、Power BI开发、物联网服务和企业移动套件的内容。
+
+
+
+
+
+-----------------------------------------------------------22-----------------------------------------------------------
+0X22: 
+     [10.02]iPhone6 Plus GPU跑分没跑过iPhone5s 
+
+根据最近一份针对iPhone 6的图形处理器基准测试结果来看，iPhone 6 Plus的视网膜高清显示屏的像素点高达210万，虽然在显示效果上明显提升，但是由此也导致了该机在原始分辨率下每秒图形帧数GPU 2D和3D图形处理能力上并不如iPhone 6，甚至包括iPhone 5s也有一些差距。
+之前AppleInsider网站在针对iPhone 6和iPhone 6 Plus的GFXBench 3.0 GPU基准测试中发现，在与iPhone 5s相比的情况下，苹果的新一代智能手机在得分上有了显著的提升。但是，一位测试软件的开发者Eszter Szilva随后与AppleInsider网站取得联系并表示，公开版的测试软件目前还并不完全兼容新iPhone 6 Plus的分辨率，并且他提供了最新的GFXBench 3.02测试版本。而这个版本将很快将会对外公布，AppleInsider则提前通过该版本对两款iPhone 6进行了重新测试，并且获得了与之前并不一致的结果。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_095309_4.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+更高的性能受到了更高像素的影响
+根据基准测试结果来看，在iPhone 6和iPhone 6 Plus上所采用的A8处理器在低等级测试中比上一代A7处理器性能提升了24%至46%。而在OpenGL ES等更高等级的测试中，性能更是提高了50%，并且是在1080p相同分辨率的情况下。
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_095309_38.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+苹果为A8处理器配备了四核心的Imagination系列6XT GPU，而根据媒体报道具体型号为GX6450。而上一代A7处理器采用了同为该系列的6XT“Rogue”GPU，但是型号为更低一级的GX6430。而A8处理器1.4GHz的主频也要比A7的1.3GHz略高一些。而包括A7和A8的速度则要远远超过在iPhone 5身上使用的A6处理器，大约是后者的2倍。
+虽然处理器要比iPhone 5s的A7整体高一个等级，但是这对iPhone 6来说负担依然不小，因为iPhone 6要比iPhone 5s拥有更高的像素。iPhone 5s屏幕的像素点为70万个，而在iPhone 6和iPhone 6 Plus上则分别提升到了100万及200万级别。iPhone 6 Plus的屏幕像素点具体为270万，而这也直接拉低了该机在GPU性能测试中的分数。
+苹果工程师为iPhone 6 Plus选择了更高的分辨率可以让第三方应用在5.5英寸的大屏幕上看起来拥有更好的效果，并且在日常使用中也看到了270万像素点渲染所带来的魅力，表面上看iPhone 6 Plus在显示效果上的确很好。但是这种做法似乎也有不利的意面，那就是iPhone 6 Plus实际的像素点已经接近了iPhone 5s的三倍，而这也导致了在原始分辨率测试中，iPhone6 Plus在负担更多像素点的情况下在每秒的帧率上甚至不如iPhone 5s。
+不同标准测试结果不同
+具体来说，在通过屏幕原始分辨率进行OpenGL ES 3.0 API的测试中，iPhone 6 Plus的分数比去年的iPhone 5s低了22%。在“Manhattan”测试场景中（同样测试分辨率为2208×1242，并且已经等比缩小到了1920×1080），iPhone 6 Plus的测试结果为19fps，这要比iPhone 5s（分辨率为1136×640）24.4fps的结果低了不少。而4.7英寸的iPhone 6（原始分辨率为1334×750）在该测试中的结果为26.6fps，比iPhone 5s的得分高出了9%。
+这意味着如果有某款游戏使用了最新的OpenGL ES 3.0 API，那么在呈现相同场景的情况下，iPhone 5s或iPhone 6将比iPhone 6 Plus表现得更平稳，细节更突出，而这一切都因为iPhone 6 Plus使用了更高的屏幕分辨率（而这个前提均是在原始分辨率的前提下，尽管目前大多数iOS平台游戏均还没有更新）。
+而任何现有的游戏如果没有针对本机分辨率进行刻意渲染，那么在等比例放大来适应iPhone 6的新屏幕尺寸的话，两款iPhone 6依然要比iPhone5s更顺畅一些。
+当然，GPU测试只是模拟了游戏的渲染场景，而在实际运行中，图形的呈现通常也与CPU的计算能力有关，比如物理参数和游戏AI。而A8处理器在整数和浮点计算能力上都比iPhone 5s的A7处理器速度快了20%左右。
+苹果公司之前还表示，新的A8处理器由于功耗更低与A7相比可以让设备的性能持续时间变得更长，这将有助于新机型在更高分辨率游戏的情况下更少的消耗电量。
+在早些时候的OpenGL ES 2.0 API基准测试中，iPhone 6 Plus的测试结果为41.5fps，比iPhone 5s的40.7fps高出了2%。但是与iPhone 6的49.9fps相比，iPhone 6 Plus还是败下阵来。不过考虑到iPhone 6的4.7英寸屏幕像素点还不到5.5英寸iPhone 6 Plus的一半，因此综合来看iPhone 6的得分要比iPhone 5s直接高出22%。
+在GFBench的“offscreen”场景测试中，iPhone 6在OpenGL ES 3.0的测试比iPhone 5s快了43%，比iPhone 6 Plus快了51%。在更低一级的OpenGL ES 2.0测试中，iPhone 6和iPhone 6 Plus均被iPhone 5s快了49%。同时在Alpha和混合测试中也要快了32%至46%。
+得益于Metal API
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_095309_61.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+在今年夏天的WWDC大会上苹果才刚刚公布最新的Metal API，因此目前GFXBench也无法针对现有游戏进行深入的测试。不过使用苹果Metal开发者可以绕过OpenGL ES，实现在相同的硬件条件下大幅提升图形性能。
+苹果专门为A7和A8处理器开发了全新的Metal技术，并且通过刚刚公布的iOS8系统在游戏性上实现大幅提升，而苹果表示目前已经有不少的游戏已经使用了Metal技术开发。通过Metal技术，游戏和其它以图形为主的应用程序都可以对GPU进行充分利用，并且还能可以让CPU和GPU协同工作，专为多线程设计，可以方便的与Xcode结合。Metal将允许在CPU和GPU之间协调不同的指令，而无需专门的图形缓存在二者之间不停的传递数据。
+Kishonti表示，目前他正针对GFXBench测试工具添加对Metal API的支持，并且让用户尽快的看到在OpenGL ES API测试平台上，通过Metal技术能够将现有硬件发挥到何种水平。
+
+
+
+
+
+-----------------------------------------------------------23-----------------------------------------------------------
+0X23: 
+     [10.02]雅虎抛售阿里巴巴股票入账94亿美元 
+
+据《财富》杂志网络版报道，根据雅虎向美国证券交易委员会(SEC)提交的文件，雅虎通过在阿里巴巴集团IPO交易中出售股票获益94亿美元。
+文件显示，雅虎在阿里IPO交易中出售了1.4亿股股票，入账94亿美元。IPO后，雅虎仍旧持有阿里3.83亿股股票，持股比例为15%。
+这笔意外之财代表着巨大投资回报，也为雅虎CEO玛丽莎・梅耶尔(Marissa Mayer)创造了重大机会。梅耶尔目前尚未表示会如何使用这笔资金，但她可能会进行收购，并回购股票以协助提升雅虎的股价。但是华尔街对于梅耶尔对这笔钱的管理能力持怀疑态度。除去现金储备和剩余亚洲投资，雅虎核心业务价值所剩无几。
+雅虎以每股68美元的发行价出售了部分阿里股份。截至周二收盘，阿里股价已上升至88.85美元。除了雅虎，软银还持有阿里34%股份。软银创始人孙正义也成为日本首富，净资产升至162亿美元。
+阿里IPO融资250亿美元，创下新纪录。阿里创始人马云一跃成为中国首富，净资产超过200亿美元。
+
+
+
+
+
+-----------------------------------------------------------24-----------------------------------------------------------
+0X24: 
+     [10.02]王思聪：我曾是字幕组的人 
+
+“国民老公”王思聪最近又自曝了一件让他的众多“女友”无比惊诧的事，他居然曾是字幕组的人！
+10月1日，“人人影视字幕站”在微博上指责土豆网引进的《美国之声》节目第2至6季中文均为盗取，并删掉了译者的名字。王思聪不仅转发了这一微博，还评论道，“作为一个以前也做过字幕组的人，最反感的就是别人：1.盗取自己作品。2.用自己的作品获得商业利益。按照土豆网的歪理，小贩非法摆摊我去抢就不犯法了？”
+=700) window.open('http://img.ithome.com/newsuploadfiles/2014/10/20141002_101610_593.jpg')" style="max-width:700pxmax-height:700px" onload="if(is_ie6&&this.offsetWidth>700)this.width=700" >
+此微博一发出，网友注意力拐了180度弯，评论里少有再关注人人字幕是否被盗之事，而是纷纷惊诧王思聪居然也做过字幕组。有网友希望他对自己富二代的身份有更深刻的认识而评论道，“一个富二代简直为这些操碎了心[呵呵]干点富二代该干的事。”“老公，你是在补贴家用，在争首富么？”还有网友起哄，要王思聪买下土豆网。“当然，更多的是他的一众“女友们”，依然锲而不舍的追问道，“啊，老公好棒，跟字幕组的人都做过，那也可以跟我做一次咯，么么哒！”
+
+
+
+
+
